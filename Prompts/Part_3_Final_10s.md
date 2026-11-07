@@ -209,12 +209,12 @@
 * **CHARACTER CONTINUITY:** `CHAR_NEELA` (23 in flashback, wearing a simple light pink cotton saree, crying and holding her mother's hands); `CHAR_HALIMA` (51 in flashback, white saree, holding `PROP_LAND_DEED`).
 * **SCENE:** Halima Begum's bedroom at night (Flashback: 7 years ago). Warm, slightly desaturated flashback lighting.
 * **ACTION AND TIMING:**
-  * `0–5s`: Young Neela holds her mother Halima's hands in tears, begging for her dying father's land deed to take a 50 Lakh bank loan.
-  * `5–9s`: Halima tearfully places the stamped land deed into Neela's hands.
-  * `9–10s`: Neela clutches the deed to her chest.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * নীলা (`CHAR_NEELA`): “মা, বাবার জমির দলিলটা দাও! ৫০ লাখ লোন না নিলে কাল পুলিশ রাকিবকে জেলে নেবে, আর বাবার চিকিৎসাও থেমে যাবে!”
-  * হালিমা বেগম (`CHAR_HALIMA`): “এই নে মা, তোর বাবার শেষ সম্বল!”
+  * `0–5s`: Young Neela holds her mother Halima's hands in tears, begging for her father's land deed to take the bank loan and save Rakib and her father.
+  * `5–8s`: Halima tearfully places the stamped land deed into Neela's hands.
+  * `8–10s`: Neela clutches the deed to her chest.
+* **DIALOGUE — EXACT BENGALI LINES (17 words):**
+  * নীলা (`CHAR_NEELA`): “মা, বাবার দলিলটা দাও! লোন না নিলে রাকিব আর বাবাকে বাঁচাব কী করে?”
+  * হালিমা বেগম (`CHAR_HALIMA`): “এই নে মা দলিলটা!”
 * **CAMERA:** Emotional close two-shot in warm flashback tones.
 * **PERFORMANCE AND AUDIO:** Desperate, youthful tearful plea from Neela; choked maternal sacrifice from Halima.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Flashback wardrobe for Neela (light pink cotton saree). No subtitles.

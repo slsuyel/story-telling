@@ -141,12 +141,12 @@
 * **CHARACTER CONTINUITY:** `CHAR_SHAFIQUL` (40, bank officer); `CHAR_RAKIB` (35, holding `PROP_RED_NOTICE`); `CHAR_NEELA` (30, standing behind Rakib in tears).
 * **SCENE:** Apartment front doorway. Day 1, 8:31 AM (immediately after Clip 003).
 * **ACTION AND TIMING:**
-  * `0–5s`: Shafiqul hands the red-stamped 'Final Legal Notice' envelope to Rakib and states the exact arrears.
-  * `5–8s`: Rakib stares at the figures on the sheet and repeats them in shock.
+  * `0–5s`: Shafiqul points to the original 50 Lakh loan and the 28 Lakh current payoff box on the red notice.
+  * `5–8s`: Rakib stares at the current payoff balance and repeats it in shock.
   * `8–10s`: Shafiqul nods gravely.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * ব্যাংক কর্মকর্তা (`CHAR_SHAFIQUL`): “মূল ঋণ ৫০ লাখ টাকা। আট মাস কিস্তি বন্ধ থাকায় এখন ২৮ লাখ টাকা বকেয়া।”
-  * রাকিব (`CHAR_RAKIB`): “আট মাস কিস্তি বন্ধ?! ২৮ লাখ বকেয়া?!”
+* **DIALOGUE — EXACT BENGALI LINES (18 words):**
+  * ব্যাংক কর্মকর্তা (`CHAR_SHAFIQUL`): “মূল লোন ৫০ লাখ। আট মাস কিস্তি বন্ধ থাকায় এখন বর্তমান বকেয়া ২৮ লাখ।”
+  * রাকিব (`CHAR_RAKIB`): “বর্তমান বকেয়া ২৮ লাখ?!”
 * **CAMERA:** Medium two-shot favoring Rakib and Shafiqul at the doorway.
 * **PERFORMANCE AND AUDIO:** Formal tone from Shafiqul; stunned, breathless voice from Rakib. Paper rustle.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Exact 50L and 28L figures preserved. No subtitles.
@@ -540,28 +540,29 @@
 
 #### CLIP 035 — 76 MONTHS OF SPLIT INSTALLMENTS: 45.6 LAKH PAID (OPTIMIZED PRIORITY CLIP)
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_SHAFIQUL` (40, tracing the 76-month deposit columns with his pen); `CHAR_RAKIB` (35, leaning over the desk in surprise).
+* **CHARACTER CONTINUITY:** `CHAR_SHAFIQUL` (40, tracing the two 76-month deposit columns with his pen); `CHAR_RAKIB` (35, leaning over the desk in surprise).
 * **SCENE:** Bank officer's desk. Day 1, 10:35 AM.
 * **ACTION AND TIMING:**
-  * `0–6s`: Shafiqul traces the two parallel 76-month installment columns (22.8L bank transfer and 22.8L cash) on `PROP_LOAN_STATEMENT`.
-  * `6–10s`: Rakib stares at the bank transfer column and asks who sent the transfers.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
+  * `0–4s`: Shafiqul points to the first column showing 76 monthly 30,000 Taka bank transfers (22.8 Lakh).
+  * `4–8s`: He traces the second column showing 76 monthly 30,000 Taka cash deposits by Neela and her mother (22.8 Lakh), totaling 45.6 Lakh.
+  * `8–10s`: Rakib stares at the two columns in stunned silence.
+* **DIALOGUE — EXACT BENGALI LINES (20 words):**
   * ব্যাংক কর্মকর্তা (`CHAR_SHAFIQUL`): “৭৬ মাসে ট্রান্সফারে ২২ লাখ ৮০ হাজার আর নগদে ২২ লাখ ৮০ হাজার—মোট ৪৫ লাখ ৬০ হাজার জমা হয়েছে।”
-  * রাকিব (`CHAR_RAKIB`): “ট্রান্সফারে কে দিয়েছে?”
 * **CAMERA:** Tight over-the-shoulder shot on `PROP_LOAN_STATEMENT` and Rakib's furrowed brow.
-* **PERFORMANCE AND AUDIO:** Clear banking explanation; sharp question from Rakib.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Exact math (`22.8L + 22.8L = 45.6L`) preserved. No subtitles.
+* **PERFORMANCE AND AUDIO:** Clear, unhurried banking explanation from Shafiqul. Only `CHAR_SHAFIQUL` speaks.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Exact math (`22.8L transfer + 22.8L cash = 45.6L paid over 76 months`) preserved. No subtitles.
 
 #### CLIP 036 — THE 28 LAKH CURRENT PAYOFF BALANCE (OPTIMIZED PRIORITY CLIP)
 * **DURATION:** Exactly 10 seconds.
 * **CHARACTER CONTINUITY:** `CHAR_SHAFIQUL` (40, pointing to the bottom payoff box); `CHAR_RAKIB` (35, reading the balance).
 * **SCENE:** Bank officer's desk. Day 1, 10:37 AM.
 * **ACTION AND TIMING:**
-  * `0–6s`: Shafiqul points to the bottom box showing 24 Lakh principal plus 4 Lakh overdue interest and penalties over 8 months.
-  * `6–10s`: Rakib stares at the 28 Lakh total payoff figure in dismay.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * ব্যাংক কর্মকর্তা (`CHAR_SHAFIQUL`): “স্টেটমেন্ট অনুযায়ী আসল বাকি ২৪ লাখ। ৮ মাস কিস্তি বন্ধ থাকায় সুদ-পেনাল্টি ৪ লাখ মিলে বকেয়া ২৮ লাখ।”
-  * রাকিব (`CHAR_RAKIB`): “আট মাসে ২৮ লাখ বকেয়া?!”
+  * `0–5s`: Shafiqul points to the bottom payoff box showing 24 Lakh remaining principal plus 4 Lakh overdue interest and penalties.
+  * `5–8s`: Rakib stares at the 28 Lakh payoff figure and repeats it in dismay.
+  * `8–10s`: Shafiqul nods gravely.
+* **DIALOGUE — EXACT BENGALI LINES (17 words):**
+  * ব্যাংক কর্মকর্তা (`CHAR_SHAFIQUL`): “আসল বাকি ২৪ লাখ, আর আট মাসের সুদ-পেনাল্টি ৪ লাখ—মোট বকেয়া ২৮ লাখ।”
+  * রাকিব (`CHAR_RAKIB`): “মোট বকেয়া ২৮ লাখ?!”
 * **CAMERA:** Medium two-shot across the desk.
 * **PERFORMANCE AND AUDIO:** Factual tone from Shafiqul; stunned whisper from Rakib.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Exact math (`24L + 4L = 28L`) preserved. No subtitles.
@@ -574,9 +575,9 @@
   * `0–4s`: Rakib asks what his wife did with the original 50 Lakh loan amount.
   * `4–8s`: Shafiqul flips to the disbursement page and points to a single wire transfer entry.
   * `8–10s`: Rakib freezes in shock.
-* **DIALOGUE — EXACT BENGALI LINES (23 words):**
-  * রাকিব (`CHAR_RAKIB`): “কিন্তু সাত বছর আগে মূল ৫০ লাখ টাকা তুলে ও কী করেছিল?”
-  * ব্যাংক কর্মকর্তা (`CHAR_SHAFIQUL`): “পরদিনই পুরো ৫০ লাখ টাকা অন্য একটি অ্যাকাউন্টে ট্রান্সফার করা হয়েছিল!”
+* **DIALOGUE — EXACT BENGALI LINES (16 words):**
+  * রাকিব (`CHAR_RAKIB`): “কিন্তু মূল ৫০ লাখ টাকা ও কী করেছিল?”
+  * ব্যাংক কর্মকর্তা (`CHAR_SHAFIQUL`): “পরদিনই পুরো ৫০ লাখ অন্য অ্যাকাউন্টে ট্রান্সফার হয়েছিল!”
 * **CAMERA:** Push-in medium close-up on Rakib as Twist 1 lands.
 * **PERFORMANCE AND AUDIO:** Tense question from Rakib; pivotal revelation from Shafiqul.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
@@ -595,20 +596,20 @@
 * **PERFORMANCE AND AUDIO:** Calm reading by Shafiqul; stunned, hollow whisper from Rakib.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
 
-#### CLIP 039 — THE MONTHLY INSTALLMENTS ALSO CAME FROM TANVIR (OPTIMIZED PRIORITY CLIP)
+#### CLIP 039 — THE MONTHLY BANK TRANSFERS ALSO CAME FROM TANVIR (OPTIMIZED PRIORITY CLIP)
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, scanning the monthly transfer column on `PROP_LOAN_STATEMENT`); `CHAR_SHAFIQUL` (40, nodding).
+* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, scanning the monthly bank-transfer column on `PROP_LOAN_STATEMENT`); `CHAR_SHAFIQUL` (40, nodding).
 * **SCENE:** Bank officer's desk. Day 1, 10:43 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Rakib notices the same name—Tanvir Hasan—on all 76 monthly 30,000 Taka transfer entries.
-  * `5–9s`: Shafiqul confirms it quietly while Rakib grips the paper tightly.
-  * `9–10s`: Rakib's eyes darken with heartbreak and rage.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
-  * রাকিব (`CHAR_RAKIB`): “৫০ লাখ গেছে তানভীরের অ্যাকাউন্টে, আবার কিস্তিও আসত ওর কাছ থেকে?!”
-  * ব্যাংক কর্মকর্তা (`CHAR_SHAFIQUL`): “জি, ৭৬ মাস ওই অ্যাকাউন্ট থেকেই ৩০ হাজার করে এসেছে।”
+  * `0–4s`: Rakib traces the 76 monthly 30,000 Taka bank-transfer entries and sees Tanvir Hasan's name on all of them.
+  * `4–8s`: Shafiqul confirms that the entire 22.8 Lakh bank-transfer portion came from Tanvir's account.
+  * `8–10s`: Rakib's eyes darken with heartbreak and suspicion.
+* **DIALOGUE — EXACT BENGALI LINES (20 words):**
+  * রাকিব (`CHAR_RAKIB`): “মাসিক ৩০ হাজারের ব্যাংক ট্রান্সফারও তানভীরের অ্যাকাউন্ট থেকে আসত?!”
+  * ব্যাংক কর্মকর্তা (`CHAR_SHAFIQUL`): “জি, ৭৬ মাসে ট্রান্সফারের ২২ লাখ ৮০ হাজার ওখান থেকেই এসেছে।”
 * **CAMERA:** Medium close-up showing Rakib's trembling hands holding the paper.
 * **PERFORMANCE AND AUDIO:** Broken disbelief from Rakib; quiet confirmation from Shafiqul.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Consistent split-installment math (`22.8L from Tanvir via bank transfer + 22.8L cash from Neela & mother`) preserved. No subtitles.
 
 #### CLIP 040 — RAKIB WALKS OUT HAUNTED BY DOUBT
 * **DURATION:** Exactly 10 seconds.
@@ -699,3 +700,4 @@
 * **CAMERA:** Dynamic push-in from medium two-shot to tight close-up.
 * **PERFORMANCE AND AUDIO:** Explosive heartbreak from Rakib; terrified gasp from Neela. Paper rattle.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** End of Part 1 (Clip 045 of 180). Seamless transition to Clip 046 in `Part_2_Final_10s.md`. No subtitles.
+

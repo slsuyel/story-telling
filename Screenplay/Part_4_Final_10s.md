@@ -100,12 +100,11 @@
 * **CHARACTER CONTINUITY:** `CHAR_TANVIR` (38, cream shirt and brown blazer) and `CHAR_ANISUR` (48, senior Supreme Court advocate, glasses, greying hair, white shirt and black lawyer coat, holding a legal portfolio) stepping into the living room; `CHAR_JAMAL` (42, shocked).
 * **SCENE:** Living room entrance. Day 2, 2:40 PM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Tanvir Hasan walks in through the front door accompanied by Supreme Court Advocate Anisur Rahman holding a legal file.
-  * `4–8s`: Tanvir informs Jamal that all criminal evidence of his 40 Lakh embezzlement and forgery is now in their lawyer's hands.
+  * `0–3s`: Tanvir Hasan steps in through the front door alongside Supreme Court Advocate Anisur Rahman holding a legal file.
+  * `3–8s`: Tanvir informs Jamal that all proof of his 40 Lakh embezzlement and forgery is in their lawyer's hands.
   * `8–10s`: Jamal stares at the lawyer in panic.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
-  * তানভীর (`CHAR_TANVIR`): “ব্যাংক লোনের ফাইল আলাদা হতে পারে জামাল সাহেব,”
-  * তানভীর (`CHAR_TANVIR`): “কিন্তু ৪০ লাখ আত্মসাৎ ও স্বাক্ষর জালিয়াতির প্রমাণ এখন আমাদের আইনজীবীর হাতে!”
+* **DIALOGUE — EXACT BENGALI LINES (16 words):**
+  * তানভীর (`CHAR_TANVIR`): “ব্যাংক লোন আলাদা জামাল সাহেব, কিন্তু আপনার ৪০ লাখ আত্মসাৎ ও জালিয়াতির প্রমাণ আমাদের উকিলের হাতে!”
 * **CAMERA:** Medium wide shot capturing the authoritative entrance of Tanvir and Advocate Anisur.
 * **PERFORMANCE AND AUDIO:** Firm, commanding voice from Tanvir; footsteps entering. Only `CHAR_TANVIR` speaks.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Introduce `CHAR_ANISUR` with exact locked appearance. No subtitles.
@@ -115,25 +114,25 @@
 * **CHARACTER CONTINUITY:** `CHAR_ANISUR` (48, opening his legal portfolio and addressing Jamal); `CHAR_JAMAL` (42, sweating).
 * **SCENE:** Living room. Day 2, 2:42 PM.
 * **ACTION AND TIMING:**
-  * `0–6s`: Advocate Anisur Rahman opens his legal folder and clearly lays out the three separate issues facing Jamal.
-  * `6–10s`: Jamal swallows hard as he sees the drafted charge documents.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * আইনজীবী (`CHAR_ANISUR`): “জামাল সাহেব, এখানে তিনটি আলাদা বিষয় রয়েছে—এক, আপনার আত্মসাৎকৃত ৪০ লাখ টাকা ফেরত; দুই, ব্যাংকের ঋণ শোধ; এবং তিন, জালিয়াতির ফৌজদারি মামলা!”
+  * `0–3s`: Advocate Anisur Rahman opens his legal folder and faces Jamal sternly.
+  * `3–8s`: He states the three distinct legal and financial obligations facing Jamal.
+  * `8–10s`: Jamal swallows hard in fear.
+* **DIALOGUE — EXACT BENGALI LINES (16 words):**
+  * আইনজীবী (`CHAR_ANISUR`): “এখানে তিনটি বিষয় আলাদা—আত্মসাৎকৃত ৪০ লাখ ফেরত, ব্যাংকের ঋণ শোধ, এবং স্বাক্ষর জালিয়াতির ফৌজদারি মামলা!”
 * **CAMERA:** Medium two-shot favoring Advocate Anisur Rahman's authoritative presence.
 * **PERFORMANCE AND AUDIO:** Deep, authoritative courtroom voice from Anisur. Only `CHAR_ANISUR` speaks.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Three separate issues clearly stated. No subtitles.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Three separate issues clearly stated within 16 words. No subtitles.
 
 #### CLIP 144 — JAMAL PANICS AT THE CRIMINAL CASE
 * **DURATION:** Exactly 10 seconds.
 * **CHARACTER CONTINUITY:** `CHAR_JAMAL` (42, arrogance crumbling into panic, pleading with Rakib and the lawyer); `CHAR_RAKIB` (35, unmoved); `CHAR_ANISUR` (48, stern).
 * **SCENE:** Living room. Day 2, 2:44 PM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Terrified of prison, Jamal grabs Rakib's arm and asks the lawyer if returning the full 40 Lakh right now will automatically end the criminal case.
-  * `5–9s`: Rakib pulls his arm away from Jamal.
-  * `9–10s`: Advocate Anisur raises a hand to state the law.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
-  * জামাল (`CHAR_JAMAL`): “রাকিব, আমাকে জেলে পাঠাস না ভাই!”
-  * জামাল (`CHAR_JAMAL`): “আমি আত্মসাৎ করা পুরো ৪০ লাখ এখনই ফেরত দিলে তো মামলা শেষ হয়ে যাবে, তাই না উকিল সাহেব?”
+  * `0–5s`: Terrified of prison, Jamal pleads with Rakib and asks the lawyer if returning the full 40 Lakh now will end the case.
+  * `5–8s`: Rakib steps back coldly.
+  * `8–10s`: Advocate Anisur raises a hand to state the law.
+* **DIALOGUE — EXACT BENGALI LINES (17 words):**
+  * জামাল (`CHAR_JAMAL`): “রাকিব, আমাকে জেলে পাঠাস না! পুরো ৪০ লাখ এখনই ফেরত দিলে তো মামলা শেষ হবে উকিল সাহেব?”
 * **CAMERA:** Medium three-shot on Jamal, Rakib, and Advocate Anisur.
 * **PERFORMANCE AND AUDIO:** Panicked, trembling plea from Jamal. Only `CHAR_JAMAL` speaks.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
@@ -143,14 +142,15 @@
 * **CHARACTER CONTINUITY:** `CHAR_ANISUR` (48, speaking with grave legal precision); `CHAR_JAMAL` (42, listening in dread).
 * **SCENE:** Living room. Day 2, 2:45 PM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Advocate Anisur states clearly that merely returning the money does not automatically erase a criminal forgery and embezzlement offense.
-  * `5–10s`: He explains that they will submit proof of restitution and a compromise petition to the court, and the court will decide according to the law.
-* **DIALOGUE — EXACT BENGALI LINES (24 words):**
-  * আইনজীবী (`CHAR_ANISUR`): “টাকা ফেরত দিলেও আপনার বিরুদ্ধে অভিযোগের বিষয়টি শেষ হয়ে যাবে না।”
-  * আইনজীবী (`CHAR_ANISUR`): “আমরা আদালতে অর্থ ফেরতের প্রমাণ ও আপসের আবেদন দেব—আদালত আইন অনুযায়ী সিদ্ধান্ত নেবে।”
+  * `0–4s`: Advocate Anisur states clearly that returning the money does not automatically end a criminal case.
+  * `4–9s`: He explains they will submit proof of restitution and a compromise petition, and the court will decide according to the law.
+  * `9–10s`: Jamal lowers his head in dread.
+* **DIALOGUE — EXACT BENGALI LINES (19 words):**
+  * আইনজীবী (`CHAR_ANISUR`): “টাকা ফেরত দিলেই ফৌজদারি মামলা আপনাআপনি শেষ হয় না।”
+  * আইনজীবী (`CHAR_ANISUR`): “আমরা অর্থ ফেরতের প্রমাণ ও আপসের আবেদন দেব—আদালত সিদ্ধান্ত নেবে।”
 * **CAMERA:** Close-up on Advocate Anisur Rahman panning slightly to Jamal's pale face.
 * **PERFORMANCE AND AUDIO:** Crisp, realistic legal delivery from Anisur. Only `CHAR_ANISUR` speaks.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Exact realistic legal principle preserved. No subtitles.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Exact realistic legal principle preserved (restitution does not automatically end a criminal case; lawyer submits restitution proof and compromise application, and court decides according to law). No subtitles.
 
 #### CLIP 146 — JAMAL FOLDS HIS HANDS BEFORE NEELA
 * **DURATION:** Exactly 10 seconds.
@@ -276,12 +276,12 @@
 * **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, folding his hands in apology before Tanvir); `CHAR_TANVIR` (38, holding Rakib's hands warmly).
 * **SCENE:** Living room. Day 2, 3:03 PM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Rakib folds his hands before Tanvir and apologizes for misbehaving at his office earlier that morning.
-  * `4–9s`: Tanvir holds Rakib's hands warmly and says he is glad to have repaid a small part of his debt to his sister Neela.
-  * `9–10s`: The two men share a respectful nod.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * রাকিব (`CHAR_RAKIB`): “তানভীর ভাই, না জেনে আজ সকালে আপনার অফিসে যে দুর্ব্যবহার করেছি, আমাকে ক্ষমা করবেন।”
-  * তানভীর (`CHAR_TANVIR`): “লজ্জা দেবেন না রাকিব সাহেব, আজ আমি বোনটার ঋণ কিছুটা শোধ করতে পারলাম।”
+  * `0–4s`: Rakib folds his hands before Tanvir and apologizes for misbehaving earlier that morning.
+  * `4–8s`: Tanvir holds Rakib's hands warmly and says he is glad to repay a part of his debt to his sister.
+  * `8–10s`: The two men share a respectful nod.
+* **DIALOGUE — EXACT BENGALI LINES (16 words):**
+  * রাকিব (`CHAR_RAKIB`): “তানভীর ভাই, না জেনে দুর্ব্যবহার করেছি, ক্ষমা করবেন।”
+  * তানভীর (`CHAR_TANVIR`): “লজ্জা দেবেন না, বোনটার ঋণ কিছুটা শোধ করলাম।”
 * **CAMERA:** Medium two-shot at eye level.
 * **PERFORMANCE AND AUDIO:** Humble apology from Rakib; warm, gracious reply from Tanvir.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
@@ -442,12 +442,12 @@
 * **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, pledging to rebuild their savings); `CHAR_NEELA` (30, smiling warmly through tears).
 * **SCENE:** Living room. Day 2, 3:23 PM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Rakib pledges that the remaining 10 Lakh 80 Thousand Taka paid by Neela and her mother will be rebuilt by the two of them working together.
-  * `5–9s`: Neela smiles through her tears and replies with complete faith in their partnership.
+  * `0–5s`: Rakib pledges that the remaining 10 Lakh 80 Thousand Taka gap will be rebuilt by the two of them working together.
+  * `5–9s`: Neela smiles through her tears and replies with complete faith in him.
   * `9–10s`: They hold hands warmly.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * রাকিব (`CHAR_RAKIB`): “বাকি যে ১০ লাখ ৮০ হাজার তুমি আর আম্মা দিয়েছ, তা আমরা দুজন পরিশ্রম করে পুষিয়ে দেব!”
-  * নীলা (`CHAR_NEELA`): “তুমি পাশে থাকলে আমাদের কোনো অভাবই থাকবে না রাকিব।”
+* **DIALOGUE — EXACT BENGALI LINES (18 words):**
+  * রাকিব (`CHAR_RAKIB`): “বাকি ১০ লাখ ৮০ হাজার আমরা দুজন মিলে পরিশ্রম করে পুষিয়ে দেব!”
+  * নীলা (`CHAR_NEELA`): “তুমি পাশে থাকলেই আমার চলবে রাকিব।”
 * **CAMERA:** Warm medium close-up two-shot.
 * **PERFORMANCE AND AUDIO:** Hopeful, loving exchange.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Exact `22.8L - 12L = 10.8L` contribution gap preserved cleanly across Clips 164–165. No subtitles.
@@ -672,3 +672,4 @@
 * **CAMERA:** Slow pull-back wide shot ending in a smooth 3-second fade to pure black.
 * **PERFORMANCE AND AUDIO:** Soft, happy laughter of little Meher fading gently into silence. No spoken dialogue.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** End of Clip 180 of 180 (30:00 Total Runtime). Strictly NO end-title text, NO credits, NO watermarks, NO subtitles—pure fade to black.
+

@@ -174,20 +174,20 @@
 * **PERFORMANCE AND AUDIO:** Soft click of the lock turning, metallic scrape of the tin box lid. No dialogue.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Silent clip. Establish `PROP_TIN_BOX`. No subtitles.
 
-#### CLIP 057 — 76 MONTHLY CASH DEPOSIT SLIPS
+#### CLIP 057 — 76 MONTHLY CASH DEPOSIT SLIPS (NEELA 20K + MOTHER 10K)
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, crouching by the wardrobe, holding a thick bundle of pink bank deposit slips from `PROP_TIN_BOX`).
+* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, crouching by the wardrobe, holding a thick bundle of 76 pink bank deposit slips with a handwritten ledger note pinned on top from `PROP_TIN_BOX`).
 * **SCENE:** Master bedroom floor by the wardrobe. Night 1, 1:36 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Rakib pulls out a rubber-banded bundle of 76 bank cash deposit receipts and flips through them.
-  * `4–9s`: Seeing "30,000 Taka" stamped on each monthly receipt, he whispers in astonishment.
+  * `0–4s`: Rakib pulls out the bundle of 76 bank cash deposit receipts and reads Neela's handwritten calculation note pinned to the top slip (`সেলাই ও টিউশনি ২০,০০০ + মায়ের পেনশন ১০,০০০ = ৩০,০০০ টাকা`).
+  * `4–9s`: Realizing that Neela and her mother combined their savings every month for 76 months, he whispers in astonishment.
   * `9–10s`: He notices a white envelope underneath the receipts in the box.
-* **DIALOGUE — EXACT BENGALI LINES (16 words):**
-  * রাকিব (`CHAR_RAKIB`): “ব্যাংকের কিস্তির রশিদ...”
-  * রাকিব (`CHAR_RAKIB`): “ছয় বছর চার মাস ধরে প্রতি মাসে ৩০ হাজার টাকা নগদ জমা দিয়েছে!”
-* **CAMERA:** Close-up on the bundle of bank slips tilting up to Rakib's face.
+* **DIALOGUE — EXACT BENGALI LINES (18 words):**
+  * রাকিব (`CHAR_RAKIB`): “সেলাই-টিউশনির ২০ হাজার আর আম্মার পেনশনের ১০ হাজার...”
+  * রাকিব (`CHAR_RAKIB`): “মা-মেয়ে মিলে ৭৬ মাস ৩০ হাজার করে জমা দিয়েছে!”
+* **CAMERA:** Close-up on the pinned breakdown note and bundle of bank slips tilting up to Rakib's stunned face.
 * **PERFORMANCE AND AUDIO:** Hushed, stunned whisper from Rakib; crisp paper flipping sound.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Only `CHAR_RAKIB` speaks. Unified 76-month / 30k math preserved. No subtitles.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Only `CHAR_RAKIB` speaks. Visually and narratively clear that the ৳30,000 monthly cash deposit is the combined contribution of Neela (৳20,000) and her mother (৳10,000) over 76 months (৳22.8L total). No subtitles.
 
 #### CLIP 058 — TWIST 2: THE STRANGER'S PHOTOGRAPH
 * **DURATION:** Exactly 10 seconds.
@@ -335,9 +335,9 @@
   * `0–5s`: Rakib confronts Halima about mortgaging her late husband's land to give 50 Lakh to Tanvir.
   * `5–9s`: Halima clasps her hands to her chest in shock at his misunderstanding.
   * `9–10s`: Tears well up behind Halima's glasses.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * রাকিব (`CHAR_RAKIB`): “বাবার শেষ জমি বন্ধক রেখে নীলা তানভীরকে ৫০ লাখ টাকা দিয়েছে! আপনি সায় দিলেন কীভাবে?”
-  * হালিমা বেগম (`CHAR_HALIMA`): “হায় আল্লাহ... তুইও শেষ পর্যন্ত আমার মেয়েটাকে ভুল বুঝলি বাবা?!”
+* **DIALOGUE — EXACT BENGALI LINES (17 words):**
+  * রাকিব (`CHAR_RAKIB`): “জমি বন্ধক রেখে নীলা তানভীরকে ৫০ লাখ দিয়েছে! আপনি জানতেন আম্মা?”
+  * হালিমা বেগম (`CHAR_HALIMA`): “তুইও আমার মেয়েটাকে ভুল বুঝলি বাবা?!”
 * **CAMERA:** Medium two-shot inside the old living room.
 * **PERFORMANCE AND AUDIO:** Angry accusation from Rakib; heartbroken gasp from Halima.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
@@ -362,12 +362,12 @@
 * **CHARACTER CONTINUITY:** `CHAR_HALIMA` (58, looking earnestly into Rakib's eyes); `CHAR_RAKIB` (35, listening in growing bewilderment).
 * **SCENE:** Halima's living room. Day 2, 8:06 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Halima reminds Rakib of the week seven years ago when her husband had cancer and Rakib was unconscious with typhoid.
-  * `5–9s`: Rakib recalls his illness and asks what happened then.
+  * `0–5s`: Halima reminds Rakib of the week seven years ago when he was unconscious with typhoid.
+  * `5–9s`: Rakib replies that his elder brother Jamal handled everything then.
   * `9–10s`: Halima shakes her head sorrowfully.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * হালিমা বেগম (`CHAR_HALIMA`): “সাত বছর আগে তোর শ্বশুর যখন মৃত্যুশয্যায় আর তুই টাইফয়েডে অচেতন, তখন কী ঘটেছিল জানিস?”
-  * রাকিব (`CHAR_RAKIB`): “তখন তো আমার ব্যবসায় ক্ষতি হয়েছিল, আর ভাইজান সব মিটিয়েছিলেন!”
+* **DIALOGUE — EXACT BENGALI LINES (16 words):**
+  * হালিমা বেগম (`CHAR_HALIMA`): “সাত বছর আগে তুই যখন টাইফয়েডে অচেতন, তখন কী ঘটেছিল জানিস?”
+  * রাকিব (`CHAR_RAKIB`): “তখন তো ভাইজান সব সামলেছিলেন!”
 * **CAMERA:** Medium two-shot at eye level.
 * **PERFORMANCE AND AUDIO:** Grave, emotional tone from Halima; defensive confusion from Rakib.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
@@ -467,12 +467,12 @@
 * **CHARACTER CONTINUITY:** `CHAR_HALIMA` (58, handing Rakib an old hospital file); `CHAR_RAKIB` (35, looking at the hospital file in shock).
 * **SCENE:** Halima's living room. Day 2, 8:18 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Halima hands Rakib her late husband's old cancer hospital file and explains the exact 50 Lakh breakdown.
-  * `5–9s`: Rakib looks at the hospital bill and repeats the 45 Lakh business figure in shock.
-  * `9–10s`: Halima nods gravely.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * হালিমা বেগম (`CHAR_HALIMA`): “পঞ্চাশ লাখের মধ্যে ৫ লাখ লেগেছিল তোর শ্বশুরের ক্যান্সার হাসপাতালে, ৫ লাখ তোর ব্যবসার দেনায়, আর ৪০ লাখ ছিল তানভীরের পাওনা!”
-  * রাকিব (`CHAR_RAKIB`): “তানভীরের পাওনা ৪০ লাখ?!”
+  * `0–5s`: Halima hands Rakib her late husband's old cancer hospital file and states the exact 50 Lakh breakdown.
+  * `5–8s`: Rakib looks at the file and repeats the 40 Lakh figure in shock.
+  * `8–10s`: Halima nods gravely.
+* **DIALOGUE — EXACT BENGALI LINES (18 words):**
+  * হালিমা বেগম (`CHAR_HALIMA`): “৫ লাখ তোর শ্বশুরের হাসপাতালে, ৫ লাখ তোর ব্যবসায়, আর ৪০ লাখ ছিল তানভীরের পাওনা!”
+  * রাকিব (`CHAR_RAKIB`): “তানভীরের ৪০ লাখ?!”
 * **CAMERA:** Medium two-shot showing the old hospital file between them.
 * **PERFORMANCE AND AUDIO:** Clear emotional delivery from Halima; stunned reaction from Rakib.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Exact breakdown (`5L + 5L + 40L = 50L`) preserved. No subtitles.
@@ -541,20 +541,20 @@
 * **PERFORMANCE AND AUDIO:** Raw, tearful outburst from Neela; sharp, cold command from Jamal.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
 
-#### CLIP 081 — THE BROKEN PROMISE OF THE UNDERTAKING
+#### CLIP 081 — WHY THE LAST 8 MONTHS STOPPED
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAMAL` (42, sitting arrogantly on the sofa); `CHAR_NEELA` (30, standing before him, accusing him of breaking his signed promise).
+* **CHARACTER CONTINUITY:** `CHAR_JAMAL` (42, sitting arrogantly on the sofa); `CHAR_NEELA` (30, standing before him, explaining why the final 8 months of EMIs stopped).
 * **SCENE:** Living room. Day 2, 9:34 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Jamal sits on the sofa and blames Neela for stopping the installments over the last 8 months.
-  * `4–9s`: Neela reminds him that he signed an undertaking to repay the 40 Lakh within two years but paid nothing.
-  * `9–10s`: Jamal's eyes narrow angrily.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * জামাল (`CHAR_JAMAL`): “ছয় বছর চার মাস তো কিস্তি চালালে, হঠাৎ আট মাস বন্ধ করলে কেন?”
-  * নীলা (`CHAR_NEELA`): “মায়ের অসুস্থতায় আর পারিনি! আপনি তো অঙ্গীকারনামায় সই করেও এক টাকাও দেননি!”
+  * `0–3s`: Jamal sits on the sofa and asks why Neela stopped paying the installments for the last 8 months.
+  * `3–9s`: Neela explains that once Tanvir's monthly 30,000 Taka transfer stopped, she could not pay the full 60,000 Taka installment alone.
+  * `9–10s`: Jamal's eyes narrow coldly.
+* **DIALOGUE — EXACT BENGALI LINES (19 words):**
+  * জামাল (`CHAR_JAMAL`): “আট মাস কিস্তি বন্ধ করলে কেন?”
+  * নীলা (`CHAR_NEELA`): “তানভীর ভাইয়ের ৩০ হাজার বন্ধ হওয়ায় একা ৬০ হাজারের কিস্তি দেওয়া আমার পক্ষে সম্ভব হয়নি!”
 * **CAMERA:** Over-the-shoulder two-shot between Jamal on the sofa and Neela standing.
-* **PERFORMANCE AND AUDIO:** Arrogant tone from Jamal; fierce, wounded reply from Neela.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Unified 6 years 4 months / 8 months math preserved. No subtitles.
+* **PERFORMANCE AND AUDIO:** Arrogant tone from Jamal; anguished, clear explanation from Neela.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Clearly explains why the final 8 months stopped: Tanvir's ৳30,000 monthly contribution stopped and Neela could not independently pay the full ৳60,000 EMI. No subtitles.
 
 #### CLIP 082 — JAMAL'S VICIOUS WARNING
 * **DURATION:** Exactly 10 seconds.
@@ -592,11 +592,11 @@
 * **SCENE:** Living room. Day 2, 9:40 AM.
 * **ACTION AND TIMING:**
   * `0–4s`: Neela reminds Jamal that he was the one who took the company money.
-  * `4–9s`: Jamal sneers that Rakib reveres him like a father and will never believe a wife who sent 50 Lakh to Tanvir.
-  * `9–10s`: Neela looks down in helpless despair.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * নীলা (`CHAR_NEELA`): “কোম্পানির ফান্ডের টাকা তো আপনি সরিয়েছিলেন ভাইজান!”
-  * জামাল (`CHAR_JAMAL`): “রাকিব আমাকে বাবার মতো মানে—ও কি আমার কথা বিশ্বাস করবে, নাকি তানভীরকে টাকা পাঠানো স্ত্রীর কথা?”
+  * `4–8s`: Jamal sneers that Rakib reveres him like a father and will never believe her over him.
+  * `8–10s`: Neela looks down in helpless despair.
+* **DIALOGUE — EXACT BENGALI LINES (17 words):**
+  * নীলা (`CHAR_NEELA`): “ফান্ডের টাকা তো আপনি সরিয়েছিলেন ভাইজান!”
+  * জামাল (`CHAR_JAMAL`): “রাকিব আমাকে বাবার মতো মানে—ও কি তোর কথা বিশ্বাস করবে?”
 * **CAMERA:** Medium two-shot focusing on Jamal's manipulative arrogance.
 * **PERFORMANCE AND AUDIO:** Tearful protest from Neela; mocking confidence from Jamal.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
