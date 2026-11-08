@@ -1,114 +1,640 @@
-# 🎬 STAGE 2: DETAILED STORY BLUEPRINT (বিস্তারিত স্টোরি ব্লুপ্রিন্ট)
+# 🎬 DETAILED STORY BLUEPRINT
 
-- **Working English Title:** _My Neighbor Left Me His $800,000 Fortune—Until I Opened the Wooden Box_
+**Master Production Blueprint for 15-Minute Episodic Video Drama**
+
+- **Main Working Title:** _My Neighbor Left Me His $800,000 Fortune—Until I Opened the Wooden Box_
 - **Alternative Title:** _Walter Brooks — A Man Who Never Forgot Kindness_
 - **Genre:** Mystery + Family Drama + Emotional Suspense
 - **Target Audience:** English-Speaking Audience (US / Western Realistic Setting)
-- **Total Duration:** **15 Minutes (900 Seconds)**
-- **Total Clips:** **90 Clips** (প্রতিটি ক্লিপ ঠিক ১০ সেকেন্ড; `5 Parts × 18 Clips = 90 Clips`)
+- **Tone:** Cinematic, emotional, mysterious, realistic, heartwarming, and suspenseful
+- **Total Duration:** 15 Minutes (900 Seconds)
+- **Total Clips:** 90 Sequential Clips (Strictly 10 seconds per clip; 5 Parts × 18 Clips = 90 Clips)
+- **Production Standard:** Photorealistic AI Cinematic Video Production (Google Flow / Veo / Midjourney / Sora)
 
 ---
 
-## ১. প্রধান ও সহায়ক চরিত্রসমূহ (Character Lineup — Strictly 6 Characters)
+## SECTION 1: CHARACTER LINEUP (STRICTLY 6 CHARACTERS)
 
-_(AI Video Generation সহজ ও নিখুঁত রাখার জন্য প্রতিটি ১০ সেকেন্ডের ক্লিপে সর্বোচ্চ ১ থেকে ২ জন চরিত্রকে ফ্রেমে রাখা হবে।)_
+> [!IMPORTANT]
+> **Strict Character Density Constraint:** Maximum of 1 to 2 visible characters per clip across all 90 clips. Never stage three or more active characters in a single frame. Thomas Carter is deceased and strictly non-visible (appears only in the 1996 archival photograph and verbal references).
 
-| Character ID       | নাম ও বয়স                | পরিচয় ও ব্যক্তিত্ব                                                                                                              | পোশাক ও লুক (Locked Appearance)                                                                                           |
-| :----------------- | :----------------------- | :------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------ |
-| **`CHAR_DANIEL`**  | **Daniel Carter (35)**   | সাধারণ চাকরিজীবী যুবক (১৯৯৬ সালের ছবিতে যার বয়স ছিল ৫ বছর); নম্র, দয়ালু ও আত্মমর্যাদাশীল। পরোপকারী কিন্তু কখনো প্রতিদান চায় না। | হালকা নীল অক্সফোর্ড শার্ট (হাতা কনুই পর্যন্ত গোটানো), গাঢ় নেভি চিনো প্যান্ট, সাধারণ চামড়ার ঘড়ি, ছোট করে ছাঁটা বাদামী চুল। |
-| **`CHAR_MICHAEL`** | **Michael Brooks (45)**  | Walter-এর বড় ছেলে; লোভী, উদ্ধত ও স্বার্থপর। বাবার জীবদ্দশায় খোঁজ নেয়নি, কিন্তু সম্পত্তির জন্য মরিয়া।                            | কালো স্যুট জ্যাকেট, সাদা শার্ট (টাই ছাড়া), দামি ঘড়ি, চোখেমুখে অহংকার ও তীব্র রাগ।                                         |
-| **`CHAR_SARAH`**   | **Sarah Brooks (41)**    | Walter-এর মেয়ে; ভাইয়ের ষড়যন্ত্রের সঙ্গী ও অর্থলোভী, তবে শেষ দিকে সত্য প্রমাণের সামনে ভেঙে পড়ে।                                  | গাঢ় মেরুন ট্রেঞ্চ কোট/ব্লেজার, মুক্তার দুল, পরিপাটি বান করা চুল, উদ্বিগ্ন ও হিসেবি অভিব্যক্তি।                            |
-| **`CHAR_HENRY`**   | **Henry Collins (58)**   | Walter-এর ৩০ বছরের পুরোনো পারিবারিক আইনজীবী; শান্ত, গম্ভীর, ন্যায়পরায়ণ ও পেশাদার।                                               | চারকোল গ্রে থ্রি-পিস স্যুট, নেভি টাই, রুপালি ফ্রেমের চশমা, কাঁচাপাকা চুল, হাতে চামড়ার ব্রিফকেস।                           |
-| **`CHAR_WALTER`**  | **Walter Brooks (72)**   | প্রয়াত নিঃসঙ্গ বৃদ্ধ প্রতিবেশী (১৯৯৬ সালে বয়স ছিল ৪২ বছর; দেয়ালে বাঁধানো ছবি ও সংক্ষিপ্ত নীরব স্মৃতিতে দৃশ্যমান)।               | বেইজ কার্ডিগান সোয়েটার, চেক শার্ট, সাদা চুল ও গোঁফ, চোখে স্নেহপূর্ণ চশমা।                                                 |
-| **`CHAR_CLARA`**   | **Mrs. Clara Reed (70)** | পাশের বাড়ির নতুন/বয়স্কা প্রতিবেশিনী (শুধুমাত্র শেষ দৃশ্যে Clip 089–090-এ উপস্থিত)।                                              | হালকা ল্যাভেন্ডার উল সোয়েটার, সাদা চুল, মুখে স্নেহময় হাসি।                                                                |
+| Character ID       | Name & Age                           | Dramatic Role & Archetype                                                                                                  | Locked Wardrobe & Physical Visuals                                                                                                                                                                   |
+| :----------------- | :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **`CHAR_DANIEL`**  | **Daniel Carter (Age 35)**           | Protagonist; humble, kind-hearted logistics worker. The 5-year-old boy in the 1996 photo. Never seeks reward for kindness. | Light-blue oxford shirt (sleeves neatly rolled to mid-forearm), dark navy flat-front chinos, weathered brown leather utility watch, neat short brown hair, warm honest eyes.                         |
+| **`CHAR_MICHAEL`** | **Michael Brooks (Age 45)**          | Antagonist; Walter's estranged elder son. Entitled, volatile, aggressive, and driven by financial desperation.             | Tailored black suit jacket over unbuttoned white spread-collar shirt (no necktie), luxury gold chronograph watch, slicked-back dark hair with receding temples, sharp angular scowl.                 |
+| **`CHAR_SARAH`**   | **Sarah Brooks (Age 41)**            | Secondary Antagonist; Walter's estranged daughter. Complicit with Michael's greed until confronted with irrefutable fraud. | Fitted dark maroon wool trench coat / tailored blazer, delicate pearl stud earrings, manicured hair swept into a tight bun, anxious calculating expression.                                          |
+| **`CHAR_HENRY`**   | **Henry Collins (Age 58)**           | Mentor & Legal Executor; Walter’s trusted family attorney for 30 years. Impeccable integrity, authoritative, and calm.     | Tailored charcoal-gray three-piece wool suit, pressed white dress shirt, conservative silk navy tie, silver-rimmed reading glasses, neat salt-and-pepper hair, vintage leather briefcase.            |
+| **`CHAR_WALTER`**  | **Walter Brooks (Age 72, Deceased)** | Catalyst & Spiritual Anchor; lonely elderly neighbor. Age 42 in 1996; passed away peacefully in December 2026.             | Seen in framed oil portrait and gentle memory flashbacks: warm oatmeal-beige cable-knit cardigan over subtle plaid flannel shirt, thinning silver-white hair, soft affectionate wire-rimmed glasses. |
+| **`CHAR_CLARA`**   | **Mrs. Clara Reed (Age 70)**         | Neighborhood Elder; appears exclusively in the final resolution (Clips 089–090). Represents the community.                 | Cozy pastel lavender knit wool shawl wrapped over a pale cream floral blouse, silver hair softly pinned up, radiant grandmotherly smile.                                                             |
 
----
+_Non-Visible Historical Reference:_
 
-## ২. নির্ধারিত ৪টি লোকেশন (Strictly 4 Repeatable Locations)
-
-1. **`LOC_DANIEL_HOUSE`:** Daniel-এর সাধারণ একতলা শহরতলির বাড়ি (সামনের কাঠের পোর্চ/দরজা এবং ছিমছাম লিভিং রুম)।
-2. **`LOC_WALTER_HOUSE`:** পাশের বাড়িতেই Walter-এর পুরোনো দোতলা কাঠের বাড়ি (সামনের লন/পোর্চ এবং ভেতরে বই ও পুরোনো স্মৃতিতে ভরা স্টাডি/লিভিং রুম)।
-3. **`LOC_LAW_OFFICE`:** আইনজীবী Henry Collins-এর ছোট অফিস (কাঠের টেবিল, পেছনে আইনের বইয়ের তাক, দুটি চামড়ার চেয়ার)।
-4. **`LOC_PARK`:** পাড়ার শান্ত পার্ক (ওক গাছের নিচে একটি কাঠের বেঞ্চ, ঝরা পাতা—যেখানে Walter ও Daniel বসে কথা বলত)।
+- **Thomas Carter (Deceased):** Daniel’s late father. Blue-collar machinist who saved Walter Brooks’s life in 1996 by paying a $1,200 cash emergency hospital deposit. Seen exclusively in the 1996 vintage photograph (`PROP_CHILD_PHOTO`).
 
 ---
 
-## ৩. গল্পের প্রপস তালিকা (Simple Tactile Props for Mystery)
+## SECTION 2: REPEATABLE LOCATIONS (STRICTLY 4 LOCATIONS)
 
-- **`PROP_CREAM_ENVELOPE`:** আইনজীবী Henry-র হাতের সিল করা অফিশিয়াল খাম (`Last Will & Testament of Walter Brooks`)।
-- **`PROP_WOODEN_BOX`:** Walter-এর রেখে যাওয়া পুরোনো খোদাই করা কাঠের বাক্স (যার ভেতরে একটি গোপন নিচের স্তর বা _Hidden False-Bottom Compartment_ রয়েছে) এবং একটি ছোট পিতলের চাবি।
-- **`PROP_CHILD_PHOTO`:** ১৯৯৬ সালের (৩০ বছর আগের) একটি আসল পুরোনো ছবি—৫ বছর বয়সী ছোট Daniel (যার বর্তমান বয়স ৩৫) তার বাবা Thomas Carter-এর হাত ধরে দাঁড়িয়ে আছে। ১৯৯৬ সালে হাসপাতালে Thomas-এর কোটের পকেট থেকে ছবিটি পড়ে গিয়েছিল এবং Walter সেটি ৩০ বছর যত্ন করে রেখে দিয়েছিলেন। ছবির পেছনে নীল কালিতে লেখা: _“You saved my life before you even knew my name.”_
-- **`PROP_HOSPITAL_RECEIPT`:** ১৯৯৬ সালের (৩০ বছর আগের) একটি ছোট শহরের হাসপাতালের হলুদ হয়ে যাওয়া জরুরি চিকিৎসা ও অপারেশনের প্রাথমিক ডিপোজিট রশিদ (`$1,200 Emergency Treatment & Surgery Deposit — Paid in Cash by Thomas Carter`)।
-- **`PROP_LEGAL_DOSSIER`:** মৃত্যুর আগে Walter নিজে যে সিল করা প্রমাণাদির ফাইল আইনজীবী Henry-র কাছে নিরাপদে জমা রেখে গিয়েছিলেন—যার ভেতরে রয়েছে: (১) Walter-এর মানসিক সুস্থতার ডাক্তারি সনদ (_Psychiatric Competency Certificate_), (২) সন্তানদের নেওয়া `$250,000`-এর ব্যাংক রেকর্ড, এবং (৩) **Michael-এর জমা দেওয়া জাল Power of Attorney (`Forged Power of Attorney`), রিয়েল এস্টেট ব্রোকারের লিখিত চিঠি (`Realtor's Written Communication`), এবং অফিশিয়াল স্বাক্ষর যাচাই ও নোটারি রিপোর্ট (`Handwriting Verification & Notary Report`)**।
-- **`PROP_FINAL_LETTER`:** কাঠের বাক্সের গোপন নিচের স্তরে (_Hidden False-Bottom Compartment_) রাখা Walter-এর হাতে লেখা সিল করা শেষ চিঠি, যা Daniel পর্ব ২-এ বাক্স খোলার সময়ই খুঁজে পায় কিন্তু সিল করা অবস্থায় নিজের কাছে রেখে দেয় এবং পর্ব ৫-এ সব সত্য জানার পর খোলে।
-- **`PROP_BRASS_PLAQUE`:** কাঠের ওপর বসানো ছোট পিতলের ফলক: _“Walter Brooks — A Man Who Never Forgot Kindness.”_
+All 90 clips take place strictly within the following 4 distinct, highly repeatable locations:
 
----
+1. **`LOC_DANIEL_HOUSE` (Daniel Carter's Home):**
+   - _Setting:_ A modest single-story suburban craftsman home.
+   - _Areas:_ Exterior wooden front porch with white railing and wooden front door; tidy, warmly lit interior living room.
+2. **`LOC_WALTER_HOUSE` (Walter Brooks's Home):**
+   - _Setting:_ An elegant two-story historic Craftsman home next door to Daniel.
+   - _Areas:_ Front porch with manicured flowerbeds and stone pathway; rich interior study featuring dark walnut wainscoting, floor-to-ceiling bookshelves, antique grandfather clock, stone fireplace, and bay window.
+3. **`LOC_LAW_OFFICE` (Collins & Associates Law Office):**
+   - _Setting:_ Dignified boutique estate law office in a historic district.
+   - _Areas:_ Private conference room with heavy mahogany executive desk, leather client armchairs, and brass Banker's lamp; polished executive hallway with framed legal diplomas.
+4. **`LOC_PARK` (Maplewood Neighborhood Park):**
+   - _Setting:_ Quiet community park situated halfway between the suburban homes and the town center.
+   - _Areas:_ Weathered wooden park bench under a massive ancient oak tree, golden autumn foliage, and gravel footpath.
 
-## ৪. নিখুঁত আর্থিক ও আইনি হিসাব (100% Clear Financial & Legal Logic)
-
-- **Walter-এর মোট সম্পত্তি (Total Estate Value):** **$800,000**
-  - **$500,000:** Walter-এর ঋণমুক্ত দোতলা বাড়ি (`LOC_WALTER_HOUSE`)।
-  - **$300,000:** ব্যাংক সঞ্চয় ও বন্ড ইনভেস্টমেন্ট (`Liquid Savings & Bonds`)।
-- **সন্তানদের কী দেওয়া হয়েছে?**
-  - গত ১০ বছরে Michael (`$150,000`) এবং Sarah (`$100,000`) ব্যবসার ও ব্যক্তিগত অজুহাতে বাবার কাছ থেকে মোট **$250,000** নিয়েছে, কিন্তু বাবার অসুস্থতার সময় একদিনও দেখতে আসেনি। উইলে Walter স্পষ্ট উল্লেখ করেছেন যে জীবদ্দশায় দেওয়া সেই `$250,000`-ই তাদের চূড়ান্ত অংশ।
-- **৩০ বছর আগের ঋণের হিসাব (1996 Winter Night — Walter Age 42, Daniel Age 5):**
-  - ৩০ বছর আগে (১৯৯৬ সালে) এক তুষারঝড়ের রাতে ৪২ বছর বয়সী Walter যখন ব্যবসায়িক ক্ষতির পর সড়ক দুর্ঘটনায় আহত হয়ে এক ছোট শহরের হাসপাতালে ভর্তি হন, তখন Daniel-এর প্রয়াত বাবা **Thomas Carter** নিজের পরিবারের জমানো শেষ **$1,200** নগদ টাকা দিয়ে সেই ছোট শহরের হাসপাতালে Walter-এর জরুরি চিকিৎসা ও অপারেশন শুরু করার **প্রাথমিক ডিপোজিট (Initial Emergency Deposit)** জমা দিয়েছিলেন, যার ফলে সেদিন রাতেই তার জীবন রক্ষাকারী চিকিৎসা শুরু হতে পেরেছিল। হাসপাতালের রশিদে শুধু নাম লেখা ছিল (_Thomas Carter_), কোনো ঠিকানা বা ফোন নম্বর ছিল না এবং কিছুদিন পরই Thomas-এর পরিবার শহর ছেড়ে চলে যাওয়ায় Walter ৩০ বছর ধরে খুঁজেও তাদের পাননি—শুধু হাসপাতালে পড়ে যাওয়া ৫ বছর বয়সী Daniel ও তার বাবার ছবিটি (`PROP_CHILD_PHOTO`) Walter কাছে রেখে দিয়েছিলেন।
-- **উইলের শেষ অনুরোধ, বাস্তবসম্মত আইনি নিষ্পত্তি ও Charitable Trust গঠন:**
-  - **Walter-এর শেষ ইচ্ছা (Personal Final Request):** উইলটি আইনিভাবে সম্পূর্ণ বৈধ ও উত্তরাধিকার পাওয়ার ক্ষেত্রে নিঃশর্ত; তবে উইলের পাশাপাশি Walter তার শেষ ইচ্ছা হিসেবে একটি ব্যক্তিগত অনুরোধ রেখে গেছেন—সম্পত্তিটি গ্রহণের বিষয়ে চূড়ান্ত সিদ্ধান্ত নেওয়ার আগে Daniel যেন কাঠের বাক্সটি (`PROP_WOODEN_BOX`) খোলে এবং শেষ চিঠিটি পড়ে জেনে নেয় কেন তাকে এই সম্পত্তি দেওয়া হয়েছে।
-  - **প্রমাণাদি Henry-র কাছে কীভাবে এলো এবং আইনি প্রক্রিয়া:** মৃত্যুর দুই মাস আগে রিয়েল এস্টেট ব্রোকার সন্দেহবশত Walter-কে চিঠি পাঠালে Walter নিজেই গোপনে স্বাক্ষর যাচাই (_Handwriting Verification & Notary Check_) করান এবং মৃত্যুর আগে সব প্রমাণাদি (`Psychiatric Competency Certificate`, `$250,000` ব্যাংক রেকর্ড, `Forged Power of Attorney`, `Realtor's Letter` ও `Handwriting Verification Report`) নিজের আইনজীবী Henry-র কাছে নিরাপদে জমা রেখে যান। Michael উইলকে চ্যালেঞ্জ করলে Henry এই প্রমাণগুলো প্রদর্শন করেন এবং যথাযথ আইনি প্রক্রিয়ায় প্রোবেট আদালতে (Probate Court) জমা দেন। আদালত প্রমাণ যাচাই করে উইলটিকে সম্পূর্ণ বৈধ ঘোষণা করে এবং স্বাক্ষর জালিয়াতির বিষয়টি আইনি প্রক্রিয়ায় সোপর্দ করে।
-  - **Charitable Trust প্রক্রিয়া:** আদালতের অনুমোদনের পর Daniel আইনজীবী Henry-র সহায়তায় **"The Walter Brooks Senior Care Foundation"** নামে একটি বৈধ _Charitable Trust_ গঠনের সিদ্ধান্ত নেয় এবং যথাযথ আইনি ও আর্থিক প্রক্রিয়ায় **$500,000**-এর বাড়ি ও **$300,000** সঞ্চয় ফাউন্ডেশনের ট্রাস্টে হস্তান্তরের প্রক্রিয়া শুরু করে।
+> [!CAUTION]
+> **Zero 5th Location Tolerance:** No courtroom interior or exterior, no hospital interior, no roadway or blizzard scenes, and no car interiors. All historical exposition is delivered via physical props and personal dialogue.
 
 ---
 
-## ৫. ৯০ ক্লিপের পর্বভিত্তিক ব্লুপ্রিন্ট ও Runtime Ledger
+## SECTION 3: TACTILE PROPS (STRICTLY 7 STORY OBJECTS)
 
-| অংশ (Part) |          ক্লিপ সংখ্যা          |  সময় (Duration)  | মূল ঘটনা ও নাটকীয় উদ্দেশ্য                                                                                                                                                                                                                                                                                                                                                                     |
-| :--------- | :----------------------------: | :--------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Part 1** | **Clips 001 – 018** (18 Clips) | **3 Min** (180s) | **Hook & Twist 1 (The $800,000 Will):** Walter-এর মৃত্যুর ৩ দিন পর Daniel-এর দরজায় Michael-এর চিৎকার (_"You stole my father's entire fortune!"_), আইনজীবী Henry-র খাম প্রদান, ল’ অফিসে উইল পাঠ, **$800,000** সম্পত্তির ঘোষণা এবং Walter-এর শেষ ইচ্ছা হিসেবে কাঠের বাক্স খোলার অনুরোধ।                                                                                                          |
-| **Part 2** | **Clips 019 – 036** (18 Clips) | **3 Min** (180s) | **Twist 2 (The Wooden Box & Photograph):** পার্কে ও পোর্চে Walter-এর সাথে ৩৫ বছর বয়সী Daniel-এর নিঃস্বার্থ সম্পর্কের স্মৃতি, Daniel-এর হাতে কাঠের বাক্সের চাবি, বাক্সের ভেতর থেকে ১৯৯৬ সালের ৫ বছর বয়সী Daniel ও তার বাবার আসল ছবি উদ্ধার এবং পেছনের লেখা: _"You saved my life before you even knew my name."_                                                                                 |
-| **Part 3** | **Clips 037 – 054** (18 Clips) | **3 Min** (180s) | **Twist 3 (The Hidden Past):** বাক্সের দ্বিতীয় স্তরে ১৯৯৬ সালের ছোট শহরের হাসপাতালের `$1,200`-এর জরুরি চিকিৎসার প্রাথমিক ডিপোজিট রশিদ এবং Walter-এর ডায়েরির পাতা আবিষ্কার; ৩০ বছর আগের শীতের রাতের সত্য প্রকাশ; অন্যদিকে বাইরে দাঁড়িয়ে Michael ও Sarah-র ষড়যন্ত্র—বাবাকে মানসিকভাবে অক্ষম দাবি করে উইল বাতিলের আইনি চ্যালেঞ্জ।                                                                 |
-| **Part 4** | **Clips 055 – 072** (18 Clips) | **3 Min** (180s) | **Twist 4 (The Son's Secret & Legal Process):** Walter-এর স্টাডিতে আইনি মুখোমুখি; মৃত্যুর আগে Walter যে প্রমাণগুলো Henry-র কাছে রেখে গিয়েছিলেন তা পেশ—_Psychiatric Competency Certificate_, `$250,000` ব্যাংক রেকর্ড, এবং **Michael-এর জাল Power of Attorney, রিয়েল এস্টেট ব্রোকারের চিঠি ও অফিশিয়াল Handwriting Verification Report**; প্রোবেট আদালতে প্রমাণ দাখিল এবং আদালতের রায়ে উইল বহাল। |
-| **Part 5** | **Clips 073 – 090** (18 Clips) | **3 Min** (180s) | **Twist 5 (The Final Letter & Foundation):** Walter-এর শেষ চিঠি পাঠ (_"Two years ago, when you moved in next door, I recognized your face from that photograph..."_); আইনজীবী Henry-র সহায়তায় _Charitable Trust_ গঠনের মাধ্যমে বাড়ি ও সঞ্চয় ফাউন্ডেশনে হস্তান্তরের আইনি প্রক্রিয়া শুরু; বাড়ির সামনে ফলক স্থাপন ও বয়স্কা প্রতিবেশিনীর সাথে শেষ সংলাপ।                                           |
-| **মোট**    |          **90 Clips**          |  **15 Minutes**  | **সম্পূর্ণ ৫-পর্বের রহস্য ও আবেগঘন ফ্যামিলি ড্রামা**                                                                                                                                                                                                                                                                                                                                           |
+1. **`PROP_CREAM_ENVELOPE` (The Will Envelope):** Heavy 9x12 cream linen legal envelope stamped with _Commonwealth Probate Court_ seal and sealed with burgundy wax. Contains Walter Brooks’s legally certified Last Will and Testament, executed on the exact same morning as his certified psychiatric competency evaluation approximately 60 days before his passing (October 2026).
+2. **`PROP_WOODEN_BOX` (The Heirloom Box):** An ornate, hand-carved dark walnut heirloom box (10x7x4 inches) with brass corner brackets and a small brass keyhole. Features an upper removable tray holding historical keepsakes and a concealed false-bottom compartment underneath.
+3. **`PROP_CHILD_PHOTO` (The 1996 Archival Photograph):** A genuine, slightly faded 3.5x5-inch color photograph from December 1996. Shows a smiling 5-year-old Daniel in a red winter coat holding hands with his father, Thomas Carter, outside a snow-dusted roadside diner. On the back, Walter's fountain-pen inscription reads: _"You saved my life before you even knew my name. — Dec 14, 1996."_
+4. **`PROP_HOSPITAL_RECEIPT` (The Initial Deposit Slip):** A yellowed, carbon-copy hospital billing slip from _St. Jude Community Hospital_, dated December 14, 1996. Typed: _Emergency Trauma Intake & Surgical Deposit: $1,200.00 — PAID IN CASH._ Paid by: _Thomas Carter (No Address Given)._
+5. **`PROP_LEGAL_DOSSIER` (The Evidence Dossier):** Red leather legal folder prepared by Walter Brooks ~60 days prior to death. Contains: (1) Dual-physician Psychiatric Competency Certificate dated October 2026, (2) Bank records detailing $250,000 in prior lifetime gifts to Michael and Sarah, and (3) Michael's forged Power of Attorney, Beacon Realty's written notification, and a certified Forensic Handwriting Analysis & Notary Report proving Michael's signature forgery.
+6. **`PROP_FINAL_LETTER` (Walter's Sealed Letter):** A three-page handwritten letter on Walter’s personal stationery, folded inside a heavy cream envelope sealed with red wax. Discovered inside the wooden box's false-bottom compartment in Part 2, kept sealed, and opened in Part 5.
+7. **`PROP_BRASS_PLAQUE` (The Memorial Plaque):** A polished solid brass dedication plaque mounted beside the front entrance of Walter's home: _"Walter Brooks — A Man Who Never Forgot Kindness (1954–2026)."_
 
 ---
 
-## ৬. প্রতিটি পর্বের বিস্তারিত দৃশ্য-পরিকল্পনা (Part-by-Part Breakdown)
+## SECTION 4: MASTER FINANCIAL, LEGAL, AND TIMELINE LOGIC
 
-### **PART 1: THE HOOK & THE $800,000 WILL (Clips 001 – 018)**
+### 1. Estate Financial Ledger ($800,000 Total Value)
 
-- **Clips 001–003 (30-Second Hook):** সকাল ৯টা, `LOC_DANIEL_HOUSE`-এর সামনের দরজা। Walter-এর মৃত্যুর তিন দিন পর হঠাৎ দরজায় প্রচণ্ড ধাক্কা। ৩৫ বছর বয়সী Daniel দরজা খুলতেই Michael চিৎকার করে ওঠে—_“You stole my father’s entire fortune!”_ Daniel হতবাক। ঠিক তখনই আইনজীবী Henry একটি সিল করা খাম এগিয়ে দিয়ে বলেন—_“Your neighbor left you everything. He also left you a personal request.”_
-- **Clips 004–009 (Confrontation on the Porch):** Sarah এগিয়ে এসে Daniel-কে গালমন্দ করে—সে কীভাবে এক নিঃসঙ্গ বৃদ্ধকে ভুলিয়ে তার সম্পত্তি হাতিয়ে নিয়েছে! Daniel বলে সে শুধু একজন প্রতিবেশী হিসেবে Walter-কে বাজার করে দিত ও খোঁজখবর নিত, কোনো উইলের কথা সে জানেই না। Henry সবাইকে শান্ত করে বিকেল ৩টায় তার ল’ অফিসে আসতে বলেন।
-- **Clips 010–018 (Twist 1 — Reading the Will at the Law Office):** `LOC_LAW_OFFICE`-এ উইল পাঠ। Henry জানান—Walter-এর **$500,000**-এর বাড়ি এবং **$300,000** ব্যাংক সঞ্চয় (মোট **$800,000**) পুরোটাই আইনিভাবে নিঃশর্ত ও বৈধ উইলের মাধ্যমে Daniel Carter-এর নামে দিয়ে যাওয়া হয়েছে। Michael টেবিল চাপড়ে প্রতিবাদ করে। Henry জানান, উইলটি আইনিভাবে সম্পূর্ণ নিঃশর্ত হলেও Walter তার শেষ ইচ্ছা হিসেবে একটি ব্যক্তিগত অনুরোধ (_Personal Request_) রেখে গেছেন—Daniel যেন Walter-এর রেখে যাওয়া পুরোনো কাঠের বাক্সটি (`PROP_WOODEN_BOX`) খোলে।
+- **Real Estate Asset:** Mortgage-free two-story Craftsman home (`LOC_WALTER_HOUSE`) appraised at **$500,000**.
+- **Liquid Assets:** Bank savings accounts, municipal bonds, and Treasury securities totaling **$300,000**.
+- **Prior Lifetime Gifts to Biological Children:** Over the prior decade, Walter provided **$150,000** to Michael for failed business schemes and **$100,000** to Sarah for home renovations (Total: **$250,000**). Article IV of Walter's will explicitly designates these funds as their full and final share of his estate.
 
-### **PART 2: THE WOODEN BOX & THE CHILDHOOD PHOTOGRAPH (Clips 019 – 036)**
+### 2. The 1996 Life-Saving Emergency Deposit ($1,200 Cash)
 
-- **Clips 019–024 (Daniel's Quiet Kindness):** `LOC_PARK`-এর বেঞ্চে বসে Daniel ভাবছে কীভাবে ২ বছর আগে পাশের বাড়িতে আসার পর ৭২ বছর বয়সী Walter-এর সাথে তার সখ্য গড়ে উঠেছিল—মাঝে মাঝে Walter অদ্ভুত স্নেহের দৃষ্টিতে Daniel-এর মুখের দিকে তাকিয়ে থাকতেন, যেন পরিচিত কাউকে দেখছেন।
-- **Clips 025–030 (Opening the Box & Hidden Compartment):** `LOC_LAW_OFFICE`-এ ফেরে দৃশ্য। Henry টেবিলের ওপর কাঠের বাক্সটি ও ছোট পিতলের চাবিটি রাখেন। Michael বিদ্রূপ করে বলে—এর ভেতরে নিশ্চয়ই কোনো কারসাজি আছে। Daniel কাঁপা হাতে চাবি ঘুরিয়ে বাক্সটি খোলে এবং বাক্সের গোপন নিচের স্তরে (_Hidden False-Bottom Compartment_) একটি সিল করা শেষ চিঠি (`PROP_FINAL_LETTER`) দেখতে পায় (যার ওপর লেখা সব স্মৃতিচিহ্ন দেখার পর যেন চিঠিটি খোলা হয়); Daniel সিল করা চিঠিটি যত্ন করে নিজের কাছে রেখে দেয়।
-- **Clips 031–036 (Twist 2 — The Old Photograph):** বাক্সের ওপরেই ১৯৯৬ সালের একটি পুরোনো ছবি (`PROP_CHILD_PHOTO`)। ৩৫ বছর বয়সী Daniel ছবিটি হাতে নিয়ে স্তব্ধ হয়ে যায়—এটি ৩০ বছর আগের সেই আসল ছবিটি, যেখানে ৫ বছরের ছোট্ট Daniel তার প্রয়াত বাবা Thomas Carter-এর হাত ধরে দাঁড়িয়ে আছে! Daniel ছবিটি উল্টে দেখে পেছনে Walter-এর হাতের লেখা: _“You saved my life before you even knew my name.”_ Daniel বিস্ময়ে ফিসফিস করে—_“That’s my childhood photo from thirty years ago... How did Walter have this?”_
+- On December 14, 1996, 42-year-old Walter Brooks was stranded and bleeding in a blizzard following a car crash and bankruptcy.
+- Daniel’s father, Thomas Carter, discovered Walter, drove him to St. Jude Emergency Clinic, and paid his family's entire life savings of **$1,200 cash** as the mandatory initial emergency intake and surgery deposit.
+- This initial deposit enabled surgeons to immediately operate and save Walter's life. Thomas left without providing an address, accidentally dropping the photograph of himself and 5-year-old Daniel in the hallway.
 
-### **PART 3: THIRTY YEARS AGO & MICHAEL'S CONSPIRACY (Clips 037 – 054)**
+### 3. Legal & Testamentary Structure
 
-- **Clips 037–045 (Twist 3 — The Night of 1996):** বাক্সের ভেতর থেকে বেরিয়ে আসে ১৯৯৬ সালের ডিসেম্বরের একটি ছোট শহরের হাসপাতালের প্রাথমিক ডিপোজিট রশিদ (`PROP_HOSPITAL_RECEIPT` — `$1,200 Emergency Treatment & Surgery Deposit`) এবং Walter-এর ডায়েরির পাতা। Henry ও Daniel পড়ে জানতে পারে—৩০ বছর আগে (যখন Walter-এর বয়স ছিল ৪২) এক তুষারঝড়ের রাতে সড়ক দুর্ঘটনায় আহত ও দেউলিয়া Walter-কে রাস্তায় পেয়ে হাসপাতালে নিয়ে গিয়েছিলেন Daniel-এর বাবা Thomas Carter। নিজের পরিবারের শেষ `$1,200` দিয়ে হাসপাতালের জরুরি চিকিৎসা ও অপারেশনের **প্রাথমিক ডিপোজিট (Initial Deposit)** জমা দিয়ে Thomas চলে যান, যার কারণে সেদিন রাতেই ডাক্তাররা জরুরি চিকিৎসা শুরু করে Walter-কে বাঁচাতে পেরেছিলেন। যাওয়ার সময় Thomas-এর কোট থেকে ৫ বছর বয়সী Daniel-সহ এই ছবিটি হাসপাতালে পড়ে গিয়েছিল, যা Walter সারাজীবন আগলে রেখেছিলেন।
-- **Clips 046–054 (Michael & Sarah's Legal Plot):** এটুকু শুনেও Michael-এর মন গলে না। ল’ অফিসের বাইরে এবং `LOC_WALTER_HOUSE`-এর সামনে দাঁড়িয়ে Michael ও Sarah পরিকল্পনা করে—তারা প্রোবেট কোর্টে দাবি করবে Walter শেষ বয়সে ডিমেনশিয়ায় আক্রান্ত ছিলেন (Mentally Incompetent) এবং উইলটি অবৈধ। পরদিনই Michael উইল বাতিলের আইনি চ্যালেঞ্জ ফাইল করে।
+- **Unconditional Will:** Walter's will is legally absolute and unconditional. Daniel is the sole beneficiary of the $800,000 estate.
+- **Personal Request:** Opening the wooden box is Walter's personal, heartfelt request, not a legal prerequisite that clouds title transfer.
+- **Same-Day Execution:** Walter executed the finalized will and underwent a comprehensive dual-physician psychiatric competency evaluation on the exact same morning in October 2026 (~60 days before his passing), rendering claims of incapacity legally impossible.
+- **Probate Timeline Transition:** In Clips 070–072, the transition explicitly marks _"Several Weeks Later — After the Probate Hearing"_, showing that the court dismissed Michael and Sarah's contest with prejudice.
+- **Foundation Legal Structure:** Standardized as _"The Walter Brooks Senior Care Foundation — a charitable nonprofit organization seeking 501(c)(3) tax-exempt status"_. Daniel donates the entire $800,000 estate to establish a sanctuary and healthcare fund for lonely elders.
 
-### **PART 4: THE SON'S SECRET & REALISTIC LEGAL RESOLUTION (Clips 055 – 072)**
+---
 
-- **Clips 055–061 (The Legal Showdown in Walter's Study):** `LOC_WALTER_HOUSE`-এর স্টাডি রুমে বৈঠক। Michael দাবি করে তার বাবা মানসিকভাবে অক্ষম ছিলেন, তাই এই **$800,000**-এর উইল আদালতে টিকবে না। Daniel শান্তভাবে বলে সে টাকার লোভে আসেনি, কিন্তু Walter-এর শেষ ইচ্ছার অপমান সে হতে দেবে না।
-- **Clips 062–069 (Twist 4 — Forged Power of Attorney & Handwriting Report Exposed):** আইনজীবী Henry তার ব্রিফকেস থেকে লাল ফাইল (`PROP_LEGAL_DOSSIER`) বের করেন এবং জানান যে **মৃত্যুর আগেই Walter নিজে এই সব প্রমাণ তার কাছে নিরাপদে জমা রেখে গিয়েছিলেন**। ফাইলে রয়েছে:
-  1. উইল সই করার সময় করা অফিশিয়াল **Psychiatric Competency Certificate**।
-  2. গত ১০ বছরে Michael (`$150,000`) ও Sarah (`$100,000`)-কে দেওয়া **$250,000**-এর ব্যাংক রেকর্ড।
-  3. সবচেয়ে গুরুতর প্রমাণ: **Michael-এর জমা দেওয়া জাল Power of Attorney (`Forged Power of Attorney`), রিয়েল এস্টেট ব্রোকারের লিখিত চিঠি (`Realtor's Written Communication`), এবং অফিশিয়াল স্বাক্ষর যাচাই ও নোটারি রিপোর্ট (`Handwriting Verification & Notary Report`)**—মৃত্যুর দুই মাস আগে Michael বাবার স্বাক্ষর জাল করে বাড়িটি বিক্রির চেষ্টা করলে ব্রোকার Walter-কে চিঠি লিখে জানান। এরপর Walter নিজেই স্বাক্ষর পরীক্ষা করিয়ে প্রমাণসহ পুরো ফাইলটি আইনজীবী Henry-র কাছে রেখে যান!
-- **Clips 070–072 (Submission to Probate Court & Time Transition — "Several Weeks Later — After the Probate Hearing"):** Henry স্পষ্ট জানিয়ে দেন যে স্বাক্ষর জালিয়াতির অপরাধ আপনাআপনি মুছে যায় না—তিনি এই সবকটি নথি, ডাক্তারি সনদ ও ফরেনসিক হস্তলিপি রিপোর্ট প্রোবেট আদালতে (Probate Court) জমা দেবেন। এরপর **"Several Weeks Later — After the Probate Hearing"** সময়-ট্রানজিশনের মাধ্যমে দেখানো হয়—কয়েক সপ্তাহের আইনি শুনানি শেষে প্রোবেট আদালত সব প্রমাণ যাচাই করে অফিশিয়াল রায় প্রদান করেছে: Michael-এর আবেদন খারিজ করা হয়েছে, উইলটিকে সম্পূর্ণ বৈধ ঘোষণা করা হয়েছে এবং জাল Power of Attorney-এর বিষয়টি আইনি ব্যবস্থার জন্য নথিভুক্ত করা হয়েছে।
+## SECTION 5: MASTER 90-CLIP RUNTIME LEDGER (15 MINUTES)
 
-### **PART 5: THE FINAL LETTER & THE FOUNDATION (Clips 073 – 090)**
+```
++--------+---------------+--------------------+-----------------------------------------------------------------------------------+
+| Part   | Clips Range   | Total Runtime      | Narrative Milestone & Dramatic Focus                                              |
++--------+---------------+--------------------+-----------------------------------------------------------------------------------+
+| Part 1 | Clips 001–018 | 3:00 Min (180 Sec) | The Accusation and the Unconditional $800,000 Will (Hook & Twist 1)               |
+| Part 2 | Clips 019–036 | 3:00 Min (180 Sec) | The Wooden Box, Hidden False Bottom, and 1996 Photograph (Twist 2)                |
+| Part 3 | Clips 037–054 | 3:00 Min (180 Sec) | The $1,200 Emergency Hospital Deposit & Sibling Conspiracy (Twist 3)              |
+| Part 4 | Clips 055–072 | 3:00 Min (180 Sec) | The Forged Power of Attorney Exposed & Probate Decree Confirmation (Twist 4)      |
+| Part 5 | Clips 073–090 | 3:00 Min (180 Sec) | The Final Letter, 501(c)(3) Foundation, and Enduring Legacy (Twist 5 & Finale)    |
++--------+---------------+--------------------+-----------------------------------------------------------------------------------+
+| TOTAL  | 90 Clips      | 15:00 Min (900 Sec)| Fully Synchronized Cinematic AI Video Master Series                               |
++--------+---------------+--------------------+-----------------------------------------------------------------------------------+
+```
 
-- **Clips 073–080 (Twist 5 — The Final Letter):** প্রোবেট শুনানির রায়ের পর `LOC_WALTER_HOUSE`-এর স্টাডিতে দাঁড়িয়ে Daniel পর্ব ২-এ কাঠের বাক্সের গোপন নিচের স্তর (_Hidden False-Bottom Compartment_) থেকে পাওয়া এবং নিজের কাছে সযত্নে রেখে দেওয়া সিল করা শেষ চিঠিটি (`PROP_FINAL_LETTER`) বের করে খোলে। ছবি, হাসপাতালের রশিদ ও আইনি সত্য জানার পর সে চিঠিটি পড়ে:
-  - _“Your father never asked me to repay him. Because the hospital receipt had no address and your family moved away, I searched for thirty years without finding him. Two years ago, when you moved in next door, I recognized your face from that photograph—and when you told me your late father’s name was Thomas Carter, I knew God had answered my prayer. I waited thirty years to find a way to thank his family.”_
-    Daniel-এর চোখ বেয়ে নীরবে জল গড়িয়ে পড়ে।
-- **Clips 081–086 (Establishing the Charitable Trust):** Daniel আইনজীবী Henry-কে জানায়—তার বাবা যেমন ৩০ বছর আগে প্রতিদান চাননি, সেও এই **$800,000** ব্যক্তিগত ভোগবিলাসে রাখবে না। সে **"The Walter Brooks Senior Care Foundation"** প্রতিষ্ঠার সিদ্ধান্ত নেয় এবং Henry-র সহায়তায় একটি বৈধ _Charitable Trust_ গঠন করে যথাযথ আইনি ও আর্থিক প্রক্রিয়ায় `$500,000`-এর বাড়ি ও `$300,000` সঞ্চয় ফাউন্ডেশনের নামে হস্তান্তরের কাগজপত্রে স্বাক্ষর করে।
-- **Clips 087–090 (The Plaque & Final Emotional Line):** কিছুদিন পর। `LOC_WALTER_HOUSE`-এর সামনের দরজার পাশে Daniel একটি খোদাই করা পিতলের ফলক (`PROP_BRASS_PLAQUE`) লাগায়: _“Walter Brooks — A Man Who Never Forgot Kindness.”_ ঠিক তখনই পাশের বাড়ির বয়স্কা প্রতিবেশিনী (`CHAR_CLARA`) এগিয়ে এসে মৃদু হেসে জিজ্ঞেস করেন:
-  - **Elderly Neighbor (`CHAR_CLARA`):** _“Are you the new owner?”_
-  - **Daniel (`CHAR_DANIEL`):** (মৃদু হেসে বাড়ির দিকে তাকিয়ে) _“No. I'm just taking care of his home.”_
-    _(ক্যামেরা ধীরে ধীরে ফলক ও শান্ত বাড়ির দিকে জুম করে—সমাপ্তি।)_
+---
+
+## SECTION 6: DETAILED PART-BY-PART PRODUCTION BLUEPRINT (CLIPS 001–090)
+
+### PART 1: THE ACCUSATION AND THE UNCONDITIONAL WILL (CLIPS 001–018)
+
+_Dramatic Goal: High-voltage hook, family entitlement, will reading, and mystery setup._
+
+- **Clip 001 (`LOC_DANIEL_HOUSE` - Exterior Porch | Day 1, 9:00 AM):**
+  - _Characters:_ Daniel (35), Michael (45).
+  - _Action:_ Heavy fists pound violently against Daniel's wooden door. Daniel opens it; Michael stands on the porch, red-faced with furious entitlement.
+  - _Dialogue (Michael):_ "You've got some nerve showing your face here!"
+  - _Camera:_ Tight close-up on heavy fists pounding door, cutting sharply to medium two-shot of Daniel and Michael.
+- **Clip 002 (`LOC_DANIEL_HOUSE` - Exterior Porch | Day 1, 9:01 AM - HOOK BEAT 1):**
+  - _Characters:_ Michael (45), Daniel (35).
+  - _Action:_ Michael steps forward aggressively, stabbing an accusatory finger directly at Daniel's chest.
+  - _Dialogue (Michael):_ "You stole my father's entire fortune!"
+  - _Camera:_ Medium two-shot framing Michael's aggressive stance against Daniel's calm bewilderment.
+- **Clip 003 (`LOC_DANIEL_HOUSE` - Exterior Porch | Day 1, 9:02 AM - HOOK BEAT 2):**
+  - _Characters:_ Henry (58), Michael (45).
+  - _Action:_ Attorney Henry Collins steps onto the porch holding `PROP_CREAM_ENVELOPE`, positioning himself between the men.
+  - _Dialogue (Henry):_ "Your neighbor left you everything. He also left you a personal request."
+  - _Camera:_ Over-the-shoulder two-shot of Henry confronting Michael, holding the cream linen envelope.
+- **Clip 004 (`LOC_DANIEL_HOUSE` - Exterior Porch | Day 1, 9:03 AM):**
+  - _Characters:_ Daniel (35), Henry (58).
+  - _Action:_ Daniel looks from the sealed envelope to Henry in pure disbelief.
+  - _Dialogue (Daniel):_ "Left me everything? Mr. Collins, I was just his neighbor."
+  - _Camera:_ Close-up on Daniel's bewildered expression.
+- **Clip 005 (`LOC_DANIEL_HOUSE` - Exterior Porch | Day 1, 9:04 AM):**
+  - _Characters:_ Sarah (41), Daniel (35).
+  - _Action:_ Sarah steps onto the porch steps, eyes narrowed with bitter disdain.
+  - _Dialogue (Sarah):_ "A neighbor who spent two years worming his way into a dying old man's head!"
+  - _Camera:_ Medium two-shot framing Sarah glaring at Daniel.
+- **Clip 006 (`LOC_DANIEL_HOUSE` - Exterior Porch | Day 1, 9:05 AM):**
+  - _Characters:_ Daniel (35), Sarah (41).
+  - _Action:_ Daniel maintains a calm, dignified posture, keeping his voice quiet and respectful.
+  - _Dialogue (Daniel):_ "I cleared his driveway and brought groceries. I never asked for a dime."
+  - _Camera:_ Close-up on Daniel, highlighting his moral groundedness.
+- **Clip 007 (`LOC_DANIEL_HOUSE` - Exterior Porch | Day 1, 9:06 AM):**
+  - _Characters:_ Michael (45), Henry (58).
+  - _Action:_ Michael glares at Henry, his fists clenched tight at his sides.
+  - _Dialogue (Michael):_ "You conned a sick old man! We're contesting this in probate court!"
+  - _Camera:_ Medium close-up on Michael's vein-bulging snarl.
+- **Clip 008 (`LOC_DANIEL_HOUSE` - Exterior Porch | Day 1, 9:07 AM):**
+  - _Characters:_ Henry (58), Michael (45).
+  - _Action:_ Henry fixes Michael with an icy, authoritative stare.
+  - _Dialogue (Henry):_ "Mr. Brooks, shouting on a porch will not change your father's legal will."
+  - _Camera:_ Tight shot on Henry's commanding, unyielding gaze.
+- **Clip 009 (`LOC_DANIEL_HOUSE` - Exterior Porch | Day 1, 9:08 AM):**
+  - _Characters:_ Henry (58), Daniel (35).
+  - _Action:_ Henry turns to Daniel with professional courtesy, nodding toward his parked car.
+  - _Dialogue (Henry):_ "I expect all parties in my office at ten-thirty sharp. Good morning."
+  - _Camera:_ Two-shot of Henry addressing Daniel before turning to leave.
+- **Clip 010 (`LOC_LAW_OFFICE` - Interior | Day 1, 10:30 AM):**
+  - _Characters:_ Daniel (35), Henry (58).
+  - _Action:_ Inside Henry’s private law office, Daniel sits quietly in a leather armchair across from Henry's desk.
+  - _Dialogue:_ `NO DIALOGUE.` (Subtle hum of ticking antique grandfather clock).
+  - _Camera:_ Medium two-shot establishing Daniel and Henry seated in the dignified office.
+- **Clip 011 (`LOC_LAW_OFFICE` - Interior | Day 1, 10:31 AM):**
+  - _Characters:_ Michael (45), Sarah (41).
+  - _Action:_ Michael paces aggressively behind Sarah’s chair, tapping his luxury watch impatiently.
+  - _Dialogue (Michael):_ "Get on with it, Collins. Read the will so we can annul it."
+  - _Camera:_ Two-shot framing Michael pacing behind Sarah’s chair.
+- **Clip 012 (`LOC_LAW_OFFICE` - Interior | Day 1, 10:32 AM):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry uses a brass letter opener to slice through the burgundy wax seal of `PROP_CREAM_ENVELOPE`.
+  - _Dialogue:_ `NO DIALOGUE.` (Crisp tearing sound of linen paper).
+  - _Camera:_ Close-up on Henry's hands extracting the crisp legal parchment.
+- **Clip 013 (`LOC_LAW_OFFICE` - Interior | Day 1, 10:33 AM - TWIST 1 BEAT 1):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry adjusts his silver reading glasses and reads with deliberate legal precision.
+  - _Dialogue (Henry):_ "Walter Brooks was of sound mind when executing this last testament."
+  - _Camera:_ Push-in on Henry speaking from behind the mahogany desk.
+- **Clip 014 (`LOC_LAW_OFFICE` - Interior | Day 1, 10:34 AM - TWIST 1 BEAT 2):**
+  - _Characters:_ Henry (58), Michael (45).
+  - _Action:_ Henry looks up from the document, delivering the clause with total composure.
+  - _Dialogue (Henry):_ "To my biological children, Michael and Sarah, I leave nothing further."
+  - _Camera:_ Medium two-shot as Henry delivers the clause directly facing Michael.
+- **Clip 015 (`LOC_LAW_OFFICE` - Interior | Day 1, 10:35 AM - TWIST 1 BEAT 3):**
+  - _Characters:_ Michael (45).
+  - _Action:_ Michael slams both palms onto the edge of Henry’s desk, knocking over a pen holder.
+  - _Dialogue (Michael):_ "What?! That's impossible! We're his blood heirs!"
+  - _Camera:_ Low-angle shot on Michael slamming the desk in outrage.
+- **Clip 016 (`LOC_LAW_OFFICE` - Interior | Day 1, 10:36 AM):**
+  - _Characters:_ Henry (58), Daniel (35).
+  - _Action:_ Henry turns calmly to Daniel, pointing to the principal beneficiary clause.
+  - _Dialogue (Henry):_ "To my neighbor, Daniel Carter, I bequeath my entire estate."
+  - _Camera:_ Two-shot framing Henry addressing Daniel.
+- **Clip 017 (`LOC_LAW_OFFICE` - Interior | Day 1, 10:37 AM):**
+  - _Characters:_ Sarah (41).
+  - _Action:_ Sarah gasps, clutching her pearl necklace in total shock.
+  - _Dialogue (Sarah):_ "The house... the savings... eight hundred thousand dollars?!"
+  - _Camera:_ Tight shot on Sarah’s horrified, pale face.
+- **Clip 018 (`LOC_LAW_OFFICE` - Interior | Day 1, 10:38 AM):**
+  - _Characters:_ Henry (58), Daniel (35).
+  - _Action:_ Henry folds the will and looks intently at Daniel.
+  - _Dialogue (Henry):_ "The will is legally unconditional, Daniel. But Walter left a personal request: open his wooden box."
+  - _Camera:_ Medium two-shot of Henry delivering Walter's personal request to Daniel.
+
+---
+
+### PART 2: THE WOODEN BOX AND THE CHILDHOOD PHOTOGRAPH (CLIPS 019–036)
+
+_Dramatic Goal: Daniel's selfless memory, false-bottom discovery, and thirty-year photograph reveal._
+
+- **Clip 019 (`LOC_PARK` - Memory Reflection | Afternoon Golden Light):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel sits alone on the park bench under the great oak tree, deep in thought.
+  - _Dialogue:_ `NO DIALOGUE.` (Gentle breeze rustling golden autumn leaves).
+  - _Camera:_ Wide establishing shot of Daniel on the bench bathed in late afternoon sunlight.
+- **Clip 020 (`LOC_WALTER_HOUSE` - Porch Memory | Two Years Prior):**
+  - _Characters:_ Walter (72), Daniel (33).
+  - _Action:_ Memory flashback: Walter hands a steaming ceramic mug to 33-year-old Daniel on the porch.
+  - _Dialogue (Walter):_ "Thank you for the groceries, Daniel. You're a good young man."
+  - _Camera:_ Soft-focus medium two-shot of Walter smiling warmly at Daniel.
+- **Clip 021 (`LOC_WALTER_HOUSE` - Porch Memory | Two Years Prior - KEY CONTINUITY BEAT):**
+  - _Characters:_ Walter (72).
+  - _Action:_ Walter gazes into Daniel's face with deep, wistful recognition.
+  - _Dialogue (Walter):_ "You have your father's eyes, son. Exactly his eyes."
+  - _Camera:_ Close-up on Walter's eyes shining with profound nostalgia.
+- **Clip 022 (`LOC_WALTER_HOUSE` - Porch Memory | Two Years Prior):**
+  - _Characters:_ Daniel (33), Walter (72).
+  - _Action:_ Daniel looks surprised; Walter gently pats his shoulder and smiles knowingly.
+  - _Dialogue (Daniel):_ "You knew my father, Walter?"
+  - _Camera:_ Two-shot of Daniel questioning Walter, who offers a mysterious smile.
+- **Clip 023 (`LOC_PARK` - Back to Reality | Day 1, 10:45 AM):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel blinks back tears on the park bench as the memory fades.
+  - _Dialogue (Daniel):_ "What did you know, Walter?"
+  - _Camera:_ Tight push-in on Daniel’s troubled eyes.
+- **Clip 024 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:00 AM):**
+  - _Characters:_ Daniel (35), Henry (58).
+  - _Action:_ Cut back to Henry's office. Daniel sits back at the conference desk opposite Henry.
+  - _Dialogue:_ `NO DIALOGUE.` (Muffled footsteps in the executive hallway).
+  - _Camera:_ Two-shot of Daniel and Henry seated at the mahogany desk.
+- **Clip 025 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:01 AM):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry lifts `PROP_WOODEN_BOX` from a lower safe and places it squarely in front of Daniel.
+  - _Dialogue (Henry):_ "This was in Walter's private safe. He wanted you to open it here."
+  - _Camera:_ Medium shot of Henry setting down the hand-carved walnut box.
+- **Clip 026 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:02 AM):**
+  - _Characters:_ Henry (58), Daniel (35).
+  - _Action:_ Henry slides a small, ornate brass key across the desk to Daniel.
+  - _Dialogue (Henry):_ "He gave me this key one week before he passed."
+  - _Camera:_ Close-up on the brass key sliding onto the polished wood.
+- **Clip 027 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:03 AM):**
+  - _Characters:_ Michael (45).
+  - _Action:_ Michael sneers arrogantly, leaning against the doorway.
+  - _Dialogue (Michael):_ "A cheap jewelry box. Is that where he hid our mother's diamonds?"
+  - _Camera:_ Medium shot of Michael's cynical grimace.
+- **Clip 028 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:04 AM):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel inserts the key into the brass keyhole and turns it; the lock clicks smoothly.
+  - _Dialogue:_ `NO DIALOGUE.` (Heavy metallic click of antique brass lock mechanism).
+  - _Camera:_ Macro shot of Daniel's fingers turning the key in the lock.
+- **Clip 029 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:05 AM - FALSE BOTTOM DISCOVERY):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ As Daniel lifts the upper tray, his thumb catches a hidden brass lever, springing open the false bottom.
+  - _Dialogue:_ `NO DIALOGUE.` (Soft wooden click revealing the concealed lower compartment).
+  - _Camera:_ Top-down shot revealing `PROP_FINAL_LETTER` sealed inside the false bottom.
+- **Clip 030 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:06 AM - SEALED LETTER PRESERVED):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel notes the inscription on the sealed envelope: _"To Daniel — Read this only after you see what lies above."_ He pockets it safely.
+  - _Dialogue (Daniel):_ "A letter... sealed for later."
+  - _Camera:_ Close-up on Daniel sliding the sealed envelope into his breast pocket.
+- **Clip 031 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:07 AM - TWIST 2 BEAT 1):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel turns back to the upper tray and lifts `PROP_CHILD_PHOTO`.
+  - _Dialogue:_ `NO DIALOGUE.` (Daniel's breath catching audibly in his throat).
+  - _Camera:_ Close-up on Daniel lifting the vintage 3.5x5" photograph.
+- **Clip 032 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:08 AM):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel’s eyes widen in utter shock as his hands tremble.
+  - _Dialogue (Daniel):_ "That's... that's me. When I was five years old."
+  - _Camera:_ Push-in on Daniel’s stunned face as color drains from his cheeks.
+- **Clip 033 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:09 AM):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel traces the image of the tall man holding young Daniel's hand.
+  - _Dialogue (Daniel):_ "And that's my dad... thirty years ago."
+  - _Camera:_ Macro close-up on the vintage photo showing 5-year-old Daniel and Thomas Carter.
+- **Clip 034 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:10 AM - TWIST 2 BEAT 2):**
+  - _Characters:_ Sarah (41).
+  - _Action:_ Sarah leans over the desk, squinting at the aged photograph in disbelief.
+  - _Dialogue (Sarah):_ "Why would our father have a thirty-year-old picture of you?!"
+  - _Camera:_ Medium shot of Sarah staring down at the photo in confusion.
+- **Clip 035 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:11 AM - TWIST 2 BEAT 3):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel flips the photograph over, reading the faded blue fountain-pen cursive aloud.
+  - _Dialogue (Daniel):_ "'You saved my life before you even knew my name.'"
+  - _Camera:_ Close-up on the back of the photograph showing the handwritten inscription.
+- **Clip 036 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:12 AM):**
+  - _Characters:_ Henry (58), Daniel (35).
+  - _Action:_ Henry leans in, inspecting the ink and date stamp closely.
+  - _Dialogue (Henry):_ "That's Walter's fountain pen cursive. Dated December 14th, 1996."
+  - _Camera:_ Over-the-shoulder two-shot of Henry examining the photo held by Daniel.
+
+---
+
+### PART 3: THE $1,200 HOSPITAL DEPOSIT AND SIBLING CONSPIRACY (CLIPS 037–054)
+
+_Dramatic Goal: 1996 blizzard reveal, deposit slip proof, and Michael's desperate conspiracy._
+
+- **Clip 037 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:15 AM):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel reaches back into the box and withdraws `PROP_HOSPITAL_RECEIPT`.
+  - _Dialogue:_ `NO DIALOGUE.` (Gentle rustle of aged yellow carbon-copy paper).
+  - _Camera:_ Close-up on Daniel's fingers carefully unfolding the brittle document.
+- **Clip 038 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:16 AM - TWIST 3 BEAT 1):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel reads the typed header of the hospital slip in hushed awe.
+  - _Dialogue (Daniel):_ "'St. Jude Community Hospital... Emergency Trauma Intake & Surgical Deposit... $1,200.00 cash.'"
+  - _Camera:_ Macro shot of the yellow slip highlighting _$1,200 Emergency Surgery Deposit_.
+- **Clip 039 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:17 AM - TWIST 3 BEAT 2):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry reads the payer line with profound reverence.
+  - _Dialogue (Henry):_ "Payer: Thomas Carter. Patient: Unidentified Male, severe hypothermia and trauma."
+  - _Camera:_ Close-up on Henry pointing his gold pen at Thomas Carter's name.
+- **Clip 040 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:18 AM):**
+  - _Characters:_ Michael (45), Henry (58).
+  - _Action:_ Michael sneers defensively, waving his hands dismissively at Henry.
+  - _Dialogue (Michael):_ "Twelve hundred dollars?! What does a thirty-year-old receipt have to do with eight hundred grand?!"
+  - _Camera:_ Tight two-shot framing Michael scoffing aggressively at Henry.
+- **Clip 041 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:19 AM):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry produces Walter’s leather-bound personal diary from the desk drawer.
+  - _Dialogue (Henry):_ "Everything, Michael. This is your father's private journal from that winter."
+  - _Camera:_ Medium shot of Henry opening the worn leather journal.
+- **Clip 042 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:20 AM):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry reads the entry, his voice deep, measured, and solemn.
+  - _Dialogue (Henry):_ "'December 1996. After my manufacturing business collapsed, I spun out in the blizzard.'"
+  - _Camera:_ Close-up on Henry reading Walter's elegant cursive handwriting.
+- **Clip 043 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:21 AM):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry continues reading as the room falls dead silent.
+  - _Dialogue (Henry):_ "'Bleeding in a snowbank, I waited for death. Then headlights stopped.'"
+  - _Camera:_ Slow pan across the journal entry to Henry's solemn face.
+- **Clip 044 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:22 AM):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Tears well in Daniel's eyes as the pieces of his father's past fall into place.
+  - _Dialogue (Daniel):_ "My father pulled him out..."
+  - _Camera:_ Extreme close-up on Daniel whispering in realization.
+- **Clip 045 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:23 AM):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry reads the journal passage documenting the $1,200 emergency deposit.
+  - _Dialogue (Henry):_ "'A young machinist carried me into St. Jude. He emptied his pockets—twelve hundred dollars.'"
+  - _Camera:_ Close-up on Henry reading with deep emotion.
+- **Clip 046 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:24 AM):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry reads the final passage explaining the dropped photograph.
+  - _Dialogue (Henry):_ "'When he left, this photograph fell from his coat. I searched thirty years for him.'"
+  - _Camera:_ Macro shot of the photograph resting beside the $1,200 deposit slip.
+- **Clip 047 (`LOC_LAW_OFFICE` - Interior | Day 1, 11:25 AM):**
+  - _Characters:_ Michael (45).
+  - _Action:_ Michael explodes into a fury, refusing to accept the truth.
+  - _Dialogue (Michael):_ "A fairy tale! He gave our inheritance to buy off a ghost!"
+  - _Camera:_ Medium shot of Michael kicking his leather chair in disgust.
+- **Clip 048 (`LOC_LAW_OFFICE` - Executive Corridor | Day 1, 11:30 AM):**
+  - _Characters:_ Michael (45), Sarah (41).
+  - _Action:_ Out in the executive hallway, Michael paces furiously while Sarah leans against the wall.
+  - _Dialogue (Michael):_ "We don't accept this! The old man was senile! We're filing a contest!"
+  - _Camera:_ Medium two-shot tracking Michael pacing the quiet corridor.
+- **Clip 049 (`LOC_LAW_OFFICE` - Executive Corridor | Day 1, 11:31 AM):**
+  - _Characters:_ Sarah (41).
+  - _Action:_ Sarah looks uneasy, clutching her coat collar tightly in the quiet hallway.
+  - _Dialogue (Sarah):_ "Michael, what if he wasn't demented? What if the hospital receipt is real?"
+  - _Camera:_ Tight close-up on Sarah’s anxious, conflicted face.
+- **Clip 050 (`LOC_LAW_OFFICE` - Executive Corridor | Day 1, 11:32 AM):**
+  - _Characters:_ Michael (45), Sarah (41).
+  - _Action:_ Michael corners Sarah against the wainscoting, his voice venomous and threatening.
+  - _Dialogue (Michael):_ "Eight hundred thousand dollars is on the line, Sarah! Do you want your renovation paid off or not?!"
+  - _Camera:_ Intense over-the-shoulder two-shot of Michael bullying Sarah.
+- **Clip 051 (`LOC_LAW_OFFICE` - Executive Corridor | Day 1, 11:33 AM):**
+  - _Characters:_ Sarah (41), Michael (45).
+  - _Action:_ Sarah swallows hard and slowly nods, surrendering her moral hesitation.
+  - _Dialogue (Sarah):_ "All right. But we need a doctor or a document to prove he couldn't manage his affairs."
+  - _Camera:_ Medium two-shot showing Sarah consenting to the conspiracy.
+- **Clip 052 (`LOC_LAW_OFFICE` - Executive Corridor | Day 1, 11:34 AM):**
+  - _Characters:_ Michael (45).
+  - _Action:_ Michael pulls out his smartphone and taps the screen with a cruel smirk.
+  - _Dialogue (Michael):_ "I already have our lawyer drafting the injunction. By tomorrow morning, Daniel won't touch a cent."
+  - _Camera:_ Medium close-up on Michael pressing the phone to his ear, stepping away.
+- **Clip 053 (`LOC_LAW_OFFICE` - Interior Desk | Day 1, 11:35 AM):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Inside the office, Daniel gently places the photo and receipt back into the box.
+  - _Dialogue (Daniel):_ "Mr. Collins, I don't want a war. If his children want the money, let them take it."
+  - _Camera:_ Medium shot of Daniel speaking with pure humility.
+- **Clip 054 (`LOC_LAW_OFFICE` - Interior Desk | Day 1, 11:36 AM):**
+  - _Characters:_ Henry (58), Daniel (35).
+  - _Action:_ Henry places a firm, reassuring hand on Daniel's wrist, his eyes burning with conviction.
+  - _Dialogue (Henry):_ "Walter spent thirty years preparing for this moment, Daniel. Do not dishonor your father's memory by backing down."
+  - _Camera:_ Push-in on Henry’s resolute face as Part 3 ends on an unshakeable promise.
+
+---
+
+### PART 4: THE FORGED POWER OF ATTORNEY AND THE PROBATE RULING (CLIPS 055–072)
+
+_Dramatic Goal: Legal showdown in Walter's study, forgery exposed, realistic court timeline._
+
+- **Clip 055 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:00 PM):**
+  - _Characters:_ Michael (45), Daniel (35).
+  - _Action:_ Inside Walter's study, Michael stands aggressively by the hearth holding a legal contest petition; Daniel sits calmly in an armchair.
+  - _Dialogue (Michael):_ "Here's our official contest filing, Carter. We're petitioning to declare my father mentally incompetent."
+  - _Camera:_ High-angle medium two-shot framing Michael standing while Daniel remains seated.
+- **Clip 056 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:01 PM):**
+  - _Characters:_ Sarah (41).
+  - _Action:_ Sarah stands by the bay window, avoiding eye contact with Daniel.
+  - _Dialogue (Sarah):_ "The court will freeze all bank accounts. You'll spend three years in litigation paying legal fees."
+  - _Camera:_ Medium shot of Sarah speaking with rehearsed coldness.
+- **Clip 057 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:02 PM):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel looks around the quiet room, his voice steady, calm, and sorrowful.
+  - _Dialogue (Daniel):_ "Your father wasn't incompetent. He was lonely. And neither of you called him for six months."
+  - _Camera:_ Close-up on Daniel; his truth cuts deep into the siblings' conscience.
+- **Clip 058 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:03 PM):**
+  - _Characters:_ Michael (45), Daniel (35).
+  - _Action:_ Michael sneers, stepping toward Daniel menacingly.
+  - _Dialogue (Michael):_ "His mental health deteriorated! A man of sound mind doesn't give his estate to a neighborhood gardener!"
+  - _Camera:_ Tight shot on Michael leaning over Daniel's chair.
+- **Clip 059 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:04 PM):**
+  - _Characters:_ Henry (58), Michael (45).
+  - _Action:_ The heavy oak door opens. Henry Collins enters carrying `PROP_LEGAL_DOSSIER`.
+  - _Dialogue (Henry):_ "Careful how far you push that lie, Michael. Walter prepared for your greed months ago."
+  - _Camera:_ Medium two-shot framing Henry in the doorway confronting Michael across the room.
+- **Clip 060 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:05 PM):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry sets the thick red dossier onto Walter’s desk, opening the brass buckle.
+  - _Dialogue (Henry):_ "You claim Walter was incompetent? Sixty days before his passing, Walter underwent a full psychiatric evaluation."
+  - _Camera:_ Close-up on Henry sliding a certified medical clearance across the desk.
+- **Clip 061 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:06 PM):**
+  - _Characters:_ Sarah (41).
+  - _Action:_ Sarah picks up the medical clearance, scanning the official hospital stamps in dismay.
+  - _Dialogue (Sarah):_ "Signed by the Chief of Psychiatry at Boston General... 'Cognitive capacity 100% unimpaired'..."
+  - _Camera:_ Close-up on Sarah’s trembling hands holding the certified clearance.
+- **Clip 062 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:07 PM):**
+  - _Characters:_ Henry (58), Michael (45).
+  - _Action:_ Henry pulls out the second section of the dossier—two certified bank statements.
+  - _Dialogue (Henry):_ "And regarding being disinherited: Michael, you received $150,000. Sarah, you received $100,000."
+  - _Camera:_ Two-shot of Henry presenting the financial ledger as Michael flinches.
+- **Clip 063 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:08 PM):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry taps the ledger with his gold pen, fixing Michael with an uncompromising glare.
+  - _Dialogue (Henry):_ "Article IV of Walter’s will explicitly designates that quarter-million dollars as your full and final inheritance."
+  - _Camera:_ Tight shot on Henry's piercing gaze exposing the siblings' greed.
+- **Clip 064 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:09 PM - TWIST 4 BEAT 1):**
+  - _Characters:_ Michael (45).
+  - _Action:_ Michael attempts to rally his bluster, sneering defensively.
+  - _Dialogue (Michael):_ "So what?! That doesn't prove I did anything wrong! We still have rights as blood heirs!"
+  - _Camera:_ Medium shot of Michael backing toward the fireplace, cornered.
+- **Clip 065 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:10 PM - TWIST 4 BEAT 2):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry unseals the final red tab of the dossier, revealing a contract and realtor letter.
+  - _Dialogue (Henry):_ "No, Michael. But this proves felony fraud: your forged Power of Attorney."
+  - _Camera:_ Top-down shot of the forged document and realtor warning letter laid side-by-side.
+- **Clip 066 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:11 PM - TWIST 4 BEAT 3):**
+  - _Characters:_ Michael (45).
+  - _Action:_ Michael turns ghost-white, his jaw dropping as he stares at his own forgery exposed.
+  - _Dialogue (Henry):_ "Two months ago, you attempted to sell this house behind Walter's back and force him into a state ward."
+  - _Camera:_ Push-in on Michael’s pale, sweat-glistening face as his scheme collapses.
+- **Clip 067 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:12 PM):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry displays the certified forensic handwriting analysis report.
+  - _Dialogue (Henry):_ "Beacon Realty alerted Walter immediately. We had a forensic handwriting analyst verify your forgery."
+  - _Camera:_ Macro close-up on the forensic stamp matching Michael's signature overlay.
+- **Clip 068 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:13 PM):**
+  - _Characters:_ Sarah (41).
+  - _Action:_ Sarah drops into a leather chair, burying her face in her hands in sheer humiliation.
+  - _Dialogue (Sarah):_ "Michael... you forged Dad's name? Oh God, you forged his name..."
+  - _Camera:_ Medium shot on Sarah sobbing in disgraced realization.
+- **Clip 069 (`LOC_WALTER_HOUSE` - Interior Study | Day 2, 2:14 PM):**
+  - _Characters:_ Henry (58), Michael (45).
+  - _Action:_ Henry closes the dossier methodically, looking Michael dead in the eyes.
+  - _Dialogue (Henry):_ "I am submitting this entire dossier to Probate Court tomorrow. If you challenge this will, you face prison."
+  - _Camera:_ Close-up on Henry snapping the brass lock shut on his briefcase.
+- **Clip 070 (`LOC_WALTER_HOUSE` - Interior Study | TRANSITION SCENE):**
+  - _Characters:_ Michael (45), Sarah (41).
+  - _Action:_ Michael grabs Sarah's arm and storms out the study door in total disgrace.
+  - _Dialogue (Michael):_ "Let's go, Sarah. We're done here."
+  - _Camera:_ Medium two-shot tracking Michael and Sarah as they exit in disgrace through the study door.
+- **Clip 071 (`LOC_LAW_OFFICE` - Interior | Several Weeks Later — After the Probate Hearing):**
+  - _Characters:_ Henry (58), Daniel (35).
+  - _Action:_ Inside Henry's law office several weeks later, Henry sits across from Daniel at the conference desk, presenting the official stamped court decree.
+  - _Dialogue (Henry):_ "The court has spoken, Daniel. The contest was dismissed with prejudice. The estate is yours."
+  - _Camera:_ Dignified medium two-shot framing Henry handing the stamped probate decree across the desk to Daniel in morning light.
+- **Clip 072 (`LOC_WALTER_HOUSE` - Interior Study | Afternoon):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel stands at Walter's study window holding the court order, looking out at the sunny garden.
+  - _Dialogue (Daniel):_ "It's finally over... but the real truth is still in that letter."
+  - _Camera:_ Slow tracking shot inside the study pushing in on Daniel looking out through the bay window.
+
+---
+
+### PART 5: THE FINAL LETTER AND THE FOUNDATION (CLIPS 073–090)
+
+_Dramatic Goal: Walter's voiceover, emotional release, 501(c)(3) foundation, and locked closing beat._
+
+- **Clip 073 (`LOC_WALTER_HOUSE` - Interior Study | Afternoon Light):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel sits alone in Walter’s burgundy wingback chair, surrounded by the quiet ticking of the grandfather clock.
+  - _Dialogue:_ `NO DIALOGUE.` (Soft, rhythmic ticking of clock and gentle afternoon breeze).
+  - _Camera:_ Beautifully composed wide shot of Daniel in Walter's quiet sanctuary.
+- **Clip 074 (`LOC_WALTER_HOUSE` - Interior Study | Afternoon):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel reaches into his breast pocket and pulls out the sealed envelope (`PROP_FINAL_LETTER`) kept since Part 2.
+  - _Dialogue (Daniel):_ "Time to hear your voice, Walter."
+  - _Camera:_ Close-up on Daniel's fingers carefully breaking the red wax seal.
+- **Clip 075 (`LOC_WALTER_HOUSE` - Interior Study | Afternoon - TWIST 5 BEAT 1):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel unfolds the cream letter. As he reads, Walter’s warm, dignified voiceover begins gently.
+  - _Dialogue (Walter - Voiceover):_ "'My dear Daniel. Your father never asked me to repay him thirty years ago.'"
+  - _Camera:_ Macro tracking shot across Walter's elegant fountain-pen cursive.
+- **Clip 076 (`LOC_WALTER_HOUSE` - Interior Study | Afternoon - TWIST 5 BEAT 2):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Tears form in Daniel’s eyes as the voiceover reveals Walter's decades of searching.
+  - _Dialogue (Walter - Voiceover):_ "'Because the hospital slip had no address and your family moved, I searched for thirty years without finding him.'"
+  - _Camera:_ Push-in on Daniel’s glistening eyes and trembling lips.
+- **Clip 077 (`LOC_WALTER_HOUSE` - Interior Study | Afternoon - TWIST 5 BEAT 3):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel touches the photograph of his father resting on the desk beside the letter.
+  - _Dialogue (Walter - Voiceover):_ "'Two years ago, when you moved in next door, I recognized your face from that photograph.'"
+  - _Camera:_ Extreme close-up tilting from the photo of 5-year-old Daniel to 35-year-old Daniel crying.
+- **Clip 078 (`LOC_WALTER_HOUSE` - Interior Study | Afternoon - TWIST 5 BEAT 4):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Walter's voiceover delivers the emotional core of the entire journey.
+  - _Dialogue (Walter - Voiceover):_ "'And when you told me your late father's name was Thomas Carter, I knew God had answered my prayer.'"
+  - _Camera:_ Slow medium shot as Daniel lets out a choked sob of pure emotional release.
+- **Clip 079 (`LOC_WALTER_HOUSE` - Interior Study | Afternoon - TWIST 5 BEAT 5):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel reads the final lines of the letter, clutching the paper to his chest.
+  - _Dialogue (Walter - Voiceover):_ "'I waited thirty years to find a way to thank his family. Take care of each other.'"
+  - _Camera:_ Close-up on the final signature: _With eternal gratitude, Walter Brooks._
+- **Clip 080 (`LOC_WALTER_HOUSE` - Interior Study | Afternoon):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel rests his forehead against his hands, crying silent tears of profound awe and love for his father.
+  - _Dialogue (Daniel):_ "Dad... you never said a word. You never asked for anything..."
+  - _Camera:_ Overhead camera slowly pulling up as afternoon sunbeams illuminate Daniel.
+- **Clip 081 (`LOC_WALTER_HOUSE` - Interior Study | Day 3, Morning):**
+  - _Characters:_ Daniel (35), Henry (58).
+  - _Action:_ Daniel stands tall at Walter's desk as Henry Collins joins him, reviewing the estate paperwork.
+  - _Dialogue (Daniel):_ "Mr. Collins, my father didn't take that money for himself, and I won't either."
+  - _Camera:_ Medium two-shot establishing Daniel's firm, moral resolve.
+- **Clip 082 (`LOC_WALTER_HOUSE` - Interior Study | Day 3, Morning):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry looks at Daniel with deep curiosity and respect.
+  - _Dialogue (Henry):_ "What are you planning to do with eight hundred thousand dollars, Daniel?"
+  - _Camera:_ Close-up on Henry adjusting his reading glasses.
+- **Clip 083 (`LOC_WALTER_HOUSE` - Interior Study | Day 3, Morning):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel points around the beautiful two-story home with a vision of service.
+  - _Dialogue (Daniel):_ "We turn this house into a community center for lonely seniors. And the $300,000 becomes their medical care fund."
+  - _Camera:_ Wide shot capturing the warm study as Daniel outlines the foundation.
+- **Clip 084 (`LOC_WALTER_HOUSE` - Interior Study | Day 3, Morning):**
+  - _Characters:_ Henry (58).
+  - _Action:_ Henry smiles warmly, his eyes shining with profound pride.
+  - _Dialogue (Henry):_ "The Walter Brooks Senior Care Foundation... Walter would be overjoyed, son."
+  - _Camera:_ Close-up on Henry extending his hand to shake Daniel's.
+- **Clip 085 (`LOC_LAW_OFFICE` - Interior | One Week Later):**
+  - _Characters:_ Daniel (35), Henry (58).
+  - _Action:_ Daniel and Henry sit at the desk signing the initial incorporation papers for The Walter Brooks Senior Care Foundation — a charitable nonprofit organization seeking 501(c)(3) tax-exempt status.
+  - _Dialogue (Henry):_ "The charter is complete. This house will protect elderly neighbors for generations to come."
+  - _Camera:_ Top-down shot of Daniel signing The Walter Brooks Senior Care Foundation charter.
+- **Clip 086 (`LOC_LAW_OFFICE` - Interior | One Week Later):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel slides the final document back to Henry, looking at peace.
+  - _Dialogue (Daniel):_ "Kindness shouldn't end with us. It has to keep moving forward."
+  - _Camera:_ Medium close-up on Daniel smiling with profound inner fulfillment.
+- **Clip 087 (`LOC_WALTER_HOUSE` - Exterior Porch | Two Weeks Later, Sunny Morning):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Two weeks later. The house is freshly painted, flowerbeds blooming. Daniel kneels by the front entryway with a screwdriver.
+  - _Dialogue:_ `NO DIALOGUE.` (Crisp turn of screwdriver tightening a brass screw).
+  - _Camera:_ Medium shot of Daniel mounting `PROP_BRASS_PLAQUE` beside the front door.
+- **Clip 088 (`LOC_WALTER_HOUSE` - Exterior Porch | Sunny Morning):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel gently buffs the polished brass plate with a cloth, stepping back to admire it.
+  - _Dialogue:_ `NO DIALOGUE.` (Gleaming reflection of autumn sunlight on polished brass).
+  - _Camera:_ Macro close-up on the plaque: _Walter Brooks — A Man Who Never Forgot Kindness (1954–2026)._
+- **Clip 089 (`LOC_WALTER_HOUSE` - Exterior Porch | Sunny Morning - ENDING BEAT 1):**
+  - _Characters:_ Clara (70), Daniel (35).
+  - _Action:_ Elderly neighbor Mrs. Clara Reed (`CHAR_CLARA`, 70) walks up the front path in her lavender shawl, smiling warmly.
+  - _Dialogue (Clara):_ "Are you the new owner?"
+  - _Camera:_ Medium two-shot framing Clara looking up at Daniel on the porch.
+- **Clip 090 (`LOC_WALTER_HOUSE` - Exterior Porch | Sunny Morning - ENDING BEAT 2):**
+  - _Characters:_ Daniel (35).
+  - _Action:_ Daniel looks at the brass plaque, then at Walter's peaceful garden, offering a gentle, humble smile.
+  - _Dialogue (Daniel):_ "No. I'm just taking care of his home."
+  - _Camera:_ Slow cinematic pull-back from Daniel's serene smile to the gleaming brass plaque as soft autumn light bathes the house in timeless peace. Fade to black.
+
+---
+
+## SECTION 7: NARRATIVE MYSTERY & EMOTIONAL REVEAL MATRIX
+
+```
++--------------------------------------------------------------------------------------------------------+
+| NARRATIVE MYSTERY & EMOTIONAL REVEAL MATRIX                                                            |
++--------------------------+-------------------------------------+---------------------------------------+
+| Dramatic Question Raised | Surface Assumption                  | The Deeper Truth Revealed             |
++--------------------------+-------------------------------------+---------------------------------------+
+| Why did Walter cut off   | Walter grew spiteful or lost his    | Walter gave them $250,000 in life;    |
+| his biological children? | mental faculties in isolation.      | their ongoing neglect & fraud disowned|
+|                          |                                     | them morally long ago.                |
++--------------------------+-------------------------------------+---------------------------------------+
+| Why bequeath $800k to    | Daniel was a cunning opportunist who| Daniel is the son of the stranger who |
+| an ordinary neighbor?    | manipulated an elderly man.         | saved Walter's life 30 years ago.     |
++--------------------------+-------------------------------------+---------------------------------------+
+| How did Walter have the  | Daniel brought it over or Walter was| Thomas dropped it in the hospital hall|
+| 1996 childhood photo?    | secretly stalking Daniel's family.  | in 1996; Walter kept it 30 yrs looking|
+|                          |                                     | for his savior.                       |
++--------------------------+-------------------------------------+---------------------------------------+
+| What is inside the box's | Another bank account or legal trap  | Walter's heartfelt testament of       |
+| hidden false bottom?     | against Michael.                    | gratitude confirming God answered his |
+|                          |                                     | 30-year prayer.                       |
++--------------------------+-------------------------------------+---------------------------------------+
+| What will Daniel do with | Keep the $800,000 and become wealthy| Honors his father's selfless legacy by|
+| his newfound wealth?     | overnight.                          | founding a free Senior Care Home.     |
++--------------------------+-------------------------------------+---------------------------------------+
+```
+
+---
+
+## SECTION 8: FINAL RESOLUTION & PRODUCTION COMPLIANCE VERIFICATION
+
+1. **Dialogue Precision Verification:**
+   - Locked Hook (Clip 002–003):
+     - Michael: _"You stole my father's entire fortune!"_
+     - Henry: _"Your neighbor left you everything. He also left you a personal request."_
+   - Locked Ending (Clip 089–090):
+     - Clara: _"Are you the new owner?"_
+     - Daniel: _"No. I'm just taking care of his home."_
+2. **Actor Density Compliance:** Exactly 1 or 2 visible characters staged per clip across all 90 clips. No crowded multi-character scenes.
+3. **Location Discipline:** Exactly 4 repeatable locations utilized: `LOC_DANIEL_HOUSE`, `LOC_WALTER_HOUSE`, `LOC_LAW_OFFICE`, and `LOC_PARK`. Zero unauthorized locations.
+4. **Legal & Financial Cohesion:** Unconditional will with personal request box; dual-physician psychiatric evaluation signed on the same morning in October 2026; $250k prior advancements; $1,200 initial emergency surgical deposit; several weeks later probate decree dismisses contest; The Walter Brooks Senior Care Foundation established as a nonprofit seeking 501(c)(3) status.
