@@ -82,46 +82,46 @@
 * **CAMERA:** Extreme close-up on Meghla's steady, penetrating eyes under the black umbrella canopy.
 * **PERFORMANCE AND AUDIO:** Measured, dignified strike from Meghla; choked, bitter mutter from Shirin. Rain dripping from eaves.
 
-#### CLIP 186 — THE ARRIVAL OF THE BLACK SEDAN
+#### CLIP 186 — THE ARRIVAL OF THE BLACK SEDAN AT 8:45 AM
 * **DURATION:** Exactly 10 seconds.
 * **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, stopping at gate); `CHAR_RABEYA` (56, peering from veranda); BLACK SEDAN (stopping outside gate).
-* **SCENE:** Front gate and muddy village road. Saturday, 8:10 AM. Rain drumming on car hood.
+* **SCENE:** Veranda to front gate. Saturday, 8:45 AM. Rain drumming on car hood and tin eaves.
 * **ACTION AND TIMING:**
-  * `0–3s`: A car horn beeps softly; the sleek black sedan from yesterday splashes to a halt at the gate.
-  * `3–7s`: Rabeya calls out in alarm from the veranda, asking who has arrived so early.
-  * `7–10s`: Meghla stands frozen under her umbrella, staring at the car in surprise.
+  * `0–3s`: Close-up of the wooden wall clock on the veranda showing exactly 8:45 AM; a soft car horn beeps outside.
+  * `3–7s`: The sleek black sedan splashes to a halt right by the gate; Rabeya calls out in surprise.
+  * `7–10s`: Meghla halts under her umbrella, gazing at the car in wonder.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মা রাবেয়া (`CHAR_RABEYA`): “এত সকালে আবার কে এল রে মেঘলা?”
-  * মেঘলা (`CHAR_MEGHLA`): “জানি না মা... হয়তো কোনো পথচারী।”
-* **CAMERA:** Low tracking shot past the car tires splashing through muddy puddles, revealing the familiar black sedan.
-* **PERFORMANCE AND AUDIO:** Alarmed maternal cry; guarded, curious answer from Meghla. Car engine idling softly.
+  * মা রাবেয়া (`CHAR_RABEYA`): “পৌনে নয়টায় আবার কে গাড়ি নিয়ে এল রে মেঘলা?”
+  * মেঘলা (`CHAR_MEGHLA`): “জানি না মা... হয়তো কোনো মেহমান।”
+* **CAMERA:** Rack focus from the veranda wall clock reading 8:45 AM down to the tires splashing puddles at the gate.
+* **PERFORMANCE AND AUDIO:** Clock ticking; alarmed maternal inquiry; puzzled, guarded response from Meghla. Car idling.
 
 #### CLIP 187 — ASHIK STEPS OUT IN THE RAIN
 * **DURATION:** Exactly 10 seconds.
 * **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, holding large black umbrella, stepping out in grey shirt and trousers); `CHAR_SHIRIN` (52, gasping); `CHAR_NAZNEEN` (55).
-* **SCENE:** Front gate road. Saturday, 8:12 AM.
+* **SCENE:** Front gate road. Saturday, 8:46 AM.
 * **ACTION AND TIMING:**
   * `0–3s`: Ashik opens the driver's door, stepping directly into the mud with his umbrella raised.
-  * `3–7s`: Shirin gasps across the fence, wondering why the wealthy groom returned.
-  * `7–10s`: Nazneen whispers with spiteful glee that he must have brought the police to retaliate.
+  * `3–7s`: Shirin gasps across the fence, wondering why Ashik has returned so early.
+  * `7–10s`: Nazneen mutters, noticing there is no anger on his face.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “আরে! এ তো সেই লাখ টাকার পাত্র! আবার এসেছে কেন?”
-  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “নিশ্চয়ই কালকের অপমানের শোধ তুলতে পুলিশ নিয়ে এসেছে!”
-* **CAMERA:** Low-angle shot on Ashik hurrying around to open the passenger door, cutting to the whispering aunts.
-* **PERFORMANCE AND AUDIO:** Shocked, intrusive gossip from Shirin and Nazneen; heavy raindrops splashing on car roof.
+  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “আরে! এ তো সেই আশিক সাহেব! এত সকালে আবার কেন এল?”
+  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “ছেলেটার মুখে তো কোনো রাগ দেখছি না রে আপা!”
+* **CAMERA:** Low-angle shot on Ashik hurrying around to open the passenger door, cutting to the watchful aunts.
+* **PERFORMANCE AND AUDIO:** Surprised whisper from Shirin and Nazneen; heavy raindrops splashing on car roof.
 
 #### CLIP 188 — JAHANARA BEGUM STEPS INTO THE MUD
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, humble green cotton saree, bare of heavy gold, stepping into mud); `CHAR_ASHIK` (34, holding umbrella over her); `CHAR_MEGHLA` (32, umbrella slipping in her grip).
-* **SCENE:** Gate entrance. Saturday, 8:14 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, humble green cotton saree, bare of gold, stepping into mud); `CHAR_ASHIK` (34, holding umbrella over her); `CHAR_MEGHLA` (32).
+* **SCENE:** Gate entrance. Saturday, 8:47 AM.
 * **ACTION AND TIMING:**
   * `0–3s`: Passenger door opens; Jahanara Begum steps down onto the unpaved muddy road with downcast eyes.
-  * `3–7s`: Ashik cautions her about the mud; Jahanara replies humbly that this mud is cleaner than her mind's garbage.
+  * `3–7s`: Ashik cautions her about the mud; Jahanara replies that mud is no obstacle on the path to making amends.
   * `7–10s`: Meghla's umbrella tilts as she stares in utter disbelief at the humbled woman.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা, ধীরে চলো... রাস্তায় কাদা আছে।”
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “এই কাদা তো আমার মনের আবর্জনার চেয়ে অনেক পরিষ্কার রে আশিক।”
-* **CAMERA:** Slow-motion close-up of Jahanara's simple leather slippers stepping into the mud, tilting to her tear-filled, remorseful face.
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা, ধীরে এসো... কাদা বাঁচিয়ে হাঁটো।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “ভুল সংশোধনের পথে কাদা-মাটি কোনো বাধা নয় রে আশিক।”
+* **CAMERA:** Slow-motion close-up of Jahanara's simple leather slippers stepping into the mud, tilting to her remorseful face.
 * **PERFORMANCE AND AUDIO:** Protective filial guidance from Ashik; deeply humbled, sincere confession from Jahanara. Rain sounds.
 
 ---
@@ -131,72 +131,72 @@
 #### CLIP 189 — STANDING BEFORE MEGHLA
 * **DURATION:** Exactly 10 seconds.
 * **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, standing in the courtyard rain before Meghla); `CHAR_MEGHLA` (32, clutching school file).
-* **SCENE:** Courtyard path. Saturday, 8:16 AM.
+* **SCENE:** Courtyard path. Saturday, 8:48 AM.
 * **ACTION AND TIMING:**
   * `0–3s`: Jahanara walks past the gate, stopping directly before Meghla on the wet brick path.
-  * `3–7s`: Meghla asks with guarded dignity why she has returned.
-  * `7–10s`: Jahanara answers with a quivering voice: not to stop her from school, but to beg forgiveness for a sin.
+  * `3–7s`: Meghla asks softly why she has come so early in the morning.
+  * `7–10s`: Jahanara replies: to bring an honorable closure to yesterday's unfinished words.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “আন্টি... আপনি আবার কেন এসেছেন?”
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “তোমাকে স্কুলে যেতে বাধা দিতে আসিনি মা, শুধু একটা পাপের ক্ষমা চাইতে এসেছি।”
+  * মেঘলা (`CHAR_MEGHLA`): “আন্টি... আপনি এত সকালে এখানে?”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “কালকের অসমাপ্ত কথাগুলোর একটা সম্মানজনক সমাপ্তি টানতে এসেছি মেঘলা।”
 * **CAMERA:** Tight two-shot in the falling rain, the black umbrellas framing their emotional encounter.
-* **PERFORMANCE AND AUDIO:** Guarded, self-respecting question from Meghla; trembling, broken plea from Jahanara. Rain patter.
+* **PERFORMANCE AND AUDIO:** Guarded, self-respecting question from Meghla; soft, earnest, trembling answer from Jahanara. Rain patter.
 
 #### CLIP 190 — FATHER AND MOTHER DASH INTO THE DOWNPOUR
 * **DURATION:** Exactly 10 seconds.
 * **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, running down veranda stairs into rain); `CHAR_RABEYA` (56); `CHAR_ASHIK` (34, sheltering them with umbrella).
-* **SCENE:** Courtyard. Saturday, 8:18 AM.
+* **SCENE:** Courtyard. Saturday, 8:49 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Altaf Master rushes into the rain, soaked in seconds, waving his hands in panic.
-  * `3–7s`: Altaf stammers that they made no police complaint or accusation against them.
-  * `7–10s`: Ashik rushes forward, shielding the old man with his umbrella, guiding him to the porch.
+  * `0–3s`: Altaf Master steps down into the courtyard, urging them not to stand in the rain.
+  * `3–7s`: Altaf asks why they troubled themselves in such heavy rain.
+  * `7–10s`: Ashik takes his elbow, guiding everyone up to the covered veranda.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “আপা! আপনারা আবার কষ্ট করে কেন এলেন? আমরা তো আপনাদের বিরুদ্ধে কোনো অভিযোগ করিনি!”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “কাকা, আপনারা বৃষ্টিতে ভিজবেন না, দয়া করে বারান্দায় চলুন।”
-* **CAMERA:** Tracking shot of Altaf Master trembling in the rain, embraced under Ashik's protective umbrella.
-* **PERFORMANCE AND AUDIO:** Panicked, humble defense from Altaf; urgent, deeply respectful care from Ashik.
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আপা! এত বৃষ্টির মধ্যে আপনারা আবার কেন কষ্ট করলেন?”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “কাকা, ভেতরে চলুন, বৃষ্টিতে কথা বলা যাবে না।”
+* **CAMERA:** Tracking shot moving with the elders onto the wooden veranda platform.
+* **PERFORMANCE AND AUDIO:** Anxious paternal hospitality from Altaf; respectful, reassuring guidance from Ashik.
 
-#### CLIP 191 — SHUTTING DOWN THE SYCOPHANT
+#### CLIP 191 — DISMISSING SYCOPHANCY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_SHIRIN` (52, scurrying over to flatter Jahanara); `CHAR_JAHANARA` (58, shutting her down with authority); `CHAR_ASHIK` (34, holding sweet boxes).
-* **SCENE:** West veranda. Saturday, 8:20 AM.
+* **CHARACTER CONTINUITY:** `CHAR_SHIRIN` (52, scurrying over); `CHAR_JAHANARA` (58); `CHAR_ASHIK` (34).
+* **SCENE:** West veranda. Saturday, 8:50 AM.
 * **ACTION AND TIMING:**
   * `0–3s`: Everyone gathers under the veranda roof; Shirin rushes over with sycophantic excuses.
-  * `3–7s`: Shirin apologizes for Meghla's "insolence" yesterday.
-  * `7–10s`: Jahanara silences her with a thunderous rebuke, claiming she herself was the only insolent one.
+  * `3–7s`: Shirin tells her not to mind yesterday's misunderstanding.
+  * `7–10s`: Jahanara stops her firmly: it wasn't a misunderstanding; the wrong was entirely mine.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “আসুন ভাবি, ভেতরে আসুন! কাল মেয়েটা বেয়াদবি করেছিল, আপনারা কিছু মনে করবেন না...”
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “আপনি চুপ করুন! কাল যদি এই বাড়িতে কেউ বেয়াদবি করে থাকে, তবে সেই একমাত্র বেয়াদব ছিলাম আমি!”
-* **CAMERA:** Dynamic pan from Shirin's fawning smile to Jahanara's fierce, dismissive glare.
-* **PERFORMANCE AND AUDIO:** Greasy, fawning tone from Shirin; sharp, commanding rebuke from Jahanara. Rain dripping from roof.
+  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “আসুন ভাবি, ঘরে বসুন। কালকের ভুল বোঝাবুঝি নিয়ে আর মন খারাপ করবেন না।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “ভুল বোঝাবুঝি নয় শিরিন সাহেব, কালকের ভুলটা সম্পূর্ণ আমারই ছিল।”
+* **CAMERA:** Dynamic pan from Shirin's fawning smile to Jahanara's firm, self-accountable gaze.
+* **PERFORMANCE AND AUDIO:** Fawning tone from Shirin; calm, clear self-accountability from Jahanara.
 
-#### CLIP 192 — SISTER'S ASTONISHMENT AT THE DOOR
+#### CLIP 192 — RODELA & TANVEER'S ARRIVAL (EXPLAINED)
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, standing at living room door, mouth agape); `CHAR_TANVEER` (30, smiling with quiet realization).
-* **SCENE:** Living room doorway. Saturday, 8:22 AM.
+* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, entering through courtyard gate); `CHAR_TANVEER` (30).
+* **SCENE:** Courtyard gate to veranda. Saturday, 8:51 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Rodela and Tanveer (who arrived early) stand stunned in the doorway.
-  * `3–7s`: Rodela whispers to Tanveer, unable to believe her own ears.
-  * `7–10s`: Tanveer smiles knowingly, telling her to watch a miracle unfold.
+  * `0–3s`: Rodela and Tanveer hurry through the gate under an umbrella, stepping up to the veranda.
+  * `3–7s`: Rodela explains they rushed over the moment Ashik called them early this morning.
+  * `7–10s`: Tanveer confirms Ashik phoned to say he was bringing his mother to make things right.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “তানভীর, উনি কী বলছেন শুনছ?”
-  * তানভীর (`CHAR_TANVEER`): “চুপচাপ দেখো রোদেলা, আজ একটা অলৌকিক কিছু ঘটতে চলেছে।”
-* **CAMERA:** Medium shot on Rodela's widening eyes, rack focusing to Tanveer's approving smile.
-* **PERFORMANCE AND AUDIO:** Breathless, stunned whisper from Rodela; profound, satisfied observation from Tanveer.
+  * রোদেলা (`CHAR_RODELA`): “সকালে আশিক ভাইয়ের ফোন পেয়ে আমরা আর বসে থাকতে পারলাম না আপু, তাড়াতাড়ি চলে এলাম।”
+  * তানভীর (`CHAR_TANVEER`): “জি আপা, আশিক ভাই বললেন আন্টিকে নিয়ে আজ সকালে একটা সঠিক বোঝাপড়া করতে আসছেন।”
+* **CAMERA:** Medium tracking shot of Rodela and Tanveer arriving and greeting Meghla, grounding their presence naturally.
+* **PERFORMANCE AND AUDIO:** Relieved, anxious arrival from Rodela; sensible, fraternal confirmation from Tanveer.
 
-#### CLIP 193 — FOLDING HANDS BEFORE THE SCHOOLTEACHER
+#### CLIP 193 — ADMITTING THE WRONG BEFORE THE FATHER
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, folding both hands before Altaf); `CHAR_ALTAF` (64, backing away in fright).
-* **SCENE:** Veranda. Saturday, 8:24 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, facing Altaf Master with bowed head); `CHAR_ALTAF` (64).
+* **SCENE:** Veranda. Saturday, 8:52 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Jahanara walks directly up to Altaf Master, raising her folded palms to her chest.
-  * `3–7s`: She confesses to striking an axe at his self-respect, begging for his pardon.
-  * `7–10s`: Altaf recoils in utter shock, waving his hands to prevent her from humbling herself.
+  * `0–3s`: Jahanara walks directly before Altaf Master, bowing her head in sincere regret.
+  * `3–7s`: She admits that yesterday she wounded an honest father's self-respect and deeply repents her mistake.
+  * `7–10s`: Altaf stammers in shock, asking her not to make him feel ashamed.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “মাস্টার সাহেব! কাল আমি আপনার ঘরে এসে আপনার আত্মসম্মানে কুঠারাঘাত করেছিলাম। আমাকে ক্ষমা করে দিন ভাই সাহেব!”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “আপা! এ কী করছেন! আপনি কেন হাতজোড় করছেন!”
-* **CAMERA:** Low-angle shot capturing the wealthy mother folding hands before the humble retired teacher.
-* **PERFORMANCE AND AUDIO:** Deeply remorseful, tearful plea from Jahanara; horrified, humble protest from Altaf.
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “মাস্টার সাহেব! কাল আমি আপনার ঘরে এসে একজন পিতার আত্মসম্মানে আঘাত করে গিয়েছিলাম। আমি নিজের ভুলের জন্য অনুতপ্ত।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আপা... এসব কথা বলে আমাকে লজ্জিত করবেন না!”
+* **CAMERA:** Low-angle two-shot capturing the wealthy mother humbling herself before the retired schoolteacher.
+* **PERFORMANCE AND AUDIO:** Deeply remorseful, natural admission from Jahanara; humble, flustered protest from Altaf.
 
 #### CLIP 194 — THE AWAKENING OF BLIND EYES
 * **DURATION:** Exactly 10 seconds.
@@ -777,83 +777,86 @@
 * **CAMERA:** Warm two-shot of teacher and student, panning across the classroom of inspired future women.
 * **PERFORMANCE AND AUDIO:** Tender, luminous pedagogical wisdom from Meghla; earnest, heartfelt promise from students.
 
-#### CLIP 235 — NO MORE DEFEAT
+#### CLIP 235 — ASHIK'S TEXT MESSAGE ON THE CLASSROOM DESK
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing by large window as bell rings).
-* **SCENE:** Classroom window. Saturday, 11:02 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing at teacher's desk in sunlit classroom, glancing at smartphone screen).
+* **SCENE:** Classroom 10-A teacher's desk. Saturday, 10:25 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: The school bell rings with resonant chimes: DONG... DONG... DONG.
-  * `3–7s`: Meghla walks to the window, gazing out at the vast sunny expanse.
-  * `7–10s`: She reflects inwardly: I fought for my father, stood up for myself... I have no defeat left in me.
+  * `0–3s`: During a brief pause in the lesson, Meghla's phone on the desk vibrates gently.
+  * `3–7s`: The screen displays Ashik's text message: *"Returned home, Meghla. Mother feels very light. No rush at all; honoring your wish, our communication will remain."*
+  * `7–10s`: Meghla smiles with deep serenity, murmuring inward peace.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “বাবার জন্য লড়াই করেছি, নিজের জন্য দাঁড়িয়েছি... আমার আর কোনো পরাজয় নেই।”
-* **CAMERA:** Medium close-up on Meghla silhouetted against the bright, expansive blue horizon.
-* **PERFORMANCE AND AUDIO:** Reverberating metallic school bell chimes; quiet, triumphant internal peace from Meghla.
+  * স্ক্রিনের মেসেজ (আশিক মাহমুদ): “বাড়ি ফিরেছি মেঘলা। মা খুব হালকা বোধ করছেন। কোনো তাড়াহুড়ো নয়, আপনার ইচ্ছাকে সম্মান জানিয়েই আমাদের যোগাযোগ থাকবে।”
+  * মেঘলা (`CHAR_MEGHLA`): “যে সম্পর্ক শ্রদ্ধার ওপর দাঁড়ায়, সেখানে কোনো তাড়া থাকে না।”
+* **CAMERA:** Macro insert shot of the phone screen displaying the Bengali SMS, tilting up to Meghla's tranquil, confident eyes.
+* **PERFORMANCE AND AUDIO:** Soft phone vibration; gentle, contented, mature internal reflection from Meghla.
 
-#### CLIP 236 — ASHIK'S RESPECTFUL MESSAGE
+#### CLIP 236 — NEVER ALONE WITH DIGNITY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, holding smartphone, reading text message).
-* **SCENE:** Classroom desk. Saturday, 11:04 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, placing phone in drawer, turning to students); STUDENT RIMI (15).
+* **SCENE:** Classroom 10-A. Saturday, 10:26 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla pulls her phone from her bag; a new notification illuminates the screen.
-  * `3–7s`: The screen displays Ashik's text: *"Returned home. Mother feels very light. In waiting for your answer, our communication remains."*
-  * `7–10s`: Meghla reads it and smiles softly, murmuring: we will communicate, Ashik, but no rush.
+  * `0–3s`: Meghla slips the phone into the table drawer, picking up her white chalk with a radiant face.
+  * `3–7s`: She addresses her students: remember, when you learn to value your own self-respect, you are never alone in life.
+  * `7–10s`: Rimi stands up with shining eyes, pledging they will live with their heads held high.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “যোগাযোগ থাকবে আশিক... কিন্তু তাড়াহুড়ো নয়।”
-* **CAMERA:** Insert shot of the mobile screen displaying the Bengali SMS, tilting up to Meghla's tranquil, serene eyes.
-* **PERFORMANCE AND AUDIO:** Soft phone notification chime; gentle, contented, mature whisper from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “মনে রেখো, নিজের অস্তিত্বকে ভালোবাসতে পারলে জীবনে কোনো মানুষই একা থাকে না।”
+  * ছাত্রী রিমি: “আমরা আপনার মতোই মাথা উঁচু করে বাঁচব মিস!”
+* **CAMERA:** Warm two-shot capturing the teacher's unburdened glow and the student's inspired posture.
+* **PERFORMANCE AND AUDIO:** Tender, luminous mentorship from Meghla; eager, passionate resolution from Rimi.
 
-#### CLIP 237 — THE UNTARNISHED SKY
+#### CLIP 237 — LESSONS ENGRAVED ON HEARTS
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, slipping phone into bag, breeze playing with her hair).
-* **SCENE:** School veranda corridor. Saturday, 11:06 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, walking between desks); STUDENT TANIA (15); CLASSROOM GIRLS.
+* **SCENE:** Classroom 10-A aisles. Saturday, 10:27 AM. Fresh morning breeze from open windows.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla slips the phone into her bag, stepping out into the fresh breeze on the corridor.
-  * `3–7s`: She reflects: clouds will gather in the sky, and they will pour down as rain. But the sky itself is never tarnished.
-  * `7–10s`: Slow-motion capture of her gentle smile as the breeze lifts her hair.
+  * `0–3s`: Students actively write in their notebooks; the morning breeze ruffles notebook pages and Meghla's green saree pallu.
+  * `3–7s`: Tania looks up, promising they will never forget this lesson in their lives.
+  * `7–10s`: Meghla smiles affectionately, encouraging them to stand firm on their own feet.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “আকাশে মেঘ জমবে, আবার বৃষ্টি হয়ে ঝরে পড়বে। কিন্তু আকাশ কোনোদিন মলিন হয় না।”
-* **CAMERA:** Slow-motion tracking shot alongside Meghla walking in the open corridor bathed in clean sunshine.
-* **PERFORMANCE AND AUDIO:** Poetic, transcendent voiceover from Meghla. Soft wind whistling through corridor pillars.
+  * ছাত্রী তানিয়া: “মিস, আপনার এই পাঠ আমরা কোনোদিন ভুলব না!”
+  * মেঘলা (`CHAR_MEGHLA`): “বড় হও মা-মণিরা, নিজের পায়ের নিচের মাটিকে শক্ত করো।”
+* **CAMERA:** Low tracking shot along the wooden desks as girls take notes with smiles, tilting up to Meghla walking past.
+* **PERFORMANCE AND AUDIO:** Earnest promise from Tania; motherly, inspiring wisdom from Meghla. Rustling paper and soft breeze.
 
-#### CLIP 238 — STORIES NEVER END
+#### CLIP 238 — MARRIAGE IS A PART, NOT THE SOLE DESTINATION
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, descending stairs with students buzzing around her).
-* **SCENE:** School staircase. Saturday, 11:08 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing beside blackboard); ALL CLASSROOM STUDENTS.
+* **SCENE:** Classroom 10-A front board. Saturday, 10:28 AM. Whole room flooded in golden sunlight.
 * **ACTION AND TIMING:**
-  * `0–3s`: School recess begins; students surround Meghla as she descends the stairs with her folder.
-  * `3–7s`: The girls laugh, reminding her: Miss, you must finish the story for us tomorrow!
-  * `7–10s`: Meghla smiles affectionately: surely my children, stories never end... stories go on.
+  * `0–3s`: Meghla stands tall beside the blackboard inscribed with *"Self-Respect is the True Freedom"*.
+  * `3–7s`: She proclaims: marriage can be a beautiful chapter of life, but it is not a woman's sole identity or ultimate victory.
+  * `7–10s`: The entire class affirms in a spirited, unified chorus: "Yes Miss!"
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * ছাত্রীরা: “মিস, কাল কিন্তু আমাদের গল্পটা শেষ করতে হবে!”
-  * মেঘলা (`CHAR_MEGHLA`): “নিশ্চয়ই মা, গল্প কখনো শেষ হয় না... গল্প চলতে থাকে।”
-* **CAMERA:** High-angle shot looking down at Meghla surrounded by fluttering green uniforms and smiling faces.
-* **PERFORMANCE AND AUDIO:** Cheerful student chatter; warm, wise pedagogical chuckle from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “বিয়ে জীবনের একটা সুন্দর অংশ হতে পারে, কিন্তু সেটাই কোনো নারীর জীবনের একমাত্র পরিচয় বা চূড়ান্ত সাফল্য নয়।”
+  * সমস্বরে ছাত্রীরা: “জি মিস!”
+* **CAMERA:** Wide shot capturing the sun-drenched classroom, framing Meghla at the board and thirty girls nodding in unity.
+* **PERFORMANCE AND AUDIO:** Resonant, empowering declaration from Meghla; enthusiastic, united response from students.
 
-#### CLIP 239 — THE SUPREME VICTORY OF SELF-RESPECT
+#### CLIP 239 — THE INVIOLABLE TRIUMPH OF TRUTH
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, visible as a graceful figure walking through school garden).
-* **SCENE:** Aerial high drone shot over Ideal Girls High School, surrounding coconut and bamboo groves, Altaf Master's tin-roof house, and the horizon. Saturday, 11:09 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, visible walking toward the large classroom window); STUDENTS (in background).
+* **SCENE:** Classroom 10-A window overlooking sunlit trees and azure sky. Saturday, 10:29 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Majestic drone ascends high into the open azure sky, capturing the entire town washed in morning sunshine.
-  * `3–7s`: Soft, acoustic Bengali flute melody begins playing peacefully.
-  * `7–10s`: Meghla's defining philosophical voiceover echoes across the panoramic landscape.
+  * `0–3s`: Camera glides smoothly past the smiling students, following Meghla as she approaches the large sunlit window.
+  * `3–7s`: Soft acoustic Bengali flute melody begins playing softly.
+  * `7–10s`: Meghla's philosophical voiceover resonates over the sun-drenched landscape.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “যে নারী নিজের অস্তিত্বকে ভালোবাসতে জানে, কোনো সমাজই তাকে একা বা পরাজিত করতে পারে না। আত্মমর্যাদাই নারীর আসল বিজয়।”
-* **CAMERA:** Majestic wide aerial crane/drone ascending smoothly toward the vast blue horizon.
-* **PERFORMANCE AND AUDIO:** Sublime, resonant philosophical voiceover from Meghla; sweet, evocative acoustic flute melody.
+  * মেঘলা (`CHAR_MEGHLA`): “বাবার জন্য লড়াই করেছি, নিজের সম্মানের জন্য অবিচল থেকেছি... যে নারী সত্যের ওপর দাঁড়ায়, কোনো সমাজই তাকে পরাজিত করতে পারে না।”
+* **CAMERA:** Cinematic tracking shot moving from the attentive classroom to the wide window framing green trees and endless blue sky.
+* **PERFORMANCE AND AUDIO:** Evocative, serene voiceover from Meghla; melodious acoustic flute chord.
 
 #### CLIP 240 — GRAND FINALE: A SKY FULL OF LIGHT (THE END)
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing at the school gate, looking up into the infinite sunlit sky, pastel green cotton saree glowing).
-* **SCENE:** Front gate of school. Saturday, 11:10 AM. Infinite, radiant blue sky.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing beside the open classroom window, morning sunlight illuminating her peaceful face).
+* **SCENE:** Classroom 10-A open window. Saturday, 10:30 AM. Clear, boundless, radiant blue sky.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla stands at the gate, lifting her face toward the sun; golden light illuminates her peaceful profile.
-  * `3–7s`: She speaks her final words softly: My sky... is no longer lonely; it is full of light.
-  * `7–10s`: Camera slowly pushes in on her sublime smile; golden Bengali typography fades in: **"সমাপ্ত"**.
+  * `0–3s`: Meghla stands beside the window, gazing out into the boundless sunlit horizon; golden light bathes her serene profile.
+  * `3–7s`: She speaks her concluding truth in a soft, peaceful whisper.
+  * `7–10s`: Slow-motion push-in on her tranquil, fulfilled smile; golden Bengali typography dissolves on screen: **"সমাপ্ত"**.
 * **DIALOGUE — EXACT BENGALI LINES:**
   * মেঘলা (`CHAR_MEGHLA`): “আমার আকাশ... এখন একলা নয়, আলোয় ভরা।”
-* **CAMERA:** Slow-motion push-in onto Meghla's luminous, fulfilled face; golden title letters dissolve on screen: **সমাপ্ত (THE END)**.
+* **CAMERA:** Slow-motion push-in onto Meghla's luminous, victorious face framed by the sunlit classroom window; golden title letters dissolve on screen: **সমাপ্ত (THE END)**.
 * **PERFORMANCE AND AUDIO:** Soft, peaceful, triumphant whisper from Meghla. Acoustic flute chord resolving at 9.5s into serene silence.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Final freeze-frame at 9.5s. Golden Bengali typography: **সমাপ্ত**. Clean fade to black at 10.0s.
 
@@ -862,5 +865,5 @@
 ### 📊 পর্ব ৪ ও পূর্ণাঙ্গ প্রজেক্ট ভেরিফিকেশন রিপোর্ট (100% Locked, Mature & Production Ready)
 1. **মোট ক্লিপ সংখ্যা:** ক্লিপ ১৮১ থেকে ২৪০ = **ঠিক ৬০টি সম্পূর্ণ প্রম্পট (৬০০ সেকেন্ড / ১০ মিনিট)।**
 2. **সর্বমোট প্রজেক্ট অডিট:** পর্ব ১ (৬০) + পর্ব ২ (৬০) + পর্ব ৩ (৬০) + পর্ব ৪ (৬০) = **ঠিক ২৪০টি ক্লিপ (২৪০০ সেকেন্ড / ৪০ মিনিট)।**
-3. **পরিপক্ব সমাপ্তি নিশ্চিত:** অবাস্তব দ্রুত বিয়ের পরিবর্তে একে অপরকে জানার সময় নেওয়া, ব্যক্তিগত সাধ্য অনুযায়ী পাশে থাকার অঙ্গীকার এবং মেঘলার শিক্ষকতা ও আত্মমর্যাদার বিজয় প্রতিষ্ঠা করা হয়েছে।
+3. **পরিপক্ব ক্লাসরুম সমাপ্তি:** কোনো অবাস্তব ঘণ্টার ব্যবধান বা ছুটির তাড়াহুড়ো নয়; ক্লাসরুমের ভেতরের প্রাণবন্ত শিক্ষকতা ও আত্মমর্যাদার উপলব্ধির মধ্য দিয়েই গল্পের সার্থক ক্লাইম্যাক্স সম্পন্ন হয়েছে।
 4. **প্রোডাকশন রেডি:** প্রতিটি ক্লিপ Google Flow, Veo, বা যেকোনো AI ভিডিও ইঞ্জিনের জন্য সম্পূর্ণ কার্যকর, সুনির্দিষ্ট ক্যারেক্টার আইডি ও টাইমিংসহ প্রস্তুত।
