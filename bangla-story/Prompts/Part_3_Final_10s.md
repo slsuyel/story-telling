@@ -243,158 +243,159 @@
 * **CAMERA:** Tight two-shot: Meghla's calm, fearless face cutting through Shirin's cruel, spit-flecked mouth.
 * **PERFORMANCE AND AUDIO:** Unflinching, crystal-clear declaration from Meghla; callous, cruel death-taunt from Shirin.
 
-#### CLIP 137 — THE FATHER'S AGONY ON THE SOFA
+#### CLIP 137 — THE FATHER'S GRIEF
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, weeping into his palms on sofa); `CHAR_SHIRIN` (52, turning on him).
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, weeping into his palms on sofa); `CHAR_SHIRIN` (52).
 * **SCENE:** Living room. Friday, 2:04 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Altaf Master clutches his chest, sobbing violently into his wrinkled hands.
-  * `3–7s`: Altaf begs his sister not to torment his daughter by invoking his death.
-  * `7–10s`: Shirin snaps back that society will now ostracize their family entirely.
+  * `0–3s`: Altaf Master clutches his chest, sobbing softly into his wrinkled hands.
+  * `3–7s`: Altaf begs his sister not to blame Meghla, as she only looked at her father's face.
+  * `7–10s`: Shirin sighs heavily, explaining they aren't enemies, but tremble thinking of his future solitude.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “শিরিন! দয়া করে আমার মরণের কথা বলে মেয়েটাকে আঘাত কোরো না!”
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “আঘাত তো আমরা করছি না ভাইজান, আঘাত ও নিজে ডেকে আনছে! আজ থেকে সমাজ আপনাদের একঘরে করবে!”
-* **CAMERA:** Low-angle shot on Altaf's trembling body, tilting up to Shirin towering over him like an inquisitor.
-* **PERFORMANCE AND AUDIO:** Broken, heart-wrenching sobs from Altaf; unyielding, self-righteous condemnation from Shirin.
+  * বাবা আলতাফ (`CHAR_ALTAF`): “শিরিন... মেয়েটাকে আর দোষ দিয়ো না। ও যা করেছে আমার মুখের দিকে তাকিয়েই করেছে।”
+  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “আমরা তো ওর দুশমন নই ভাইজান! কিন্তু আপনি একা হয়ে গেলে ওর যে কী হবে সেই চিন্তায় বুক কাঁপে!”
+* **CAMERA:** Low-angle shot on Altaf's trembling body, tilting up to Shirin's troubled expression.
+* **PERFORMANCE AND AUDIO:** Broken, heart-wrenching sobs from Altaf; anxious, realistic familial worry from Shirin.
 
-#### CLIP 138 — RODELA'S FIERCE INTERVENTION
+#### CLIP 138 — RODELA'S REASONED DEFENSE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, stepping in front of Meghla); `CHAR_NAZNEEN` (55, sneering).
+* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, stepping beside Meghla); `CHAR_NAZNEEN` (55).
 * **SCENE:** Living room. Friday, 2:06 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Rodela pushes past the crowd, shielding Meghla with her own body.
-  * `3–7s`: Rodela screams at them, asking if they have any humanity left to see Meghla's bleeding heart.
-  * `7–10s`: Nazneen shuts her down, taunting her safe, wealthy married status.
+  * `0–3s`: Rodela steps forward, standing shoulder-to-shoulder beside Meghla.
+  * `3–7s`: Rodela reasons with her aunts: their concern for Meghla is fine, but she could never be happy by denying her father.
+  * `7–10s`: Nazneen responds that happiness requires compromise and no girl can build a home without sacrifice.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “খালাম্মা! আপনারা কি মানুষ? আপুর বুকে যে রক্তক্ষরণ হচ্ছে, তা একবারও দেখতে পাচ্ছেন না?”
-  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “তুই থাম রোদেলা! তোর তো বিয়ে হয়ে গেছে, তুই তো শ্বশুরবাড়িতে রাজার হালে আছিস! ওর ভবিষ্যৎটা তো চিরতরে অন্ধকার হলো!”
-* **CAMERA:** Dynamic two-shot of the two sisters standing together against the wave of hostile relatives.
-* **PERFORMANCE AND AUDIO:** Furious, protective roar from Rodela; dismissive, envious venom from Nazneen.
+  * রোদেলা (`CHAR_RODELA`): “খালাম্মা, আপনারা আপুর ভবিষ্যৎ নিয়ে ভাবছেন ভালো কথা, কিন্তু আপু তো বাবাকে অস্বীকার করে সুখী হতে পারত না!”
+  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “সুখ তো আপসের ওপরই দাঁড়ায় রোদেলা! একটু ছাড় না দিলে কোনো মেয়েই সংসার বাঁধতে পারে না।”
+* **CAMERA:** Dynamic two-shot of the two sisters standing together against their traditional aunts.
+* **PERFORMANCE AND AUDIO:** Passionate, protective logic from Rodela; traditional, pragmatic advice from Nazneen.
 
-#### CLIP 139 — TANVEER CALLS FOR DECENCY
+#### CLIP 139 — TANVEER CALLS FOR RESPECT
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_TANVEER` (30, holding Rodela's shoulder); `CHAR_SHIRIN` (52).
+* **CHARACTER CONTINUITY:** `CHAR_TANVEER` (30, raising hand respectfully); `CHAR_SHIRIN` (52).
 * **SCENE:** Living room. Friday, 2:08 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Tanveer steps forward, placing a restraining hand on Rodela's trembling shoulder.
-  * `3–7s`: Tanveer politely rebukes Shirin for creating an indecent public spectacle.
-  * `7–10s`: Shirin retorts that this scandal will ruin her own daughter's upcoming marriage proposals.
+  * `0–3s`: Tanveer steps forward, politely gesturing to calm the heated discussion.
+  * `3–7s`: Tanveer states firmly that Meghla did not make a wrong decision; as a person of dignity, she did the right thing.
+  * `7–10s`: Shirin shakes her head, arguing that the younger generation views life too lightly.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * তানভীর (`CHAR_TANVEER`): “আম্মা, এসব পারিবারিক বিষয়ে বাইরের মানুষের সামনে এত চেঁচামেচি করা শোভা পায় না।”
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “শোভা পায় না মানে? কাল যখন আমার নিজের মেয়ের বিয়ের কথা হবে, লোকে বলবে ওই বাড়ির বড় মেয়ে বেয়াদব আর অবিবাহিত!”
-* **CAMERA:** Over-the-shoulder shot from Tanveer onto Shirin's hysterical, selfish outburst.
-* **PERFORMANCE AND AUDIO:** Firm, dignified rebuke from Tanveer; shrill, self-centered panic from Shirin.
+  * তানভীর (`CHAR_TANVEER`): “খালাম্মা, আপা কোনো ভুল সিদ্ধান্ত নেননি। একজন আত্মমর্যাদাসম্পন্ন মানুষ হিসেবে উনি ঠিক কাজটিই করেছেন।”
+  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “তোমরা নতুন প্রজন্মের মানুষ, অনেক কিছুকে হালকাভাবে দেখ।”
+* **CAMERA:** Over-the-shoulder shot from Tanveer onto Shirin's troubled face.
+* **PERFORMANCE AND AUDIO:** Firm, respectful defense from Tanveer; skeptical, maternal sigh from Shirin.
 
-#### CLIP 140 — CUTTING TOXIC KINSHIP
+#### CLIP 140 — MEGHLA'S MATURE GROUNDING
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, stepping past Rodela, eyes burning with authority); `CHAR_SHIRIN` (52, recoiling).
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, sitting gently before Shirin); `CHAR_NAZNEEN` (55).
 * **SCENE:** Living room center. Friday, 2:10 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla steps in front, fixing Shirin with an icy, penetrating glare that makes her flinch.
-  * `3–7s`: Meghla tells her plainly: if her honor is tainted, sever all kinship with this house today.
-  * `7–10s`: Shirin gasps, turning to Altaf to complain about blood ties being severed.
+  * `0–3s`: Meghla sits gently before Shirin, speaking with calm empathy.
+  * `3–7s`: Meghla tells them: she understands their worry for the family's welfare, but no peace can be found by sacrificing self-respect.
+  * `7–10s`: Nazneen sighs, praying that God grants her wisdom.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “আমার জন্য যদি আপনাদের আত্মীয়তার সম্মান ক্ষুণ্ণ হয় খালাম্মা, তবে আজ থেকেই আমাদের বাড়ির সাথে সমস্ত সম্পর্ক চুকিয়ে দিন!”
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “শুনলে ভাইজান! রক্তের সম্পর্ক অস্বীকার করছে এই মেয়ে!”
-* **CAMERA:** Extreme close-up on Meghla's piercing eyes, holding her unwavering gaze without blinking.
-* **PERFORMANCE AND AUDIO:** Thunderous, icy command from Meghla; startled, indignant screech from Shirin.
+  * মেঘলা (`CHAR_MEGHLA`): “খালাম্মা, আমি আপনাদের ক্ষোভ বুঝতে পারি। আপনারা পরিবারের ভালোর জন্যই বলছেন। কিন্তু আত্মসম্মান হারিয়ে কোনো শান্তি পাওয়া যায় না।”
+  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “আল্লাহ তোমাকে বোঝার তৌফিক দিন মেঘলা, আমরা আর কী বলব।”
+* **CAMERA:** Close-up on Meghla's calm, understanding eyes, showing respect for elders without compromising principles.
+* **PERFORMANCE AND AUDIO:** Gentle, empathetic composure from Meghla; resigned, prayerful whisper from Nazneen.
 
-#### CLIP 141 — THE EXPULSION OF THE VIPERS
+#### CLIP 141 — AUNTS TAKE THEIR LEAVE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, pointing toward the open front door); `CHAR_NAZNEEN` (55, gathering shawl in huff).
+* **CHARACTER CONTINUITY:** `CHAR_SHIRIN` (52, standing with shawl); `CHAR_ALTAF` (64).
 * **SCENE:** Living room doorway. Friday, 2:12 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla extends an uncompromising arm pointing directly toward the open courtyard gate.
-  * `3–7s`: She commands them to leave immediately, preferring poison over relatives who pour venom in grief.
-  * `7–10s`: Nazneen drags Shirin by the hand, spitting curses as they march out.
+  * `0–3s`: Shirin and Nazneen gather their shawls, standing up to depart with heavy hearts.
+  * `3–7s`: Shirin tells Altaf they are leaving, but asks him to reach out in any need.
+  * `7–10s`: Altaf asks for their blessings, acknowledging they are their only family.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “হ্যাঁ, যে সম্পর্ক বিপদের দিনে বিষ ঢালে, সেই রক্তের সম্পর্কের চেয়ে বিষ খাওয়াও অনেক ভালো! আপনারা দয়া করে এখনই আমার বাড়ি থেকে যান!”
-  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “চল শিরিন! এই অপয়া মেয়ের মুখ দেখলে রাতে ভাত হজম হবে না!”
-* **CAMERA:** Wide shot framing Meghla's outstretched arm commanding the exit of the retreating aunts.
-* **PERFORMANCE AND AUDIO:** Majestic, righteous fury from Meghla; spiteful, retreating mutters from Nazneen.
+  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “ভাইজান, আমরা চলি। যাই হোক না কেন, যেকোনো প্রয়োজনে আমাদের খবর দেবেন।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “দোয়া কোরো শিরিন, তোমরা ছাড়া আমাদের আর কে আছে।”
+* **CAMERA:** Medium shot as the aunts prepare to exit the house, framed by the afternoon light.
+* **PERFORMANCE AND AUDIO:** Melancholic, concerned parting from Shirin; frail, grateful response from Altaf.
 
-#### CLIP 142 — THE RETREATING VOICES OF CURSE
+#### CLIP 142 — ANXIOUS MOTHER AND CALM DAUGHTER-IN-LAW
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RABEYA` (56, sitting on floor in tears); NEIGHBOR (visible outside courtyard fence).
-* **SCENE:** Living room to courtyard. Friday, 2:15 PM.
+* **CHARACTER CONTINUITY:** `CHAR_RABEYA` (56, sitting anxious on sofa); `CHAR_TANVEER` (30, offering reassurance).
+* **SCENE:** Living room. Friday, 2:15 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Courtyard gate slams; distant neighborhood gossip echoes over the wall.
-  * `3–7s`: A neighbor remarks maliciously that a 32-year-old madwoman will never find a groom.
-  * `7–10s`: Rabeya beats her forehead on the floor, wailing over the living grave.
+  * `0–3s`: The door closes; the house returns to a quiet calm.
+  * `3–7s`: Rabeya worries aloud that people's gossip cannot be stopped and what will happen now.
+  * `7–10s`: Tanveer reassures her not to worry at all.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * প্রতিবেশী: “বত্রিশ বছরে এসে মেয়েটার মাথা খারাপ হয়ে গেছে... কোনোদিন আর বর জুটবে না!”
-  * মা রাবেয়া (`CHAR_RABEYA`): “হায় রে কপাল! আমার মেয়েটাকে জীবন্ত কবর দিল ওরা!”
-* **CAMERA:** Slow track-in toward Rabeya sobbing on the floor, the empty room echoing with outside cruelty.
-* **PERFORMANCE AND AUDIO:** Distant malicious neighborhood laughter; despairing maternal lament from Rabeya. Gate slam.
+  * মা রাবেয়া (`CHAR_RABEYA`): “মানুষের মুখের কথা তো থামানো যাবে না গো... এখন আমাদের কী হবে?”
+  * তানভীর (`CHAR_TANVEER`): “কাকিমা, আপনারা একদম দুশ্চিন্তা করবেন না।”
+* **CAMERA:** Slow track-in toward Rabeya, captured with Tanveer's reassuring gesture in frame.
+* **PERFORMANCE AND AUDIO:** Anxious maternal fret from Rabeya; dependable, warm reassurance from Tanveer.
 
-#### CLIP 143 — SHATTERING THE GLASS OF PAIN
+#### CLIP 143 — FATHER'S EMOTIONAL COLLAPSE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, accidentally knocking glass pitcher off table); `CHAR_MEGHLA` (32, rushing forward).
-* **SCENE:** Living room floor. Friday, 2:17 PM.
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, leaning over table, overcome with emotion); `CHAR_MEGHLA` (32, rushing forward).
+* **SCENE:** Living room. Friday, 2:17 PM.
 * **ACTION AND TIMING:**
-  * `0–2s`: Trembling uncontrollably on the sofa, Altaf's elbow hits the glass water tumbler.
-  * `2–5s`: Glass crashes onto the cement floor, shattering into hundreds of jagged, shining shards.
-  * `5–10s`: Altaf cries out in agonizing despair as Meghla dashes to protect his feet.
+  * `0–3s`: Altaf Master rests his head on the wooden table, overcome with tears.
+  * `3–7s`: Altaf cries that his sick body brought this disaster upon Meghla's life.
+  * `7–10s`: Meghla rushes forward, pleading with him not to demean himself as guilty.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “আমার জন্য... শুধু আমার বেঁচে থাকার জন্য আজ আমার মেয়েটা ভস্ম হয়ে গেল!”
-  * মেঘলা (`CHAR_MEGHLA`): “বাবা! কাচে পা কাটবে! তুমি নড়ো না!”
-* **CAMERA:** Extreme slow-motion close-up of the glass shattering on cement, water splashing like tears across the floor.
-* **PERFORMANCE AND AUDIO:** Agonized paternal wail; frantic, protective scream from Meghla. Loud glass shattering sound.
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আমার এই অসুস্থ শরীরটার জন্যই আজ মেঘলার জীবনে এত বড় বিপর্যয় নেমে এল!”
+  * মেঘলা (`CHAR_MEGHLA`): “বাবা! নিজেকে এভাবে অপরাধী বানিয়ে ছোট করবে না!”
+* **CAMERA:** Close-up on Altaf's trembling gray head on the table, cutting to Meghla kneeling beside him.
+* **PERFORMANCE AND AUDIO:** Agonized paternal self-blame; swift, loving protest from Meghla.
 
-#### CLIP 144 — THE BLOOD OF THE SOUL
+#### CLIP 144 — YOU ARE MY PRIDE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, reaching for broken shards); `CHAR_MEGHLA` (32, pulling his hands away).
-* **SCENE:** Living room floor amidst glass shards. Friday, 2:19 PM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, clasping Altaf's hands to her chest); `CHAR_ALTAF` (64).
+* **SCENE:** Living room floor beside sofa. Friday, 2:19 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Altaf tries to gather the shards with bare hands; Meghla sweeps the glass away and grabs his wrists.
-  * `3–7s`: Altaf weeps that bleeding hands heal, but who will wipe the blood from her soul?
-  * `7–10s`: Meghla looks into his tear-soaked eyes, declaring her victory as an honest soul.
+  * `0–3s`: Meghla holds both of Altaf's weathered hands against her chest.
+  * `3–7s`: Meghla tells him: you are my pride, Father; I have never felt ashamed of you for a single moment.
+  * `7–10s`: Altaf weeps, stating he is blessed to have a daughter like her.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “আমার হাত কাটলে রক্ত বের হবে মেঘলা, কিন্তু তোর বুকের রক্ত আমি কীভাবে মুছব রে মা?”
-  * মেঘলা (`CHAR_MEGHLA`): “বাবা, আমি একটুও দুঃখী নই। আমি জিতে গেছি বাবা, আমি আজ একজন সৎ মানুষ হিসেবে জিতে গেছি!”
-* **CAMERA:** Tight two-shot on the floor amidst glittering shards, their hands locked in unbreakable devotion.
-* **PERFORMANCE AND AUDIO:** Heartbroken, sobbing grief from Altaf; triumphant, glowing conviction from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “তুমি আমার অহংকার বাবা। তোমাকে নিয়ে আমি এক মুহূর্তের জন্যও কখনো লজ্জিত নই।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “তোর মতো মেয়ে পেয়ে আমি ধন্য রে মা...”
+* **CAMERA:** Tight two-shot of father and daughter, hands held to her heart with pure filial devotion.
+* **PERFORMANCE AND AUDIO:** Resolute, loving affirmation from Meghla; weeping paternal tenderness from Altaf.
 
-#### CLIP 145 — RODELA OFFERS TO TAKE THE REINS
+#### CLIP 145 — RODELA & TANVEER'S REALISTIC OFFER
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, kneeling beside Meghla); `CHAR_MEGHLA` (32); `CHAR_TANVEER` (30).
-* **SCENE:** Living room floor. Friday, 2:22 PM.
+* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, sitting beside Altaf); `CHAR_TANVEER` (30); `CHAR_MEGHLA` (32).
+* **SCENE:** Living room. Friday, 2:22 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Rodela kneels beside Meghla, wrapping her arms around her waist.
-  * `3–7s`: Rodela urges Meghla to quit teaching and move away; she and Tanveer will bear father's costs.
-  * `7–10s`: Meghla shakes her head gently but firmly: running away is not who she is.
+  * `0–3s`: Rodela and Tanveer sit down beside Altaf Master.
+  * `3–7s`: Rodela proposes: don't stay alone in this old house, move to their Dhanmondi apartment, and they will share all medical expenses.
+  * `7–10s`: Tanveer adds: living together will make regular doctor visits easier, while Meghla's school job continues.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “আপু, আমি আর তানভীর ঠিক করেছি—আমাদের জমানো টাকা থেকে বাবার ওষুধের সব খরচ আমরা দেব, তুমি চাকরিটা ছেড়ে দিয়ে অন্য কোথাও চলে যাও।”
-  * মেঘলা (`CHAR_MEGHLA`): “না রোদেলা। পালিয়ে যাওয়া মেঘলার কাজ নয়। আমি এই শহরেই থাকব, এই স্কুলেই পড়াব।”
-* **CAMERA:** Low-angle shot of the three siblings/in-laws on the floor, soft daylight framing their unity.
-* **PERFORMANCE AND AUDIO:** Weeping, generous appeal from Rodela; proud, unyielding courage from Meghla.
+  * রোদেলা (`CHAR_RODELA`): “আপু, আমরা একটা প্রস্তাব দিতে চাই। তোমরা একা এই পুরোনো বাড়িতে থেকো না, আমাদের ধানমন্ডির বাসায় চলো। বাবার চিকিৎসার সব দায়িত্ব আমরা ভাগ করে নেব।”
+  * তানভীর (`CHAR_TANVEER`): “জি আপা, আপনারা আমাদের কাছে থাকলে বাবার নিয়মিত ডাক্তার দেখানো অনেক সহজ হবে। আর আপনার এই স্কুলে চাকরি তো থাকছেই।”
+* **CAMERA:** Medium group shot framing the supportive younger couple offering practical family support.
+* **PERFORMANCE AND AUDIO:** Genuine, loving family offer from Rodela; practical, warm support from Tanveer.
 
-#### CLIP 146 — TANVEER'S PROFOUND REVERENCE
+#### CLIP 146 — ANCESTRAL ROOTS & INDEPENDENCE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_TANVEER` (30, looking down with folded hands); `CHAR_MEGHLA` (32, smiling gently through tears).
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, gently stroking Rodela's head); `CHAR_TANVEER` (30).
 * **SCENE:** Living room. Friday, 2:25 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Tanveer bows slightly, his eyes shining with unreserved respect.
-  * `3–7s`: Tanveer confesses that her decision has multiplied his reverence for all women.
-  * `7–10s`: Meghla thanks him softly, asking them to return home safely.
+  * `0–3s`: Meghla strokes Rodela's hair with deep affection and gratitude.
+  * `3–7s`: Meghla smiles: their love is her greatest strength, but they will never abandon father's ancestral soil and memories.
+  * `7–10s`: Tanveer acknowledges her strength, assuring her he is always there like a younger brother.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * তানভীর (`CHAR_TANVEER`): “আপা, আজ আপনার সিদ্ধান্ত দেখে আমার নিজের মা আর বোনের প্রতি শ্রদ্ধা অনেক বেড়ে গেল। আপনি সত্যিই অসাধারণ একজন মানুষ।”
-  * মেঘলা (`CHAR_MEGHLA`): “ধন্যবাদ তানভীর। তোমরা এবার নিজের বাড়ি যাও, বাবার দায়িত্ব আমি ঠিক সামলে নেব।”
-* **CAMERA:** Close-up on Tanveer's respectful expression, cutting to Meghla's dignified nod of gratitude.
-* **PERFORMANCE AND AUDIO:** Sincere, reverent admiration from Tanveer; calm, gracious older sister tone from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “তোমাদের এই ভালোবাসাটুকুই আমার সবচেয়ে বড় শক্তি রোদেলা। কিন্তু বাবার এই পৈতৃক ভিটেমাটি আর স্মৃতি ছেড়ে আমরা কোথাও যাব না।”
+  * তানভীর (`CHAR_TANVEER`): “আপা, আপনি সত্যি খুব দৃঢ় মনের মানুষ। তবে যখনই প্রয়োজন হবে, আমাকে ছোট ভাইয়ের মতো পাশে পাবেন।”
+* **CAMERA:** Close-up on Meghla's gracious, grounded expression, cutting to Tanveer's respectful nod.
+* **PERFORMANCE AND AUDIO:** Tender, resolute refusal of dependency from Meghla; respectful, fraternal solidarity from Tanveer.
 
-#### CLIP 147 — SWEEPING UP THE SHARDS OF CHAOS
+#### CLIP 147 — SISTERLY FAREWELL AT THE GATE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, sweeping glass shards into a dustpan with steady hands).
-* **SCENE:** Empty living room. Friday, 2:30 PM. Dust motes floating in afternoon sunbeam.
+* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, walking toward car with Tanveer); `CHAR_MEGHLA` (32, waving from gate).
+* **SCENE:** Courtyard gate. Friday, 2:30 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: The house is completely empty and silent; Meghla sweeps the glittering shards into a tin dustpan.
-  * `3–7s`: Her hands are steady and sure; she empties the glass into a bin with a crisp clatter.
-  * `7–10s`: She looks out into the quiet courtyard, speaking her inner resolve.
+  * `0–3s`: Rodela and Tanveer walk to their car; Meghla stands by the gate to see them off.
+  * `3–7s`: Rodela tells Meghla to take care and never think small of herself before making decisions.
+  * `7–10s`: Meghla smiles, telling her not to worry and to drive home safely.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “ঝড় তো আমি বহু দেখেছি... এই ঝড়ও আমি পার করব।”
-* **CAMERA:** Low tracking shot along the clean floor following the broom, tilting up to Meghla's unbowed posture.
-* **PERFORMANCE AND AUDIO:** Steely, solitary internal whisper from Meghla. Sound of glass shards scraping into dustpan.
+  * রোদেলা (`CHAR_RODELA`): “আপু, নিজের যত্ন নিয়ো। কোনো সিদ্ধান্ত নেওয়ার আগে নিজেকে ছোট ভেবো না।”
+  * মেঘলা (`CHAR_MEGHLA`): “তুই চিন্তা করিস না রোদেলা, সাবধানে বাড়ি পৌঁছাস।”
+* **CAMERA:** Medium tracking shot of the younger couple boarding their car, panning back to Meghla waving with serenity.
+* **PERFORMANCE AND AUDIO:** Caring, sisterly advice from Rodela; warm, serene older sister response from Meghla. Car door shutting.
 
 ---
 
@@ -528,6 +529,7 @@
 ---
 
 ### SCENE 17: TRIAL OF CONSCIENCE AT ASHIK'S HOME (Clips 157 – 180)
+* **TIMEFRAME:** Friday 8:30 PM to Saturday 6:00 AM (with overnight time-lapse transition across Clips 174–176).
 
 #### CLIP 157 — THE UNTOUCHED DINNER TABLE
 * **DURATION:** Exactly 10 seconds.

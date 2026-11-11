@@ -286,586 +286,581 @@
 
 ### SCENE 20: PLEDGE OF SHARED RESPONSIBILITY (Clips 200 – 218)
 
-#### CLIP 200 — SWEETS IN THE CELEBRATING DRAWING ROOM
+#### CLIP 200 — TEA AND DELIBERATION IN THE LIVING ROOM
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, bringing porcelain plate of sweets); `CHAR_JAHANARA` (58, seated on sofa); `CHAR_MEGHLA` (32).
-* **SCENE:** Drawing room. Saturday, 9:15 AM. Room filled with morning warmth.
+* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, serving tea and biscuits); `CHAR_JAHANARA` (58, seated calmly on sofa); `CHAR_MEGHLA` (32).
+* **SCENE:** Drawing room. Saturday, 9:15 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Everyone sits inside; Rodela brings a plate of festive sweets with radiant joy.
-  * `3–7s`: Rodela invites Jahanara to sweeten her mouth, as yesterday's sorrow is washed away.
-  * `7–10s`: Jahanara smiles affectionately, asking Meghla to feed her with her own hands first.
+  * `0–3s`: All sit inside; Rodela serves steaming tea and light snacks.
+  * `3–7s`: Rodela offers tea to warm the morning chill.
+  * `7–10s`: Jahanara thanks her softly, asking Meghla to share her mind.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “আন্টি, মিষ্টি মুখ করুন! কালকের সব দুঃখ আজ ধুয়ে গেছে।”
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “আগে আমার মেঘলা মা মুখে মিষ্টি তুলে দিক, তবেই খাব।”
-* **CAMERA:** Medium shot around the living room coffee table, warm morning light replacing the shadows.
-* **PERFORMANCE AND AUDIO:** Bubbly, ecstatic hospitality from Rodela; affectionate, maternal warmth from Jahanara.
+  * রোদেলা (`CHAR_RODELA`): “আন্টি, একটু গরম চা খান। সকালের ঠান্ডায় ভালো লাগবে।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “ধন্যবাদ মা রোদেলা। মেঘলা, তুমি কিছু বলো মা।”
+* **CAMERA:** Medium group shot around the living room coffee table, morning light replacing tension.
+* **PERFORMANCE AND AUDIO:** Gentle, respectful hospitality from Rodela; humble, expectant invitation from Jahanara.
 
-#### CLIP 201 — THE SWEETNESS OF MUTUAL FORGIVENESS
+#### CLIP 201 — RESPECT FOR HUMBLE ADMISSION
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, feeding sweet to Jahanara); `CHAR_JAHANARA` (58, kissing Meghla's forehead).
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, sitting upright on sofa); `CHAR_JAHANARA` (58).
 * **SCENE:** Drawing room. Saturday, 9:17 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla breaks a piece of Sandesh and gently feeds it to Jahanara.
-  * `3–7s`: Jahanara kisses Meghla's forehead, claiming her as the true goddess of her home.
-  * `7–10s`: Meghla smiles with tearful grace, calling her forgiveness the greatest gift of her life.
+  * `0–3s`: Meghla sits straight, looking at Jahanara with calm, clear eyes.
+  * `3–7s`: Meghla says that coming here and admitting her mistake has increased her respect for her.
+  * `7–10s`: Jahanara asks if that means she has forgiven her.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “আজ থেকে তুই আমার ঘরের লক্ষ্মী মা।”
-  * মেঘলা (`CHAR_MEGHLA`): “আপনার এই ক্ষমাটুকু আমার সারা জীবনের সবচেয়ে বড় উপহার আন্টি।”
-* **CAMERA:** Close-up on the sweet being offered and the maternal kiss on the forehead.
-* **PERFORMANCE AND AUDIO:** Tender maternal blessing from Jahanara; soft, profoundly touched response from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “আন্টি, আপনি আজ এখানে এসে নিজের ভুল স্বীকার করেছেন—এতে আপনার প্রতি আমার শ্রদ্ধা অনেক বেড়ে গেছে।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “তাহলে কি তুমি আমাকে ক্ষমা করেছ মা?”
+* **CAMERA:** Tight two-shot: rack focus between Meghla's dignified poise and Jahanara's searching eyes.
+* **PERFORMANCE AND AUDIO:** Composed, sincere acknowledgment from Meghla; tender, hopeful question from Jahanara.
 
-#### CLIP 202 — THE SENIOR CITIZEN HEALTH INSURANCE
+#### CLIP 202 — HASTE AFTER A SEVERE SHOCK
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, sitting beside Altaf, pulling official folder from jacket); `CHAR_ALTAF` (64).
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32); `CHAR_ASHIK` (34, listening intently); `CHAR_JAHANARA` (58).
 * **SCENE:** Drawing room. Saturday, 9:20 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Ashik sits beside Altaf Master, placing an official embossed corporate folder on the table.
-  * `3–7s`: Altaf asks with curious hesitation what this document is.
-  * `7–10s`: Ashik opens the folder, revealing his multinational company's Senior Citizen Health Card.
+  * `0–3s`: Meghla addresses both Ashik and Jahanara with measured deliberation.
+  * `3–7s`: She notes that forgiveness was given yesterday, but asks if rushing into marriage after such a shock is wise.
+  * `7–10s`: Ashik listens carefully, asking what she suggests.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “এটা কিসের ফাইল বাবাজীবন?”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “কাকা, এটা আমাদের কোম্পানির সিনিয়র সিটিজেন হেলথ ইন্স্যুরেন্স কার্ড।”
-* **CAMERA:** Over-the-shoulder shot from Altaf onto the shiny corporate health insurance card on the table.
-* **PERFORMANCE AND AUDIO:** Innocent, timid question from Altaf; confident, respectful explanation from Ashik. Card sliding on wood.
+  * মেঘলা (`CHAR_MEGHLA`): “ক্ষমা তো আমি গতকালই করে দিয়েছিলাম আন্টি। কিন্তু এত বড় একটা ধাক্কার পর হুট করে বিয়ের পিঁড়িতে বসাটা কি ঠিক হবে?”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মেঘলা, তুমি কী বলতে চাইছ?”
+* **CAMERA:** Over-the-shoulder shot from Ashik onto Meghla's thoughtful, unhurried expression.
+* **PERFORMANCE AND AUDIO:** Mature, reflective reasoning from Meghla; respectful, attentive query from Ashik.
 
-#### CLIP 203 — LIFELONG MEDICAL FREEDOM
+#### CLIP 203 — TAKING TIME TO UNDERSTAND EACH OTHER
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, pointing to health card); `CHAR_ALTAF` (64, eyes widening); `CHAR_MEGHLA` (32).
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32); `CHAR_RABEYA` (56, anxious); `CHAR_ASHIK` (34).
 * **SCENE:** Drawing room. Saturday, 9:22 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Ashik points to Altaf's and Rabeya's names printed on the coverage sheet.
-  * `3–7s`: Ashik explains this card ensures 100% free lifelong treatment in any premier hospital.
-  * `7–10s`: Altaf stammers in shock, saying he is not yet his kin to accept such immense charity.
+  * `0–3s`: Meghla explains that marriage is not an impulsive decision.
+  * `3–7s`: She explains both families need time to understand each other's mindsets.
+  * `7–10s`: Rabeya worries aloud that Jahanara apologized with her own mouth.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “এই কার্ড দিয়ে আপনি এবং কাকিমা আজীবন যেকোনো বড় হাসপাতালে সম্পূর্ণ বিনামূল্যে চিকিৎসা পাবেন।”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “কিন্তু বাবাজীবন... আমি তো তোমার কেউ নই এখনও!”
-* **CAMERA:** Macro shot of the laminated health card, tilting up to Altaf's stunned, quivering face.
-* **PERFORMANCE AND AUDIO:** Smooth, dignified corporate gift from Ashik; startled, humble protest from Altaf.
+  * মেঘলা (`CHAR_MEGHLA`): “বিয়ে কোনো আবেগের তাৎক্ষণিক সিদ্ধান্ত নয়। আমাদের দুটি পরিবারকে আরও কিছুদিন সময় নিয়ে একে অপরের মানসিকতা বুঝতে হবে।”
+  * মা রাবেয়া (`CHAR_RABEYA`): “মেঘলা! আপা তো নিজের মুখে ক্ষমা চেয়েছেন রে মা!”
+* **CAMERA:** Medium shot: Meghla's steady perspective contrasted with Rabeya's nervous, traditional haste.
+* **PERFORMANCE AND AUDIO:** Clear, principled wisdom from Meghla; fretful maternal interjection from Rabeya.
 
-#### CLIP 204 — THE FORTUNE OF BEARING HER LOVES
+#### CLIP 204 — ASHIK ACCEPTS THE WISDOM OF TIME
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, taking Altaf's hands into his); `CHAR_MEGHLA` (32, breath catching in her throat).
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, raising hand gently); `CHAR_MEGHLA` (32); `CHAR_RABEYA` (56).
 * **SCENE:** Drawing room. Saturday, 9:24 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Ashik encloses Altaf's hands tightly between his own palms.
-  * `3–7s`: Ashik declares: you are Meghla's father, and carrying who she loves most is his greatest fortune.
-  * `7–10s`: Meghla stares at him, her lips parting as her breath catches with overwhelming emotion.
+  * `0–3s`: Ashik gestures gently to calm Rabeya's anxiety.
+  * `3–7s`: Ashik agrees with Meghla: after receiving an emotional blow, hearts require time to settle.
+  * `7–10s`: Meghla nods with heartfelt gratitude for his comprehension.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “আপনি মেঘলার বাবা। আর মেঘলা যাকে নিজের জীবনের চেয়েও বেশি ভালোবাসে, তার দায়িত্ব নেওয়ার চেয়ে বড় সৌভাগ্য আমার আর কী হতে পারে?”
-  * মেঘলা (`CHAR_MEGHLA`): “আশিক...”
-* **CAMERA:** Tight two-shot of Ashik holding Altaf's hands, rack focusing to Meghla's awestruck, weeping face.
-* **PERFORMANCE AND AUDIO:** Pure, unwavering son-in-law devotion from Ashik; choked, breathless murmur of his name from Meghla.
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “না কাকিমা, মেঘলা একদম খাঁটি কথা বলেছে। আঘাত পাওয়ার পর মন শান্ত হতে সময়ের দরকার হয়।”
+  * মেঘলা (`CHAR_MEGHLA`): “ধন্যবাদ আশিক, আমার মনের অবস্থাটা বুঝতে পারার জন্য।”
+* **CAMERA:** Close-up on Ashik's empathetic eyes, cutting to Meghla's appreciative smile.
+* **PERFORMANCE AND AUDIO:** Mature, patient understanding from Ashik; warm, genuine gratitude from Meghla.
 
-#### CLIP 205 — THE PLEDGE: RESPONSIBILITY IS OURS
+#### CLIP 205 — ASHIK'S REALISTIC PERSONAL PLEDGE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, turning to look directly into Meghla's eyes); `CHAR_MEGHLA` (32).
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, turning to Altaf Master); `CHAR_ALTAF` (64).
 * **SCENE:** Drawing room. Saturday, 9:26 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Ashik turns toward Meghla, his eyes shining with absolute partnership and integrity.
-  * `3–7s`: Ashik tells her: she wanted to bear the load alone, but from today, this father's care belongs to both of them.
-  * `7–10s`: Meghla wipes her tears, confessing she never imagined receiving such profound honor.
+  * `0–3s`: Ashik turns directly toward Altaf Master, speaking from personal conviction.
+  * `3–7s`: Ashik pledges: he has no magical powers, but beside Meghla, he will stand by his medical needs and care within his means.
+  * `7–10s`: Altaf touches his chest, calling this sincere reassurance a priceless blessing.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “মেঘলা, তুমি বলেছিলে দায়িত্বের বোঝা তুমি একা টানবে। কিন্তু আমি বলি—দায়িত্ব একা তোমার নয়, আজ থেকে এই বাবার দায়িত্ব আমাদের দুজনের।”
-  * মেঘলা (`CHAR_MEGHLA`): “আপনি আমাকে এত বড় সম্মান দেবেন আমি স্বপ্নেও ভাবিনি আশিক।”
-* **CAMERA:** Slow push-in on their locked gaze, capturing the birth of an unbreakable lifelong partnership.
-* **PERFORMANCE AND AUDIO:** Resonant, heroic, dependable baritone from Ashik; deeply moved, humble reverence from Meghla.
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “কাকা, আমার কোনো অলৌকিক ক্ষমতা নেই, তবে আমি আপনাকে কথা দিচ্ছি—মেঘলার পাশাপাশি ভবিষ্যতে আপনার যেকোনো চিকিৎসা ও প্রয়োজনে আমি সাধ্যমতো পাশে দাঁড়াব।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “বাবাজীবন, এই আন্তরিক আশ্বাসটুকুই আমার জন্য অনেক বড় পাওয়া।”
+* **CAMERA:** Warm two-shot of Ashik speaking with Altaf, capturing genuine, realistic son-in-law commitment without grandiosity.
+* **PERFORMANCE AND AUDIO:** Grounded, sincere pledge from Ashik; deeply touched, humble gratitude from Altaf.
 
-#### CLIP 206 — MOTHER'S UNBOUNDED PRIDE
+#### CLIP 206 — KNOWING AS HUMANS FIRST
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, resting hand on Ashik's shoulder); `CHAR_RABEYA` (56).
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, looking at his mother); `CHAR_JAHANARA` (58).
 * **SCENE:** Drawing room. Saturday, 9:28 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Jahanara Begum places a proud hand upon her son's shoulder.
-  * `3–7s`: Jahanara admits that if Meghla had forgotten her father, she could never have trusted her.
-  * `7–10s`: Rabeya holds Jahanara's other hand, praising her as a mother of jewels.
+  * `0–3s`: Ashik looks at his mother with affectionate firmness.
+  * `3–7s`: Ashik tells her: we won't rush; you and Meghla get to know and respect each other as humans first.
+  * `7–10s`: Jahanara nods in agreement: forced decisions out of embarrassment bring no good.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “আমার ছেলে আজ আমাকে গর্বিত করেছে মেঘলা। তুই যদি নিজের বাবাকে ভুলে আমার ঘরে আসতিস, আমি কোনোদিন তোকে বিশ্বাস করতে পারতাম না।”
-  * মা রাবেয়া (`CHAR_RABEYA`): “আপা, আপনি সত্যিই এক রত্নগর্ভা মা।”
-* **CAMERA:** Wide shot uniting both mothers with Ashik in the center, capturing generational healing.
-* **PERFORMANCE AND AUDIO:** Dignified, reformed maternal wisdom from Jahanara; tearful, grateful praise from Rabeya.
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা, আমরা কোনো তাড়াহুড়ো করব না। তুমি আর মেঘলা একে অপরকে আগে মানুষ হিসেবে জানো, সম্মান করো।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “তুই ঠিকই বলেছিস আশিক। জোর করে বা লজ্জায় পড়ে কোনো সিদ্ধান্ত নেওয়া ঠিক না।”
+* **CAMERA:** Two-shot of mother and son reaching an enlightened, pressure-free agreement.
+* **PERFORMANCE AND AUDIO:** Wise, progressive guidance from Ashik; mature, humble assent from Jahanara.
 
-#### CLIP 207 — THE PROCLAMATION TO THE EAVESDROPPERS
+#### CLIP 207 — RESPECTING THE MATURE CHOICE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, raising voice toward open door); `CHAR_TANVEER` (30, grinning broadly).
-* **SCENE:** Drawing room doorway. Saturday, 9:30 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, smiling at Meghla); `CHAR_MEGHLA` (32).
+* **SCENE:** Drawing room. Saturday, 9:30 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Jahanara spots shadows moving near the fence outside and raises her voice with regal authority.
-  * `3–7s`: She announces to all eavesdroppers: next month, she will proudly wed this 32-year-old golden bride!
-  * `7–10s`: Tanveer pumps his fist, cheering that the entire family will dance in that wedding.
+  * `0–3s`: Jahanara turns to Meghla with a warm, approving smile.
+  * `3–7s`: Jahanara confirms she respects this mature decision: no hurry, they will take their time.
+  * `7–10s`: Meghla responds: relationships survive on respect, not emotional pressure.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “বাইরে যারা দাঁড়িয়ে কান পেতে শুনছেন, তাদেরও বলে রাখি—আগামী মাসেই আমি ধুমধাম করে এই বত্রিশ বছরের সোনার মেয়েকে আমার বাড়িতে বউ করে নিয়ে যাব!”
-  * তানভীর (`CHAR_TANVEER`): “এবং আমরা পুরো পরিবার বুক ফুলিয়ে সেই বিয়েতে নাচব!”
-* **CAMERA:** Pan from Jahanara's commanding announcement to Tanveer's infectious, jubilant grin.
-* **PERFORMANCE AND AUDIO:** Regal, triumphant proclamation from Jahanara; hearty, celebratory laughter from Tanveer.
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “আমি তোমার এই পরিণত সিদ্ধান্তকে সম্মান করি মেঘলা। তাড়াহুড়ো নয়, আমরা সময় নেব।”
+  * মেঘলা (`CHAR_MEGHLA`): “ধন্যবাদ আন্টি। সম্পর্ক টিকে থাকে শ্রদ্ধার ওপর, আবেগের চাপে নয়।”
+* **CAMERA:** Intimate two-shot framing their mutual dignity and mutual respect.
+* **PERFORMANCE AND AUDIO:** Gracious, maternal respect from Jahanara; calm, philosophical grace from Meghla.
 
-#### CLIP 208 — THE RETREAT OF SHAME
+#### CLIP 208 — TIME AS THE GREATEST HEALER
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_SHIRIN` (52, scurrying away from fence in humiliation); `CHAR_NAZNEEN` (55, pulling saree veil).
-* **SCENE:** Neighboring lane outside fence. Saturday, 9:32 AM.
+* **CHARACTER CONTINUITY:** `CHAR_TANVEER` (30, offering water to Altaf); `CHAR_RODELA` (26).
+* **SCENE:** Drawing room. Saturday, 9:32 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Shirin and Nazneen duck behind the bamboo fence, faces burning with disgrace.
-  * `3–7s`: Shirin whispers frantically that they have no face left to show in this neighborhood.
-  * `7–10s`: Nazneen mutters bitterly that when God is on someone's side, no human can harm them.
+  * `0–3s`: Tanveer places a glass of water before Altaf Master.
+  * `3–7s`: Tanveer notes that Meghla's mature thinking proves how deeply wise she is.
+  * `7–10s`: Rodela agrees that there is no balm greater than time.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “চল নাজনীন, এখানে আর মুখ দেখানোর জায়গা নেই।”
-  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “বিধাতাই যার সহায়, তার কেউ ক্ষতি করতে পারে না!”
-* **CAMERA:** Tracking shot of the two aunts scuttling away through the wet alleyway, clutching their wet sarees.
-* **PERFORMANCE AND AUDIO:** Humiliated, hurried whisper from Shirin; grudging, fearful acknowledgment from Nazneen. Splashing puddles.
+  * তানভীর (`CHAR_TANVEER`): “মেঘলা আপার এই পরিণত ভাবনাই প্রমাণ করে উনি কতটা বিচক্ষণ মানুষ।”
+  * রোদেলা (`CHAR_RODELA`): “হ্যাঁ, সময়ের চেয়ে বড় কোনো মলম নেই।”
+* **CAMERA:** Medium shot capturing Tanveer and Rodela's admiring expressions.
+* **PERFORMANCE AND AUDIO:** Thoughtful admiration from Tanveer; sweet, affirming assent from Rodela.
 
-#### CLIP 209 — THE SISTER'S TRIUMPHANT EMBRACE
+#### CLIP 209 — TRUTH PREVAILS WITHOUT REGRET
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, wrapping arms around Meghla); `CHAR_MEGHLA` (32, laughing happily).
-* **SCENE:** Drawing room. Saturday, 9:34 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, closing worn notebook); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room table. Saturday, 9:34 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Rodela throws her arms around Meghla, spinning her playfully in the room.
-  * `3–7s`: Rodela rejoices that her sister's overcast sky is finally dazzling with radiant sunshine.
-  * `7–10s`: Meghla laughs through tears, crediting her father's blessings and divine grace.
+  * `0–3s`: Altaf Master rests his hand on his notebook with deep serenity.
+  * `3–7s`: Altaf states he has no regrets: honor was preserved and truth prevailed, bringing true peace.
+  * `7–10s`: Jahanara remarks that his daughter is truly an extraordinary human being.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “আপু! তোমার সেই মেঘলা আকাশ আজ রোদে ঝলমল করছে রে!”
-  * মেঘলা (`CHAR_MEGHLA`): “সবই বাবার আশীর্বাদ আর আল্লাহর রহমত রোদেলা।”
-* **CAMERA:** Close-up circling both sisters laughing and hugging, gold bangles and cotton sarees whirling together.
-* **PERFORMANCE AND AUDIO:** Jubilant, ecstatic cheer from Rodela; radiant, fulfilled laughter from Meghla.
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আমার মনে আজ কোনো আক্ষেপ নেই আপা। সম্মান রক্ষা পেয়ে সত্য প্রতিষ্ঠা হয়েছে, এটাই সবচেয়ে বড় স্বস্তি।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “আপনার মেয়ে সত্যিই এক অনন্য মানুষ মাস্টার সাহেব।”
+* **CAMERA:** Close-up on Altaf's peaceful face, cutting to Jahanara's sincere nod.
+* **PERFORMANCE AND AUDIO:** Serene, contented baritone from Altaf; deep, heartfelt admiration from Jahanara.
 
-#### CLIP 210 — THE NEW PAGE IN THE RED DIARY
+#### CLIP 210 — TEACHING IS MY IDENTITY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, bringing old red diary to table); `CHAR_ASHIK` (34, leaning in).
-* **SCENE:** Drawing room table. Saturday, 9:36 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34); `CHAR_MEGHLA` (32, holding leather school folder).
+* **SCENE:** Drawing room window. Saturday, 9:36 AM. Soft morning sunlight streaming across room.
 * **ACTION AND TIMING:**
-  * `0–3s`: Altaf Master walks to the table holding the worn red diary and a fountain pen.
-  * `3–7s`: Altaf announces he will write a brand-new page in this book of tears.
-  * `7–10s`: Ashik leans forward with a warm smile, asking what he will write.
+  * `0–3s`: Outside, the rain lightens to a mist; sunlight filters through curtains.
+  * `3–7s`: Ashik asks if she still plans to attend school today.
+  * `7–10s`: Meghla replies: teaching is her self-identity; without it, she is incomplete.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “এই ডায়েরিতে আজ আমি একটা নতুন পাতা লিখব।”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “কী লিখবেন কাকা?”
-* **CAMERA:** Close-up on the aged red leather diary laid open to a fresh, unlined white page.
-* **PERFORMANCE AND AUDIO:** Solemn, trembling joy from Altaf; eager, affectionate question from Ashik. Pen clicking.
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মেঘলা, তুমি কি নিয়মিত স্কুলেই যাচ্ছ?”
+  * মেঘলা (`CHAR_MEGHLA`): “হ্যাঁ আশিক। শিক্ষকতা আমার আত্মপরিচয়। ওটা ছাড়া আমি অসম্পূর্ণ।”
+* **CAMERA:** Rack focus from the sunlit window pane to Meghla's proud, dedicated expression.
+* **PERFORMANCE AND AUDIO:** Inquiring, admiring question from Ashik; passionate, resolute answer from Meghla.
 
-#### CLIP 211 — THE INSCRIPTION OF TRUTH
+#### CLIP 211 — THE FOUNDATION OF FRIENDSHIP
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, writing with blue ink fountain pen); `CHAR_JAHANARA` (58, watching reverently).
-* **SCENE:** Drawing room table. Saturday, 9:38 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, smiling warmly); `CHAR_MEGHLA` (32).
+* **SCENE:** Drawing room. Saturday, 9:38 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Altaf's hand writes in beautiful Bengali cursive: "আমার মেঘলা হারেনি..."
-  * `3–7s`: Altaf reads his written line: "My Meghla did not lose; with honesty she made society win."
-  * `7–10s`: Jahanara affirms softly that this victory belongs to every truthful daughter.
+  * `0–3s`: Ashik looks at her with unreserved respect.
+  * `3–7s`: Ashik affirms he will always respect her independent spirit and asks to stay in touch.
+  * `7–10s`: Meghla agrees: a genuine friendship is the finest foundation for any relationship.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “‘আমার মেঘলা হারেনি... আমার মেঘলা তার সততা দিয়ে পুরো সমাজকে জিতিয়ে দিয়েছে।’”
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “এই জয় প্রতিটি সৎ মেয়ের জয় মাস্টার সাহেব।”
-* **CAMERA:** Macro shot of the fountain pen nib gliding across the paper, ink gleaming wet on the page.
-* **PERFORMANCE AND AUDIO:** Choked, soul-stirring recitation from Altaf; quiet, respectful assent from Jahanara. Pen scratching paper.
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “তোমার এই স্বাধীন সত্তাকে আমি সবসময় শ্রদ্ধা করব। যেকোনো প্রয়োজনে আমরা যেন যোগাযোগে থাকি?”
+  * মেঘলা (`CHAR_MEGHLA`): “নিশ্চয়ই। একটি সুন্দর বন্ধুত্বই তো যেকোনো সম্পর্কের সবচেয়ে ভালো ভিত্তি হতে পারে।”
+* **CAMERA:** Medium two-shot capturing the birth of an authentic, equals-based companionship.
+* **PERFORMANCE AND AUDIO:** Sincere, egalitarian respect from Ashik; graceful, welcoming affirmation from Meghla.
 
-#### CLIP 212 — THE HEIRLOOM GOLD BANGLE
+#### CLIP 212 — FAREWELL WITH LIGHT IN THE HOUSE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, sliding antique gold bangle onto Meghla's wrist); `CHAR_MEGHLA` (32).
-* **SCENE:** Drawing room. Saturday, 9:40 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, standing to take leave); `CHAR_ALTAF` (64); `CHAR_RABEYA` (56).
+* **SCENE:** Drawing room doorway. Saturday, 9:40 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Jahanara removes a heavy heirloom gold bangle from her wrist, sliding it onto Meghla's arm.
-  * `3–7s`: She explains this was her mother-in-law's blessing, transferring true ownership of her lineage.
-  * `7–10s`: Meghla bows her head with tears, promising to honor this sacred trust.
+  * `0–3s`: Jahanara sets down her cup, preparing to depart.
+  * `3–7s`: Jahanara tells Altaf they are leaving today, but communication will remain open.
+  * `7–10s`: Rabeya says their arrival has cleared every shadow of darkness from their home.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “এটা আমার শাশুড়ির আশীর্বাদ ছিল। আজ থেকে এই বাড়ির প্রকৃত অধিকার তোর।”
-  * মেঘলা (`CHAR_MEGHLA`): “আমি এই অধিকারের মর্যাদা রাখব মা।”
-* **CAMERA:** Macro shot of the shining antique gold bangle clasping around Meghla's wrist, glittering in morning light.
-* **PERFORMANCE AND AUDIO:** Solemn, generational blessing from Jahanara; reverent, filial vow from Meghla. Metal clink.
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “আমরা আজ চলি মাস্টার সাহেব। তবে যোগাযোগ কিন্তু থাকবে।”
+  * মা রাবেয়া (`CHAR_RABEYA`): “আপনাদের এই আসাটাই আমাদের ঘরের সব অন্ধকার দূর করে দিল আপা।”
+* **CAMERA:** Wide shot tracking the friendly, dignified parting between both families.
+* **PERFORMANCE AND AUDIO:** Warm, respectful farewell from Jahanara; tearfully grateful blessing from Rabeya.
 
-#### CLIP 213 — THE FIRST CALL OF "MA"
+#### CLIP 213 — MAY YOUR DIGNITY SHINE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, hugging Meghla tightly with tears); `CHAR_ASHIK` (34, laughing playfully).
-* **SCENE:** Drawing room. Saturday, 9:42 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, touching Meghla's chin affectionately); `CHAR_MEGHLA` (32).
+* **SCENE:** Veranda threshold. Saturday, 9:42 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Hearing Meghla call her "Ma", Jahanara breaks into joyful sobs, drawing her into a motherly embrace.
-  * `3–7s`: Jahanara weeps that she had no daughter, but God gifted her a queen today.
-  * `7–10s`: Ashik laughs playfully, complaining that he has become an outsider in his own family.
+  * `0–3s`: Jahanara pauses on the veranda, touching Meghla's chin with maternal affection.
+  * `3–7s`: Jahanara blesses her: stay well, Meghla; may your self-respect remain this radiant forever.
+  * `7–10s`: Meghla smiles, wishing them a safe and peaceful journey home.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “আমার কোনো মেয়ে ছিল না রে মেঘলা... আল্লাহ আজ আমাকে একটা রানি দিলেন।”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “এখন তো মনে হচ্ছে আমিই পর হয়ে গেলাম মা!”
-* **CAMERA:** Warm two-shot of the mother-in-law and bride embracing, panning to Ashik's teasing smile.
-* **PERFORMANCE AND AUDIO:** Sobbing, overjoyed maternal embrace from Jahanara; lighthearted, playful tease from Ashik.
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “ভালো থেকো মেঘলা মা। তোমার আত্মমর্যাদা যেন এভাবেই উজ্জ্বল থাকে।”
+  * মেঘলা (`CHAR_MEGHLA`): “আপনারাও সাবধানে ফিরবেন আন্টি।”
+* **CAMERA:** Close-up on the tender maternal touch on Meghla's chin, soft morning light in their eyes.
+* **PERFORMANCE AND AUDIO:** Affectionate, dignified blessing from Jahanara; gracious, warm response from Meghla.
 
-#### CLIP 214 — FEAST OF RECONCILIATION
+#### CLIP 214 — PROUD OF SUCH A DAUGHTER
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RABEYA` (56, wiping tears with pallu, smiling broadly); `CHAR_ASHIK` (34).
-* **SCENE:** Drawing room. Saturday, 9:44 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, greeting aunts in courtyard); `CHAR_SHIRIN` (52, humbled).
+* **SCENE:** Courtyard. Saturday, 9:44 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: The whole room bursts into genuine laughter, washing away decades of sorrow.
-  * `3–7s`: Rabeya insists they cannot leave today without sharing a celebratory lunch.
-  * `7–10s`: Ashik pats his stomach, refusing to move an inch without tasting Meghla's famous cooking.
+  * `0–3s`: Jahanara notices Shirin and Nazneen standing by the courtyard edge.
+  * `3–7s`: Jahanara greets them, advising them to take immense pride in having a daughter like Meghla in their family.
+  * `7–10s`: Shirin lowers her eyes in shame, softly agreeing.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মা রাবেয়া (`CHAR_RABEYA`): “আজ দুপুরে আপনারা সবাই এখানে না খেয়ে যেতে পারবেন না!”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “মেঘলার হাতের সেই বিখ্যাত রান্না না খেয়ে আজ আমি নড়ছিই না কাকিমা!”
-* **CAMERA:** Medium wide shot capturing the shared laughter and blooming camaraderie among all family members.
-* **PERFORMANCE AND AUDIO:** Beaming, celebratory hospitality from Rabeya; hearty, jovial humor from Ashik.
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “আসসালামু আলাইকুম। মেঘলার মতো এমন ভালো মেয়ে আপনাদের পরিবারে আছে, আপনারা গর্ববোধ করবেন।”
+  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “ওয়ালাইকুমুস সালাম ভাবি... তা তো বটেই।”
+* **CAMERA:** Medium shot: Jahanara's public praise instantly dismantling the aunts' gossiping stance.
+* **PERFORMANCE AND AUDIO:** Clear, authoritative praise from Jahanara; flustered, embarrassed acknowledgment from Shirin.
 
-#### CLIP 215 — THE PROMISE OF COOKING TOGETHER
+#### CLIP 215 — THE JOY OF WALKING
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, blushing playfully); `CHAR_ASHIK` (34, winking subtly).
-* **SCENE:** Drawing room. Saturday, 9:46 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, holding car keys); `CHAR_MEGHLA` (32, smiling gently).
+* **SCENE:** Courtyard path. Saturday, 9:46 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla looks at Ashik with a sweet, blushing smile.
-  * `3–7s`: She promises to cook aromatic polao and rezala with her own hands for him.
-  * `7–10s`: Ashik offers to stand beside her in the kitchen to chop and help.
+  * `0–3s`: Ashik walks to his car, then turns to Meghla.
+  * `3–7s`: Ashik offers to drop her off at school if she is running late.
+  * `7–10s`: Meghla declines with a bright smile: walking to school at her own pace has a special joy.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “আপনার জন্য আমি নিজের হাতে পোলাও আর রেজালা রাঁধব।”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “আর আমি কিচেনে দাঁড়িয়ে আপনাকে সাহায্য করব।”
-* **CAMERA:** Intimate over-the-shoulder shot capturing their subtle, flirtatious camaraderie.
-* **PERFORMANCE AND AUDIO:** Playful, affectionate promise from Meghla; eager, modern partnership from Ashik.
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “যদি স্কুলে দেরি হয়ে যায়, আমরা তোমাকে নামিয়ে দিয়ে আসতে পারি?”
+  * মেঘলা (`CHAR_MEGHLA`): “ধন্যবাদ আশিক, কিন্তু আমার নিজের মতো হেঁটে স্কুলে যাওয়ার আনন্দটাই আলাদা।”
+* **CAMERA:** Over-the-shoulder shot from Ashik capturing Meghla's radiant, independent posture.
+* **PERFORMANCE AND AUDIO:** Courteous, thoughtful offer from Ashik; self-sufficient, cheerful refusal from Meghla.
 
-#### CLIP 216 — THE DEVOTED HUSBAND-TO-BE
+#### CLIP 216 — SEE YOU AGAIN
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, slapping Ashik's shoulder lightly in mock scolding); `CHAR_ALTAF` (64, laughing warmly).
-* **SCENE:** Drawing room. Saturday, 9:48 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, laughing in understanding); `CHAR_MEGHLA` (32).
+* **SCENE:** Front gate. Saturday, 9:48 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Jahanara taps Ashik's arm playfully, teasing his sudden devotion to his future wife.
-  * `3–7s`: She jokes with Altaf Master that the boy has already become a henpecked husband.
-  * `7–10s`: Altaf laughs heartily, praising that this is exactly what a noble son-in-law should be.
+  * `0–3s`: Ashik smiles warmly, thoroughly appreciating her independent nature.
+  * `3–7s`: Ashik says he respects this decision of hers as well.
+  * `7–10s`: Meghla bids him farewell with a warm smile: until we meet again.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “বউয়ের ভক্ত এখনই হয়ে গেলি! মাস্টার সাহেব, ছেলের মতিগতি ভালো ঠেকছে না!”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “ভালো জামাই তো এমনটাই হওয়া উচিত আপা!”
-* **CAMERA:** Two-shot of Jahanara and Altaf sharing warm parental laughter across the coffee table.
-* **PERFORMANCE AND AUDIO:** Teasing, affectionate scolding from Jahanara; rich, happy paternal laughter from Altaf.
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “ঠিক আছে। তোমার এই সিদ্ধান্তকেও সম্মান জানালাম।”
+  * মেঘলা (`CHAR_MEGHLA`): “আবার দেখা হবে আশিক।”
+* **CAMERA:** Close-up rack focus between Ashik's smiling eyes and Meghla's peaceful wave.
+* **PERFORMANCE AND AUDIO:** Lighthearted, admiring assent from Ashik; calm, friendly farewell from Meghla.
 
-#### CLIP 217 — NO LEAVE FROM DUTY
+#### CLIP 217 — CONFRONTED WITH TRUTH WITHOUT MALICE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, looking at wall clock reading 10:00 AM); `CHAR_ASHIK` (34, rising enthusiastically).
-* **SCENE:** Drawing room. Saturday, 9:50 AM. Clock ticking.
+* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, watching car drive away); `CHAR_MEGHLA` (32); `CHAR_ALTAF` (64).
+* **SCENE:** Front gate. Saturday, 9:50 AM. Car splashing down the wet road.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla glances at the wooden wall clock showing 10:00 AM, holding her school bag.
-  * `3–7s`: She wonders aloud if she should take leave from school today.
-  * `7–10s`: Ashik stands up, insisting that they will all escort her to school in the car with full honors.
+  * `0–3s`: The car departs along the country road; Meghla, Altaf, and Rodela wave.
+  * `3–7s`: Rodela marvels at how genuinely both people changed from within.
+  * `7–10s`: Meghla explains: people change when confronted with truth without wounding them.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “আজ কি তাহলে আমার স্কুলে ছুটি নিতে হবে বাবা?”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “একদম নয়! আমরা সবাই মিলে তোমাকে গাড়ি করে স্কুলে নামিয়ে দিয়ে আসব। আজ তুমি গর্বিত শিক্ষিকা হয়ে ক্লাসে যাবে।”
-* **CAMERA:** Medium shot on Meghla picking up her leather teacher's file, surrounded by supportive family.
-* **PERFORMANCE AND AUDIO:** Modest, conscientious question from Meghla; proud, energizing encouragement from Ashik.
+  * রোদেলা (`CHAR_RODELA`): “আপু, মানুষ দুটো সত্যিই ভেতর থেকে বদলে গেল রে!”
+  * মেঘলা (`CHAR_MEGHLA`): “মানুষ বদলায় রোদেলা, যদি তাকে আঘাত না দিয়ে সত্যের মুখোমুখি দাঁড় করানো যায়।”
+* **CAMERA:** Wide tracking shot of the car receding into the green distance, panning to Meghla's philosophical face.
+* **PERFORMANCE AND AUDIO:** Awed sisterly observation from Rodela; profound, measured wisdom from Meghla. Car hum fading.
 
-#### CLIP 218 — HEAD HELD FOREVER HIGH
+#### CLIP 218 — UNSURRENDERED TO PRESSURE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, adjusting her saree pallu proudly); `CHAR_ALTAF` (64, gazing with profound paternal honor).
-* **SCENE:** Drawing room doorway. Saturday, 9:52 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, placing hand on Meghla's shoulder); `CHAR_MEGHLA` (32).
+* **SCENE:** Front gate. Saturday, 9:52 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla adjusts her pastel green saree pallu, standing tall at the threshold.
-  * `3–7s`: She smiles, stating that today she will stand before the world with her head held high.
-  * `7–10s`: Altaf Master rests his hand on his chest, promising her head will never bow again.
+  * `0–3s`: Altaf Master rests his hand firmly upon Meghla's shoulder.
+  * `3–7s`: Altaf praises her: you did the exact right thing, refusing to surrender to pressure.
+  * `7–10s`: Meghla smiles into his eyes: your lifelong teachings are my beacon, Father.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “হ্যাঁ, আজ আমি মাথা উঁচু করেই দাঁড়াব।”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “তোর মাথা কোনোদিন নিচু হবে না মা।”
-* **CAMERA:** Low-angle heroic framing of Meghla framed by the sunlit doorway, father smiling behind her.
-* **PERFORMANCE AND AUDIO:** Unshakeable, glowing confidence from Meghla; deep, sacred reassurance from Altaf.
+  * বাবা আলতাফ (`CHAR_ALTAF`): “তুই ঠিক কাজটিই করেছিস মা। কোনো চাপের মুখে নিজেকে সঁপে দিসনি।”
+  * মেঘলা (`CHAR_MEGHLA`): “তোমার শিক্ষাই আমার পাথেয় বাবা।”
+* **CAMERA:** Low-angle shot capturing father and daughter united in moral triumph at the gate.
+  * **PERFORMANCE AND AUDIO:** Deeply proud paternal validation from Altaf; loving, devoted response from Meghla.
 
 ---
 
-### SCENE 21: EPIC RESOLUTION & THE SUNLIT HORIZON (Clips 219 – 240)
+### SCENE 21: THE TRIUMPH OF DIGNITY & THE CLASSROOM OF LIGHT (Clips 219 – 240)
 
-#### CLIP 219 — THE WASHEd SKY ON THE BALCONY
+#### CLIP 219 — NATURE CLEANSES ALL
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing at west veranda railing); `CHAR_ASHIK` (34, stepping beside her).
-* **SCENE:** West veranda. Saturday, 10:30 AM. Rain has cleared; radiant sunshine bathing glistening wet leaves.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing on veranda with files); `CHAR_ALTAF` (64).
+* **SCENE:** West veranda. Saturday, 10:30 AM. Rain completely stopped, brilliant sun glistening on wet leaves.
 * **ACTION AND TIMING:**
-  * `0–3s`: Sunlight breaks through splitting clouds, illuminating raindrops hanging like diamonds from leaves.
-  * `3–7s`: Meghla marvels at how an hour of rain washed the whole earth clean.
-  * `7–10s`: Ashik steps beside her, comparing it to her single hour of courage washing away a lifetime of darkness.
+  * `0–3s`: Sunlight breaks brilliantly across glistening green branches; Meghla arranges her class papers.
+  * `3–7s`: Meghla admires how beautifully nature cleanses and renews everything.
+  * `7–10s`: Altaf notes that the heavy clouds in her heart have cleared away as well.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “কী আশ্চর্য... এক ঘণ্টার বৃষ্টিতে পুরো পৃথিবীটা কেমন ধুয়ে মুছে সাফ হয়ে গেল!”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “ঠিক যেমন তোমার এক ঘণ্টার সিদ্ধান্তে জীবনের সব অন্ধকার সাফ হয়ে গেল।”
-* **CAMERA:** Breathtaking panoramic shot of the sunlit garden, slowly moving to frame Meghla and Ashik together.
-* **PERFORMANCE AND AUDIO:** Awed, poetic wonder from Meghla; tender, philosophical admiration from Ashik. Bird songs.
+  * মেঘলা (`CHAR_MEGHLA`): “প্রকৃতি কত সুন্দর করে সব ধুয়ে মুছে নতুন করে দেয়!”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “তোর মনের ভেতরের মেঘগুলোও তো আজ কেটে গেল মা।”
+* **CAMERA:** Breathtaking panoramic shot of the rain-washed courtyard transitioning to father and daughter on veranda.
+* **PERFORMANCE AND AUDIO:** Poetic, peaceful wonder from Meghla; gentle, contented observation from Altaf. Bird songs.
 
-#### CLIP 220 — WHAT IF YOU HADN'T RETURNED?
+#### CLIP 220 — COMPLETELY FREE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, looking up into Ashik's eyes); `CHAR_ASHIK` (34, hair rustling in wind).
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, turning with eyes shining); `CHAR_ALTAF` (64).
 * **SCENE:** West veranda. Saturday, 10:32 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Gentle wind blows their hair; Meghla looks up with vulnerable honesty.
-  * `3–7s`: She asks what would have happened if he hadn't returned this morning.
-  * `7–10s`: Ashik answers with absolute clarity: he had to come, for he was not blind enough to lose such a gem.
+  * `0–3s`: Meghla turns toward Altaf, her eyes alight with unburdened liberty.
+  * `3–7s`: Meghla says: yes Father, today I fear no one's barbed taunts anymore.
+  * `7–10s`: Altaf smiles with deep peace: you are free, my daughter, completely free.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “আপনি যদি আজ না আসতেন আশিক?”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “আমাকে আসতেই হতো মেঘলা। কারণ তোমার মতো একজন আত্মমর্যাদাসম্পন্ন নারীকে হারানোর মতো অন্ধ আমি নই।”
-* **CAMERA:** Intimate two-shot against the sun-drenched green trees, golden backlight glowing around their faces.
-* **PERFORMANCE AND AUDIO:** Soft, reflective inquiry from Meghla; rock-solid, romantic conviction from Ashik.
+  * মেঘলা (`CHAR_MEGHLA`): “হ্যাঁ বাবা। আজ আর কারও খোঁটার ভয় আমার নেই।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “তুই মুক্ত মা। সম্পূর্ণ মুক্ত।”
+* **CAMERA:** Close-up on Meghla's glowing face, cutting to Altaf's blessed, peaceful smile.
+* **PERFORMANCE AND AUDIO:** Clear, triumphant liberation from Meghla; sacred, joyful blessing from Altaf.
 
-#### CLIP 221 — AGE VERSUS MATURITY
+#### CLIP 221 — STEPPING FORTH FOR HER STUDENTS
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, resting hand on wooden railing); `CHAR_MEGHLA` (32).
-* **SCENE:** West veranda railing. Saturday, 10:34 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, tucking umbrella under arm, stepping onto path); `CHAR_ALTAF` (64).
+* **SCENE:** Courtyard path. Saturday, 10:34 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Ashik leans on the railing, looking into the bright horizon.
-  * `3–7s`: He remarks: society taunts women about age, failing to see that a mature soul loves a million times deeper.
-  * `7–10s`: Meghla sighs gently, asking when this backward society will ever change.
+  * `0–3s`: Meghla rolls her umbrella and tucks it under her arm, stepping onto the courtyard path.
+  * `3–7s`: She announces she is heading to school to deliver an essential lesson to her students.
+  * `7–10s`: Altaf blesses her: go my child, my prayers are always with you.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “সমাজ মেয়েদের বয়স নিয়ে খোঁচা দেয়, কিন্তু সমাজ বোঝে না—পরিপক্ব মনের ভালোবাসা কাঁচা বয়সের আকর্ষণের চেয়ে কোটি গুণ গভীর।”
-  * মেঘলা (`CHAR_MEGHLA`): “এই সমাজটা কবে বদলাবে আশিক?”
-* **CAMERA:** Close-up on Ashik speaking with profound social awareness, cutting to Meghla's pensive eyes.
-* **PERFORMANCE AND AUDIO:** Wise, progressive philosophy from Ashik; yearning, thoughtful question from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “আমি স্কুলে যাচ্ছি বাবা। ছাত্রীদের আজ একটা খুব জরুরি পাঠ দিতে হবে।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “যাও মা, তোমার জন্য সবসময় দোয়া রইল।”
+* **CAMERA:** Medium tracking shot following Meghla's firm, energetic stride toward the gate.
+* **PERFORMANCE AND AUDIO:** Professional, purposeful resolve from Meghla; warm paternal blessing from Altaf.
 
-#### CLIP 222 — WHEN A MEGHLA IS BORN
+#### CLIP 222 — SOCIETY'S FALSE MEASURE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, pointing toward the clear blue sky); `CHAR_MEGHLA` (32, smiling radiantly).
-* **SCENE:** West veranda. Saturday, 10:36 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, walking along rural path, green saree pallu fluttering in breeze).
+* **SCENE:** Village road lined with bamboo groves. Saturday, 10:36 AM. Sunlit puddles.
 * **ACTION AND TIMING:**
-  * `0–3s`: Ashik points toward the vast cloudless blue sky above.
-  * `3–7s`: He says: society will change when every home births a brave Meghla and an Ashik stands by her.
-  * `7–10s`: Meghla smiles with complete trust, promising to remain worthy of his faith forever.
+  * `0–3s`: Meghla walks along the clean dirt road, morning breeze fluttering her pastel green pallu.
+  * `3–7s`: She reflects inwardly: society thought being unmarried at 32 meant a woman was defeated.
+  * `7–10s`: Her stride remains regal, measured, and completely unbroken.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “সমাজ বদলাবে যখন প্রতিটা ঘরে তোমার মতো একজন সাহসী মেঘলা জন্মাবে এবং আমার মতো একজন আশিক তার পাশে দাঁড়াবে।”
-  * মেঘলা (`CHAR_MEGHLA`): “আমি চিরকাল আপনার এই ভরসার যোগ্য হয়ে থাকতে চাই।”
-* **CAMERA:** Uplifting low-angle shot showing them looking together into the infinite blue sky.
-* **PERFORMANCE AND AUDIO:** Inspiring, visionary baritone from Ashik; heartfelt, devoted whisper from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “সমাজ ভেবেছিল বত্রিশ বছর বয়সে বিয়ে না হওয়া মানেই এক নারী পরাজিত...”
+* **CAMERA:** Low-angle tracking shot focusing on Meghla's confident footsteps and majestic posture.
+* **PERFORMANCE AND AUDIO:** Serene, reflective internal monologue from Meghla. Gentle rustle of bamboo leaves.
 
-#### CLIP 223 — SETTING THE TWELFTH AS WEDDING DATE
+#### CLIP 223 — THE AUNTS' SILENT RESPECT
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, chatting happily with Altaf in courtyard); `CHAR_ALTAF` (64); `CHAR_RABEYA` (56).
-* **SCENE:** Sunlit courtyard. Saturday, 10:38 AM.
+* **CHARACTER CONTINUITY:** `CHAR_SHIRIN` (52, watching from porch); `CHAR_NAZNEEN` (55).
+* **SCENE:** Neighboring porch. Saturday, 10:38 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: In the courtyard below, Jahanara and Altaf discuss dates over fresh tea.
-  * `3–7s`: Jahanara fixes the 12th of next month: simple, elegant, but rich in dignity.
-  * `7–10s`: Altaf bows gratefully, stating her word is his command.
+  * `0–3s`: Shirin and Nazneen stand by their railing, watching Meghla walk past.
+  * `3–7s`: Shirin whispers in awe: that girl is made of different steel; she never learned to bow her head.
+  * `7–10s`: Nazneen nods quietly, admitting they might have judged her wrongly.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “মাস্টার সাহেব, বিয়ের তারিখ আগামী মাসের ১২ তারিখেই ফাইনাল। কোনো জাঁকজমক নয়, কিন্তু সম্মানের কোনো কমতি হবে না।”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “আপনার কথাই আমার আদেশ আপা।”
-* **CAMERA:** Wide shot of the courtyard filled with golden morning light, capturing the harmonious wedding planning.
-* **PERFORMANCE AND AUDIO:** Decisive, joyful matriarchal tone from Jahanara; respectful, relieved paternal response from Altaf.
+  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “মেয়েটা আসলেই অন্য ধাতুতে গড়া... মাথা নিচু করতে শেখেনি।”
+  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “হ্যাঁ রে শিরিন, আমরাই হয়তো ভুল বুঝেছিলাম।”
+* **CAMERA:** Over-the-shoulder shot from the aunts onto Meghla's distant, erect figure on the sunlit road.
+* **PERFORMANCE AND AUDIO:** Humbled, genuine awe from Shirin; quiet, reflective admission from Nazneen.
 
-#### CLIP 224 — SISTER'S SARI DUTY
+#### CLIP 224 — ASHIK IS GENUINE, BUT NO HURRY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, standing in courtyard calling up to veranda); `CHAR_TANVEER` (30); `CHAR_MEGHLA` (32, looking down).
-* **SCENE:** Courtyard looking up at veranda. Saturday, 10:40 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, pausing at road intersection, smiling).
+* **SCENE:** Road intersection with banyan tree. Saturday, 10:40 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Rodela and Tanveer walk across the brick path, waving up at Meghla on the veranda.
-  * `3–7s`: Rodela claims full responsibility for choosing the bridal saree.
-  * `7–10s`: Tanveer volunteers to manage the guest reception with pride.
+  * `0–3s`: Meghla reaches the crossroads under the shade of a large banyan tree.
+  * `3–7s`: She reflects: Ashik is genuine, time will tell what future holds, but there is no need to rush into someone's shelter.
+  * `7–10s`: A tranquil, self-assured smile graces her face.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “আপু! তোমার বিয়ের শাড়ির দায়িত্ব কিন্তু সম্পূর্ণ আমার!”
-  * তানভীর (`CHAR_TANVEER`): “আর বরযাত্রীদের আপ্যায়নের দায়িত্ব আমার!”
-* **CAMERA:** High-angle shot from the veranda looking down at Rodela and Tanveer waving cheerfully in the sun.
-* **PERFORMANCE AND AUDIO:** Bubbly, ecstatic shout from Rodela; proud, energetic offer from Tanveer.
+  * মেঘলা (`CHAR_MEGHLA`): “আশিক মানুষ হিসেবে খাঁটি। ভবিষ্যৎ কী হবে সময় বলে দেবে, কিন্তু তাড়াহুড়ো করে কারও আশ্রয়ে যাওয়ার প্রয়োজন নেই।”
+* **CAMERA:** Close-up on Meghla's peaceful face bathed in dappled morning sunlight.
+* **PERFORMANCE AND AUDIO:** Mature, balanced internal reflection from Meghla. Gentle rustling banyan leaves.
 
-#### CLIP 225 — THE LAUGHTER OF BLUSHING SHAME
+#### CLIP 225 — ARRIVAL AT IDEAL GIRLS HIGH SCHOOL
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, leaning over railing, covering face playfully); `CHAR_ASHIK` (34, laughing).
-* **SCENE:** West veranda railing. Saturday, 10:42 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, reaching red brick school gate); GATEKEEPER (60, in khaki uniform).
+* **SCENE:** Ideal Girls High School gate. Saturday, 10:42 AM. Bright red brick building glowing in sun.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla blushes deeply, playfully scolding her sister and brother-in-law.
-  * `3–7s`: She tells them to stop fussing so much as she feels embarrassed.
-  * `7–10s`: Ashik laughs, declaring that the days of shame are over; now is the time to smile tall.
+  * `0–3s`: Meghla arrives at the red brick gates of Ideal Girls High School.
+  * `3–7s`: Meghla reflects: these classrooms, these young girls—this is my true realm of dignity.
+  * `7–10s`: The gatekeeper greets her with respect, asking why she was a bit late.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “তোরা এত মাতামাতি করিস না রে, লজ্জা লাগছে!”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “লজ্জা পাওয়ার দিন শেষ মেঘলা, এখন মাথা উঁচু করে হাসার সময়।”
-* **CAMERA:** Close-up on Meghla's blushing, radiant face as Ashik's laughter surrounds her.
-* **PERFORMANCE AND AUDIO:** Playful, bashful protest from Meghla; confident, uplifting cheer from Ashik.
+  * মেঘলা (`CHAR_MEGHLA`): “এই ক্লাসরুম, এই বাচ্চাগুলো—এরাই তো আমার আত্মমর্যাদার জগৎ।”
+  * দারোয়ান চাচা: “আসসালামু আলাইকুম আপা! আজ একটু দেরি হলো যে?”
+* **CAMERA:** Wide shot tracking Meghla entering through the school gate, greeted by the elderly gatekeeper.
+* **PERFORMANCE AND AUDIO:** Deeply fulfilled internal whisper from Meghla; respectful, friendly greeting from gatekeeper.
 
-#### CLIP 226 — FATHER'S UNPAID DEBT
+#### CLIP 226 — ARRIVED RIGHT ON TIME
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, ascending veranda wooden stairs, holding spectacles); `CHAR_MEGHLA` (32, turning to greet him).
-* **SCENE:** West veranda stairs. Saturday, 10:44 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32); GATEKEEPER (60).
+* **SCENE:** School courtyard. Saturday, 10:44 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Altaf Master slowly climbs the wooden stairs to the veranda, holding his spectacles.
-  * `3–7s`: Altaf tells Meghla he had one lingering debt to repay her.
-  * `7–10s`: Meghla looks at him with gentle surprise, asking what debt he could possibly owe.
+  * `0–3s`: Meghla returns the salam with a warm smile.
+  * `3–7s`: Meghla says: even if late by the clock, I arrived exactly on time in life.
+  * `7–10s`: The gatekeeper smiles, saying the girls in her class have been looking for her.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “মেঘলা মা... আমার একটা ঋণ বাকি ছিল।”
-  * মেঘলা (`CHAR_MEGHLA`): “তোমার ঋণ কিসের বাবা?”
-* **CAMERA:** Medium tracking shot of the elderly father walking up the sunlit stairs toward his daughter.
-* **PERFORMANCE AND AUDIO:** Solemn, deeply emotional tremor from Altaf; tender, puzzled question from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “ওয়ালাইকুমুস সালাম চাচা। দেরিতে হলেও সঠিক সময়েই পৌঁছেছি।”
+  * দারোয়ান চাচা: “আপনার ক্লাসের মেয়েরা আপনাকে খুঁজছে আপা।”
+* **CAMERA:** Close-up on Meghla's witty, philosophical smile, cutting to the gatekeeper's welcoming grin.
+* **PERFORMANCE AND AUDIO:** Cheerful, philosophical humor from Meghla; warm, bustling schoolyard acoustics.
 
-#### CLIP 227 — LIBERATION AND DEVOTION
+#### CLIP 227 — THE GREETINGS OF YOUNG INNOCENCE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, holding Meghla's hands, tears flowing); `CHAR_MEGHLA` (32, embracing him).
-* **SCENE:** West veranda. Saturday, 10:46 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, climbing school stairs); SCHOOLGIRLS (12–15, green uniforms).
+* **SCENE:** School stairs and corridor. Saturday, 10:46 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Altaf clasps both her hands, tears of joy streaming down his wrinkled face.
-  * `3–7s`: He says she saved his lifelong honor, and today he frees her to build her own nest.
-  * `7–10s`: Meghla hugs him tightly, sobbing that no one can ever free her from being his little girl.
+  * `0–3s`: Meghla ascends the wide stone stairs; students line the corridor, waving in delight.
+  * `3–7s`: The girls call out in unison: Good morning Miss!
+  * `7–10s`: Meghla waves back with boundless maternal warmth: Good morning, my dear ones!
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “তুই সারা জীবন এই বুড়ো বাপের মান-ইজ্জত বাঁচিয়েছিস মা। আজ আমি তোকে মুক্ত করে দিলাম... এবার তুই নিজের সংসার গুছিয়ে নে।”
-  * মেঘলা (`CHAR_MEGHLA`): “তোমার কোল থেকে আমাকে কেউ কোনোদিন মুক্ত করতে পারবে না বাবা। আমি সবসময় তোমার মেঘলাই থাকব।”
-* **CAMERA:** Tight emotional two-shot of father and daughter locked in a cathartic, lifelong embrace.
-* **PERFORMANCE AND AUDIO:** Weeping, broken release from Altaf; passionate, fiercely loyal vow from Meghla.
+  * ছাত্রীরা: “গুড মর্নিং মিস!”
+  * মেঘলা (`CHAR_MEGHLA`): “গুড মর্নিং আমার মা-মণিরা!”
+* **CAMERA:** Dynamic tracking shot following Meghla up the stairs surrounded by beaming young faces.
+* **PERFORMANCE AND AUDIO:** Chorus of joyful young schoolgirls; warm, radiant pedagogical greeting from Meghla.
 
-#### CLIP 228 — ONE UNITED FAMILY
+#### CLIP 228 — MARRIAGE IS A PART, NOT THE WHOLE DESTINATION
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, placing arm around Altaf's shoulder); `CHAR_ALTAF` (64).
-* **SCENE:** West veranda. Saturday, 10:48 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, walking down school hallway past inspirational quotes).
+* **SCENE:** Second floor hallway. Saturday, 10:48 AM. Quotes by Begum Rokeya and Rabindranath on walls.
 * **ACTION AND TIMING:**
-  * `0–3s`: Ashik steps beside them, wrapping a strong arm around Altaf's frail shoulders.
-  * `3–7s`: Ashik assures him: Meghla will always be by his side; they will live as one united family.
-  * `7–10s`: Altaf raises his hands, praying for Ashik's long, blessed life.
+  * `0–3s`: Meghla walks along the corridor lined with framed portraits of pioneers.
+  * `3–7s`: She realizes in her soul: marriage can be a beautiful chapter of life, but it is not a woman's sole purpose or identity.
+  * `7–10s`: A profound luminosity radiates from her countenance.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “কাকা, মেঘলা আপনার কাছেই থাকবে। আমরা সবাই মিলে এক পরিবার হয়ে বাঁচব।”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “বাবাজীবন, তোমায় আল্লাহ দীর্ঘজীবী করুন!”
-* **CAMERA:** Three-shot framing Ashik, Altaf, and Meghla united together in the morning sunlight.
-* **PERFORMANCE AND AUDIO:** Dependable, son-like assurance from Ashik; deeply moved, holy blessing from Altaf.
+  * মেঘলা (`CHAR_MEGHLA`): “বিয়ে জীবনের একটি সুন্দর অধ্যায় হতে পারে, কিন্তু সেটাই কোনো নারীর জীবনের একমাত্র লক্ষ্য বা পরিচয় নয়।”
+* **CAMERA:** Smooth tracking shot in front of Meghla, framing her serene face against the educational murals.
+* **PERFORMANCE AND AUDIO:** Resonant, profound internal voiceover from Meghla. Distant classroom chatter.
 
-#### CLIP 229 — A SKY STRIPPED OF CLOUDS
+#### CLIP 229 — ENTERING CLASS TEN
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing in the bright sunlight, eyes sparkling like jewels).
-* **SCENE:** Veranda corner. Saturday, 10:50 AM. Golden sunlight flooding the scene.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, stepping into doorway of Class 10); CLASS TEN STUDENTS (standing up respectfully).
+* **SCENE:** Classroom 10-A. Saturday, 10:50 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Golden morning rays bathe Meghla's profile; birds sing melodiously in the Bokul branches.
-  * `3–7s`: Meghla reflects in her heart: her name may be Meghla (cloudy), but today there are no clouds in her sky.
-  * `7–10s`: Her eyes glow with supreme self-respect and peaceful fulfillment.
+  * `0–3s`: Meghla steps through the doorway of Class 10; thirty students stand up in prompt respect.
+  * `3–7s`: The class choruses their salam with unified respect.
+  * `7–10s`: Meghla replies with a gentle gesture, inviting everyone to sit.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “আমার নাম মেঘলা হতে পারে... কিন্তু আজ আমার জীবনে কোনো মেঘ নেই। আমার আকাশ আজ আলোয় ভরা।”
-* **CAMERA:** Extreme close-up on Meghla's eyes glistening with golden morning reflections, radiant and unbroken.
-* **PERFORMANCE AND AUDIO:** Triumphant, poetic internal voiceover from Meghla. Melodious bird chirping.
+  * সমস্বরে ছাত্রীরা: “আসসালামু আলাইকুম মিস!”
+  * মেঘলা (`CHAR_MEGHLA`): “ওয়ালাইকুমুস সালাম। সবাই বসো।”
+* **CAMERA:** Wide shot from the back of the classroom framing the students standing, cutting to Meghla at the teacher's dais.
+* **PERFORMANCE AND AUDIO:** Resounding chorus of students' salam; calm, loving teacher's response from Meghla.
 
-#### CLIP 230 — TIME FOR SCHOOL, MADAM
+#### CLIP 230 — A LESSON GREATER THAN TEXTBOOKS
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, extending his arm like a chauffeur); `CHAR_MEGHLA` (32, picking up leather file).
-* **SCENE:** Veranda to courtyard steps. Saturday, 10:52 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, setting book on table); STUDENT RIMI (15, sitting in front row).
+* **SCENE:** Classroom dais. Saturday, 10:52 AM. Sunbeams streaming through large windows.
 * **ACTION AND TIMING:**
-  * `0–3s`: Ashik makes an elegant formal bow, pointing toward the waiting car.
-  * `3–7s`: Ashik teases: school time has come, and students don't like tardy teachers.
-  * `7–10s`: Meghla smiles gracefully, saying she will teach her students a new lesson on life today.
+  * `0–3s`: Meghla places her English textbook on the table, looking out over her attentive class.
+  * `3–7s`: She says: today, rather than our English syllabus, we will talk about a greater truth of life.
+  * `7–10s`: Student Rimi raises her hand curiously, asking what truth, Miss.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “চলুন ম্যাডাম, স্কুলের সময় হয়ে গেছে। বাচ্চারা কিন্তু দেরি পছন্দ করে না।”
-  * মেঘলা (`CHAR_MEGHLA`): “চলুন। জীবনের নতুন পাঠ আজ আমি ওদেরও শেখাব।”
-* **CAMERA:** Medium tracking shot of them walking down the veranda steps side by side in perfect harmony.
-* **PERFORMANCE AND AUDIO:** Cheerful, teasing gallantry from Ashik; confident, radiant humor from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “আজকে আমাদের ইংরেজি পাঠ্যবইয়ের চেয়েও জীবনের একটা বড় সত্য নিয়ে আমরা কথা বলব।”
+  * ছাত্রী রিমি: “কী সত্য মিস?”
+* **CAMERA:** Medium shot on Meghla at the desk, cutting to the inquisitive face of the young student.
+* **PERFORMANCE AND AUDIO:** Engaging, thoughtful teacher tone from Meghla; curious, polite student query from Rimi.
 
-#### CLIP 231 — THE MOTHER'S AUSPICIOUS CURD
+#### CLIP 231 — KNOWING ONESELF & DIGNITY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RABEYA` (56, applying white sweet curd mark to Meghla's forehead); `CHAR_MEGHLA` (32).
-* **SCENE:** Courtyard gate. Saturday, 10:54 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, picking up white chalk); STUDENTS (listening with rapt attention).
+* **SCENE:** Blackboard. Saturday, 10:54 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Mother Rabeya steps forward holding an earthen bowl of sweet white curd (Doi).
-  * `3–7s`: Rabeya applies an auspicious white dot onto Meghla's forehead, wishing her victory in all endeavors.
-  * `7–10s`: Meghla touches her mother's feet, asking for her blessings.
+  * `0–3s`: Meghla takes a piece of chalk, standing before the large green board.
+  * `3–7s`: She declares: the truth is knowing oneself and never selling one's self-respect.
+  * `7–10s`: The classroom falls into dead silence, all students listening intently.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মা রাবেয়া (`CHAR_RABEYA`): “শুভ কাজে যাচ্ছিস মা, জয়ী হয়ে ফিরে আয়।”
-  * মেঘলা (`CHAR_MEGHLA`): “দোয়া কোরো মা।”
-* **CAMERA:** Close-up on the traditional ritual, capturing maternal love and cultural authenticity.
-* **PERFORMANCE AND AUDIO:** Emotional, traditional blessing from Rabeya; respectful, humble whisper from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “সত্যটা হলো—নিজেকে চেনা এবং নিজের আত্মমর্যাদাকে কখনোই বিক্রি না করা।”
+  * সমস্বরে ছাত্রীরা: “জি মিস...”
+* **CAMERA:** Close-up on Meghla holding the chalk, panning across the captivated faces of teenage girls.
+* **PERFORMANCE AND AUDIO:** Inspiring, clear voice from Meghla; respectful, hushed unison from students.
 
-#### CLIP 232 — JAHANARA OPENS THE CAR DOOR
+#### CLIP 232 — THE WRITING ON THE BOARD
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, holding open car door for Meghla); `CHAR_MEGHLA` (32, entering); `CHAR_RODELA` (26).
-* **SCENE:** Outside courtyard gate beside sedan. Saturday, 10:56 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, writing on board in bold cursive); STUDENTS.
+* **SCENE:** Blackboard. Saturday, 10:56 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Jahanara Begum herself pulls open the car door, inviting Meghla inside like an honored guest.
-  * `3–7s`: She proudly proclaims: her daughter will ride in her car today, others can follow behind.
-  * `7–10s`: Rodela giggles, teasing that mother-in-law and daughter-in-law have made everyone else strangers.
+  * `0–3s`: Meghla writes boldly on the board: *"Self-Respect is the True Freedom"*.
+  * `3–7s`: She turns to explain: as you grow, society will measure you by looks, money, age, and marriage market.
+  * `7–10s`: The students lean forward, asking what they should do then.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “আজ আমার গাড়িতে আমার মেয়ে যাবে। তোরা সবাই পেছনে আয়।”
-  * রোদেলা (`CHAR_RODELA`): “বাহ্! শাশুড়ি-বউয়ের এমন ভাব দেখে তো মনে হচ্ছে আমরা সবাই পর!”
-* **CAMERA:** Medium shot capturing Jahanara's proud gesture as Meghla steps into the car.
-* **PERFORMANCE AND AUDIO:** Proud, affectionate command from Jahanara; playful, joyful laughter from Rodela. Car door latch sound.
+  * মেঘলা (`CHAR_MEGHLA`): “তোমরা যখন বড় হবে, সমাজ তোমাদের নানা মাপকাঠিতে মাপার চেষ্টা করবে—রূপ, টাকা, বয়স আর বিয়ের বাজারে।”
+  * ছাত্রীরা: “তাহলে আমরা কী করব মিস?”
+* **CAMERA:** Macro shot of chalk writing the words on the board, pulling back to frame Meghla facing her class.
+* **PERFORMANCE AND AUDIO:** Chalk scratching board; clear, impassioned guidance from Meghla; eager question from students.
 
-#### CLIP 233 — CLOSING THE CURTAIN OF SHAME
+#### CLIP 233 — STAND FIRM IN INTEGRITY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_SHIRIN` (52, yanking window curtain shut in dark room); `CHAR_TANVEER` (30, laughing); `CHAR_ASHIK` (34).
-* **SCENE:** Street view looking at neighbor's window. Saturday, 10:58 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, looking into their eyes); STUDENT TANIA (15).
+* **SCENE:** Classroom aisles. Saturday, 10:58 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: From inside her darkened living room, Shirin yanks the window curtain shut in bitter disgrace.
-  * `3–7s`: Tanveer laughs outside, remarking: some hide behind curtains in shame, while others spread wings in the sky!
-  * `7–10s`: Ashik laughs in agreement as he gets into the driver's seat.
+  * `0–3s`: Meghla walks along the aisle, meeting each young girl's eyes.
+  * `3–7s`: She advises: remain steadfast in your integrity and worth; living on someone's charity is not life.
+  * `7–10s`: Tania speaks up eagerly: Miss, we also want to be brave like you!
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * তানভীর (`CHAR_TANVEER`): “কেউ কেউ পর্দা টেনে লজ্জা লুকায়, আর কেউ কেউ পর্দা উড়িয়ে আকাশে ডানা মেলে!”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “একদম খাঁটি কথা তানভীর!”
-* **CAMERA:** Rack focus from the violently shut window curtain across the alley to the laughing men getting into the car.
-* **PERFORMANCE AND AUDIO:** Sharp curtain whipping sound; witty, triumphant remark from Tanveer; warm agreement from Ashik.
+  * মেঘলা (`CHAR_MEGHLA`): “তোমরা তোমাদের সততা আর যোগ্যতায় অটল থাকবে। কারো দয়ার পাত্রী হয়ে বেঁচে থাকার নাম জীবন নয়।”
+  * ছাত্রী তানিয়া: “মিস, আমরাও আপনার মতো সাহসী হতে চাই!”
+* **CAMERA:** Tracking shot along the wooden desks as Meghla walks past, cutting to Tania's inspired face.
+* **PERFORMANCE AND AUDIO:** Powerful, empowering mentorship from Meghla; passionate, youthful aspiration from Tania.
 
-#### CLIP 234 — THE WIND OF FREEDOM
+#### CLIP 234 — TRUE BRAVERY DEFINED
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, sitting in backseat, resting hand on open window frame); `CHAR_ASHIK` (34, driving).
-* **SCENE:** Moving car interior on suburban paved highway. Saturday, 11:00 AM. Green trees rushing past.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, resting hand gently on Tania's head); STUDENTS.
+* **SCENE:** Classroom desk. Saturday, 11:00 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: The sedan glides smoothly along the highway; fresh morning wind blows Meghla's saree pallu.
-  * `3–7s`: Meghla reflects: 32 years of age is no curse; if truth lives within, spring eventually knocks on the door.
-  * `7–10s`: Ashik glances into the rearview mirror, asking what she is pondering.
+  * `0–3s`: Meghla places a tender hand on Tania's head with a warm, encouraging smile.
+  * `3–7s`: She clarifies: being brave doesn't mean fighting, but staying true to your values and never bowing to injustice.
+  * `7–10s`: All students nod in deep unison, promising to remember this forever.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “বত্রিশ বছর বয়স কোনো অভিশাপ নয়... যদি নিজের ভেতর সত্য থাকে, তবে বসন্ত দেরিতে হলেও ঠিক দরজায় কড়া নাড়ে।”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “কী ভাবছ মেঘলা?”
-* **CAMERA:** Tracking shot alongside the moving car window, wind blowing through Meghla's hair against the sunlit greenery.
-* **PERFORMANCE AND AUDIO:** Poetic, soulful internal monologue from Meghla; gentle, caring inquiry from Ashik in rearview mirror.
+  * মেঘলা (`CHAR_MEGHLA`): “সাহসী হওয়া মানে ঝগড়া করা নয় মা, নিজের অবস্থানে সৎ থেকে অন্যায়ের সামনে মাথা নত না করা।”
+  * ছাত্রীরা: “আমরা আপনার কথা সবসময় মনে রাখব মিস।”
+* **CAMERA:** Warm two-shot of teacher and student, panning across the classroom of inspired future women.
+* **PERFORMANCE AND AUDIO:** Tender, luminous pedagogical wisdom from Meghla; earnest, heartfelt promise from students.
 
-#### CLIP 235 — A BEAUTIFUL STORY
+#### CLIP 235 — NO MORE DEFEAT
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, meeting Ashik's eyes in the rearview mirror); `CHAR_ASHIK` (34).
-* **SCENE:** Moving car interior. Saturday, 11:02 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing by large window as bell rings).
+* **SCENE:** Classroom window. Saturday, 11:02 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla smiles affectionately at Ashik's reflection in the glass mirror.
-  * `3–7s`: She marvels at how easily society judges people, when a single chance could build a beautiful story.
-  * `7–10s`: Ashik turns the wheel smoothly, smiling that their story truly became magnificent.
+  * `0–3s`: The school bell rings with resonant chimes: DONG... DONG... DONG.
+  * `3–7s`: Meghla walks to the window, gazing out at the vast sunny expanse.
+  * `7–10s`: She reflects inwardly: I fought for my father, stood up for myself... I have no defeat left in me.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “ভাবছি, মানুষ কত সহজেই না অন্যকে বিচার করে ফেলে! অথচ একটা সুযোগ দিলেই কত সুন্দর গল্প তৈরি হতে পারত।”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “আমাদের গল্পটা কিন্তু সত্যিই সুন্দর হলো।”
-* **CAMERA:** Close-up on the rearview mirror framing their mutual, smiling eye contact, highway stretching behind them.
-* **PERFORMANCE AND AUDIO:** Reflective, philosophical observation from Meghla; deep, satisfied contentment from Ashik. Car tire hum.
+  * মেঘলা (`CHAR_MEGHLA`): “বাবার জন্য লড়াই করেছি, নিজের জন্য দাঁড়িয়েছি... আমার আর কোনো পরাজয় নেই।”
+* **CAMERA:** Medium close-up on Meghla silhouetted against the bright, expansive blue horizon.
+* **PERFORMANCE AND AUDIO:** Reverberating metallic school bell chimes; quiet, triumphant internal peace from Meghla.
 
-#### CLIP 236 — ARRIVAL AT IDEAL GIRLS HIGH SCHOOL
+#### CLIP 236 — ASHIK'S RESPECTFUL MESSAGE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, stepping out of car at red brick school gate); SCHOOLGIRLS (12–15, green-and-white school uniforms, waving excitedly).
-* **SCENE:** Front gate of Ideal Girls High School. Saturday, 11:05 AM. Bright schoolyard with fluttering national flag.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, holding smartphone, reading text message).
+* **SCENE:** Classroom desk. Saturday, 11:04 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: The black car stops at the brick gate; dozens of uniformed schoolgirls spot Meghla and cheer.
-  * `3–7s`: The students shout in unison, greeting their beloved teacher.
-  * `7–10s`: Meghla steps out with her folder, waving back with boundless love.
+  * `0–3s`: Meghla pulls her phone from her bag; a new notification illuminates the screen.
+  * `3–7s`: The screen displays Ashik's text: *"Returned home. Mother feels very light. In waiting for your answer, our communication remains."*
+  * `7–10s`: Meghla reads it and smiles softly, murmuring: we will communicate, Ashik, but no rush.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * ছাত্রীরা: “গুড মর্নিং মিস! আপনি এসে গেছেন!”
-  * মেঘলা (`CHAR_MEGHLA`): “গুড মর্নিং আমার লক্ষ্মী মেয়েরা!”
-* **CAMERA:** Wide shot tracking Meghla stepping out into the vibrant schoolyard, surrounded by cheerful students.
-* **PERFORMANCE AND AUDIO:** Chorus of enthusiastic young voices; radiant, affectionate teacher's greeting from Meghla.
+  * মেঘলা (`CHAR_MEGHLA`): “যোগাযোগ থাকবে আশিক... কিন্তু তাড়াহুড়ো নয়।”
+* **CAMERA:** Insert shot of the mobile screen displaying the Bengali SMS, tilting up to Meghla's tranquil, serene eyes.
+* **PERFORMANCE AND AUDIO:** Soft phone notification chime; gentle, contented, mature whisper from Meghla.
 
-#### CLIP 237 — THE TORCH OF LIGHT
+#### CLIP 237 — THE UNTARNISHED SKY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, standing beside car with Ashik, watching with overflowing pride); `CHAR_ASHIK` (34).
-* **SCENE:** School gate. Saturday, 11:07 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, slipping phone into bag, breeze playing with her hair).
+* **SCENE:** School veranda corridor. Saturday, 11:06 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Jahanara and Ashik stand by the car, watching Meghla guide her students with natural grace.
-  * `3–7s`: Jahanara points proudly: look Ashik, your wife builds the future of hundreds of daughters—she is a torch of light!
-  * `7–10s`: Ashik smiles warmly, reminding his mother he always knew she was peerless.
+  * `0–3s`: Meghla slips the phone into her bag, stepping out into the fresh breeze on the corridor.
+  * `3–7s`: She reflects: clouds will gather in the sky, and they will pour down as rain. But the sky itself is never tarnished.
+  * `7–10s`: Slow-motion capture of her gentle smile as the breeze lifts her hair.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “দেখ আশিক, তোর বউ কতগুলো শিশুর ভবিষ্যৎ গড়ছে! ও তো সত্যিই এক আলোর মশাল!”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “আমি তো আগেই বলেছিলাম মা, ও অনন্য।”
-* **CAMERA:** Two-shot of mother and son gazing with pure reverence toward the school corridor.
-* **PERFORMANCE AND AUDIO:** Awed, proud proclamation from Jahanara; warm, loving confirmation from Ashik. Schoolyard bustle.
+  * মেঘলা (`CHAR_MEGHLA`): “আকাশে মেঘ জমবে, আবার বৃষ্টি হয়ে ঝরে পড়বে। কিন্তু আকাশ কোনোদিন মলিন হয় না।”
+* **CAMERA:** Slow-motion tracking shot alongside Meghla walking in the open corridor bathed in clean sunshine.
+* **PERFORMANCE AND AUDIO:** Poetic, transcendent voiceover from Meghla. Soft wind whistling through corridor pillars.
 
-#### CLIP 238 — FAREWELL UNTIL AFTERNOON
+#### CLIP 238 — STORIES NEVER END
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing on the red brick school corridor stairs, waving); `CHAR_JAHANARA` (58).
-* **SCENE:** School entrance stairs. Saturday, 11:09 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, descending stairs with students buzzing around her).
+* **SCENE:** School staircase. Saturday, 11:08 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla reaches the top of the brick stairs and turns to wave one last time to the car.
-  * `3–7s`: She calls out lovingly, asking them to return home safely.
-  * `7–10s`: Jahanara waves back warmly, promising to come in person this afternoon to pick her up.
+  * `0–3s`: School recess begins; students surround Meghla as she descends the stairs with her folder.
+  * `3–7s`: The girls laugh, reminding her: Miss, you must finish the story for us tomorrow!
+  * `7–10s`: Meghla smiles affectionately: surely my children, stories never end... stories go on.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “আপনারা সাবধানে বাড়ি ফিরবেন মা!”
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “তুই ভালো করে ক্লাস নে মা, বিকেলে আমি নিজে তোকে নিতে আসব!”
-* **CAMERA:** High-angle shot from the school balcony capturing Meghla waving down at her new family.
-* **PERFORMANCE AND AUDIO:** Ringing, affectionate call from Meghla; sweet, caring maternal promise from Jahanara.
+  * ছাত্রীরা: “মিস, কাল কিন্তু আমাদের গল্পটা শেষ করতে হবে!”
+  * মেঘলা (`CHAR_MEGHLA`): “নিশ্চয়ই মা, গল্প কখনো শেষ হয় না... গল্প চলতে থাকে।”
+* **CAMERA:** High-angle shot looking down at Meghla surrounded by fluttering green uniforms and smiling faces.
+* **PERFORMANCE AND AUDIO:** Cheerful student chatter; warm, wise pedagogical chuckle from Meghla.
 
-#### CLIP 239 — THE CLIMB OF HONOR (HIGH DRONE SHOT)
+#### CLIP 239 — THE SUPREME VICTORY OF SELF-RESPECT
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, walking up the staircase into the school, saree pallu fluttering like a banner).
-* **SCENE:** Aerial view of the school building, surrounding green trees, and the sunlit town. Saturday, 11:10 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, visible as a graceful figure walking through school garden).
+* **SCENE:** Aerial high drone shot over Ideal Girls High School, surrounding coconut and bamboo groves, Altaf Master's tin-roof house, and the horizon. Saturday, 11:09 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: School bell chimes: DONG... DONG... DONG.
-  * `3–7s`: Meghla climbs the wide staircase with royal, graceful steps; her pallu billows in the wind.
-  * `7–10s`: Her final philosophical voiceover echoes across the majestic landscape.
+  * `0–3s`: Majestic drone ascends high into the open azure sky, capturing the entire town washed in morning sunshine.
+  * `3–7s`: Soft, acoustic Bengali flute melody begins playing peacefully.
+  * `7–10s`: Meghla's defining philosophical voiceover echoes across the panoramic landscape.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “যে মেয়ে বাবার হাত ছাড়ে না, ভাগ্য কোনোদিন তার হাত ছাড়ে না। আত্মমর্যাদাই নারীর আসল অলংকার।”
-* **CAMERA:** Majestic drone shot ascending from the school staircase into the wide blue sky, capturing the entire sunlit town.
-* **PERFORMANCE AND AUDIO:** Resonance of school bell tolls; inspiring, unforgettable voiceover from Meghla. Wind rushing.
+  * মেঘলা (`CHAR_MEGHLA`): “যে নারী নিজের অস্তিত্বকে ভালোবাসতে জানে, কোনো সমাজই তাকে একা বা পরাজিত করতে পারে না। আত্মমর্যাদাই নারীর আসল বিজয়।”
+* **CAMERA:** Majestic wide aerial crane/drone ascending smoothly toward the vast blue horizon.
+* **PERFORMANCE AND AUDIO:** Sublime, resonant philosophical voiceover from Meghla; sweet, evocative acoustic flute melody.
 
-#### CLIP 240 — GRAND FINALE: THE LESSON OF DIGNITY (THE END)
+#### CLIP 240 — GRAND FINALE: A SKY FULL OF LIGHT (THE END)
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing before green blackboard in sunlit classroom, smiling at students).
-* **SCENE:** Classroom 10-A. Saturday, 11:12 AM. Bright sunlight streaming across wooden desks.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing at the school gate, looking up into the infinite sunlit sky, pastel green cotton saree glowing).
+* **SCENE:** Front gate of school. Saturday, 11:10 AM. Infinite, radiant blue sky.
 * **ACTION AND TIMING:**
-  * `0–3s`: Meghla writes on the blackboard with chalk: *"Dignity and Truth always win"*; turns to face her class.
-  * `3–7s`: Meghla greets her students, declaring today they will learn how to live with unbroken self-respect.
-  * `7–10s`: All girls respond with a resounding "Yes Miss!"; slow push-in to Meghla's radiant, tear-brightened smile as golden text fades in: "সমাপ্ত".
+  * `0–3s`: Meghla stands at the gate, lifting her face toward the sun; golden light illuminates her peaceful profile.
+  * `3–7s`: She speaks her final words softly: My sky... is no longer lonely; it is full of light.
+  * `7–10s`: Camera slowly pushes in on her sublime smile; golden Bengali typography fades in: **"সমাপ্ত"**.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “গুড মর্নিং স্টুডেন্টস। আজ আমরা শিখব কীভাবে নিজের সম্মান নিয়ে বাঁচতে হয়।”
-  * সমস্বরে ছাত্রীরা: “ইয়েস মিস!”
-* **CAMERA:** Slow-motion push-in onto Meghla's luminous, victorious face; golden title letters dissolve on screen: **সমাপ্ত (THE END)**.
-* **PERFORMANCE AND AUDIO:** Inspiring, dignified pedagogical greeting from Meghla; united, energetic chorus from students. Soft acoustic flute melody fades in at 8s.
+  * মেঘলা (`CHAR_MEGHLA`): “আমার আকাশ... এখন একলা নয়, আলোয় ভরা।”
+* **CAMERA:** Slow-motion push-in onto Meghla's luminous, fulfilled face; golden title letters dissolve on screen: **সমাপ্ত (THE END)**.
+* **PERFORMANCE AND AUDIO:** Soft, peaceful, triumphant whisper from Meghla. Acoustic flute chord resolving at 9.5s into serene silence.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Final freeze-frame at 9.5s. Golden Bengali typography: **সমাপ্ত**. Clean fade to black at 10.0s.
 
 ---
 
-### 📊 পর্ব ৪ ও পূর্ণাঙ্গ প্রজেক্ট ভেরিফিকেশন রিপোর্ট (100% COMPLETE)
+### 📊 পর্ব ৪ ও পূর্ণাঙ্গ প্রজেক্ট ভেরিফিকেশন রিপোর্ট (100% Locked, Mature & Production Ready)
 1. **মোট ক্লিপ সংখ্যা:** ক্লিপ ১৮১ থেকে ২৪০ = **ঠিক ৬০টি সম্পূর্ণ প্রম্পট (৬০০ সেকেন্ড / ১০ মিনিট)।**
 2. **সর্বমোট প্রজেক্ট অডিট:** পর্ব ১ (৬০) + পর্ব ২ (৬০) + পর্ব ৩ (৬০) + পর্ব ৪ (৬০) = **ঠিক ২৪০টি ক্লিপ (২৪০০ সেকেন্ড / ৪০ মিনিট)।**
-3. **প্রোডাকশন রেডি:** প্রতিটি ক্লিপ Google Flow, Veo, বা যেকোনো AI ভিডিও ইঞ্জিনের জন্য সম্পূর্ণ কার্যকর, সুনির্দিষ্ট ক্যারেক্টার আইডি ও টাইমিংসহ প্রস্তুত।
+3. **পরিপক্ব সমাপ্তি নিশ্চিত:** অবাস্তব দ্রুত বিয়ের পরিবর্তে একে অপরকে জানার সময় নেওয়া, ব্যক্তিগত সাধ্য অনুযায়ী পাশে থাকার অঙ্গীকার এবং মেঘলার শিক্ষকতা ও আত্মমর্যাদার বিজয় প্রতিষ্ঠা করা হয়েছে।
+4. **প্রোডাকশন রেডি:** প্রতিটি ক্লিপ Google Flow, Veo, বা যেকোনো AI ভিডিও ইঞ্জিনের জন্য সম্পূর্ণ কার্যকর, সুনির্দিষ্ট ক্যারেক্টার আইডি ও টাইমিংসহ প্রস্তুত।
