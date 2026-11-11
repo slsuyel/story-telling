@@ -317,7 +317,7 @@
 
 #### CLIP 021 — FLASHBACK 1: 10 LAKH DOWRY DEMAND (5 YEARS AGO)
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** FIRST GROOM'S FATHER (58, arrogant, embroidered panjabi); YOUNGER ALTAF (`CHAR_ALTAF`) (59, black hair, pleading).
+* **CHARACTER CONTINUITY:** FIRST GROOM'S FATHER / পাত্রের বাবা (প্রথম পাত্রপক্ষ) (58, arrogant, embroidered panjabi); YOUNGER ALTAF (`CHAR_ALTAF`) (59, black hair, pleading).
 * **SCENE:** Living room (Flashback 2019). Day. Sepia-tinted cinematic lighting.
 * **ACTION AND TIMING:**
   * `0–3s`: The wealthy suitor's father crosses his legs arrogantly on the sofa.
@@ -331,7 +331,7 @@
 
 #### CLIP 022 — FLASHBACK 1 END: DEFIANCE OVER DEALS
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** FIRST GROOM (28, sharp-suited, standing in doorway); YOUNGER ALTAF (`CHAR_ALTAF`) (59, standing firm).
+* **CHARACTER CONTINUITY:** FIRST GROOM / প্রথম পাত্র (28, sharp-suited, standing in doorway); YOUNGER ALTAF (`CHAR_ALTAF`) (59, standing firm).
 * **SCENE:** Living room to foyer (Flashback 2019). Day.
 * **ACTION AND TIMING:**
   * `0–3s`: First groom adjusts his cuffs at the door, arrogant and cold.
@@ -345,7 +345,7 @@
 
 #### CLIP 023 — FLASHBACK 2: RESIGNATION DEMAND (4 YEARS AGO)
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** SECOND GROOM ASAD (32, banker, polished clothes); YOUNG MEGHLA (`CHAR_MEGHLA`) (28, plain saree, teacher's folder).
+* **CHARACTER CONTINUITY:** SECOND GROOM ASAD / দ্বিতীয় পাত্র আসাদ (32, banker, polished clothes); YOUNG MEGHLA (`CHAR_MEGHLA`) (28, plain saree, teacher's folder).
 * **SCENE:** Living room (Flashback 2020). Day. Warm amber vintage grade.
 * **ACTION AND TIMING:**
   * `0–3s`: Groom Asad sips tea, leaning forward across the wooden coffee table.
@@ -359,7 +359,7 @@
 
 #### CLIP 024 — FLASHBACK 2: SEVERING PARENTAL BONDS
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** SECOND GROOM ASAD (32, standing up irritated); YOUNG MEGHLA (`CHAR_MEGHLA`) (28, standing tall).
+* **CHARACTER CONTINUITY:** SECOND GROOM ASAD / দ্বিতীয় পাত্র আসাদ (32, standing up irritated); YOUNG MEGHLA (`CHAR_MEGHLA`) (28, standing tall).
 * **SCENE:** Living room (Flashback 2020). Day.
 * **ACTION AND TIMING:**
   * `0–3s`: Asad rises in temper, sneering at her stubborn devotion to her parents.
@@ -373,7 +373,7 @@
 
 #### CLIP 025 — FLASHBACK 2 END: ASAD'S MOTHER EXITS
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** ASAD'S MOTHER (56, heavy gold jewelry, marching down porch); YOUNGER ALTAF (`CHAR_ALTAF`) (60, standing by veranda railing).
+* **CHARACTER CONTINUITY:** ASAD'S MOTHER / পাত্রের মা (দ্বিতীয় পাত্রপক্ষ) (56, heavy gold jewelry, marching down porch); YOUNGER ALTAF (`CHAR_ALTAF`) (60, standing by veranda railing).
 * **SCENE:** Courtyard stairs (Flashback 2020). Day.
 * **ACTION AND TIMING:**
   * `0–3s`: Asad's mother pulls her ornate anchal tightly, stomping down the courtyard steps.
@@ -401,7 +401,7 @@
 
 #### CLIP 027 — FLASHBACK 3: AGE 30 REJECTION (1.5 YEARS AGO)
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** THIRD GROOM'S MOTHER (56, disdainful, tossing bio-data on table); YOUNGER ALTAF (`CHAR_ALTAF`) (62, hands folded).
+* **CHARACTER CONTINUITY:** THIRD GROOM'S MOTHER / পাত্রের মা (তৃতীয় পাত্রপক্ষ) (56, disdainful, tossing bio-data on table); YOUNGER ALTAF (`CHAR_ALTAF`) (62, hands folded).
 * **SCENE:** Living room (Flashback 2023). Day.
 * **ACTION AND TIMING:**
   * `0–3s`: Third groom's mother checks the birth certificate with pursed, judgmental lips.
@@ -415,7 +415,7 @@
 
 #### CLIP 028 — FLASHBACK 3: COMMODIFYING YEARS
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** THIRD GROOM (33, sitting with crossed legs, smirking); YOUNG MEGHLA (`CHAR_MEGHLA`) (30, standing upright by living room doorway).
+* **CHARACTER CONTINUITY:** THIRD GROOM / তৃতীয় পাত্র (33, sitting with crossed legs, smirking); YOUNG MEGHLA (`CHAR_MEGHLA`) (30, standing upright by living room doorway).
 * **SCENE:** Living room (Flashback 2023). Day.
 * **ACTION AND TIMING:**
   * `0–3s`: The third groom examines his wristwatch, smirking cynically toward Meghla.
@@ -429,7 +429,7 @@
 
 #### CLIP 029 — FLASHBACK 3 END: NEIGHBORHOOD CHATTER
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** THIRD GROOM'S MOTHER (56, getting up abruptly); YOUNGER ALTAF (`CHAR_ALTAF`) (62, standing heartbroken).
+* **CHARACTER CONTINUITY:** THIRD GROOM'S MOTHER / পাত্রের মা (তৃতীয় পাত্রপক্ষ) (56, getting up abruptly); YOUNGER ALTAF (`CHAR_ALTAF`) (62, standing heartbroken).
 * **SCENE:** Living room to courtyard (Flashback 2023). Day.
 * **ACTION AND TIMING:**
   * `0–3s`: The groom's family gathers their belongings, hurrying toward the gate without touching their tea.
@@ -3294,7 +3294,7 @@
 
 #### CLIP 227 — THE GREETINGS OF YOUNG INNOCENCE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, climbing school stairs); SCHOOLGIRLS (12–15, green uniforms).
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, climbing school stairs); SCHOOLGIRLS / ছাত্রীরা (12–15, green uniforms).
 * **SCENE:** School stairs and corridor. Saturday, 10:18 AM.
 * **ACTION AND TIMING:**
   * `0–3s`: Meghla ascends the wide stone stairs; students line the corridor, waving in delight.
@@ -3432,7 +3432,7 @@
 
 #### CLIP 237 — LESSONS IN GOLDEN LIGHT
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, walking toward open window); CLASSROOM GIRLS.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, walking toward open window); CLASSROOM GIRLS / সমস্বরে ছাত্রীরা.
 * **SCENE:** Classroom 10-A aisles. Saturday, 10:28 AM. Fresh morning breeze from open windows.
 * **ACTION AND TIMING:**
   * `0–3s`: A refreshing breeze sweeps into the room, fluttering the white curtains and students' notebook pages.
