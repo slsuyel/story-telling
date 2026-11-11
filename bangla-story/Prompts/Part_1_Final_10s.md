@@ -21,8 +21,8 @@
   * `2–6s`: Shirin watches Meghla pass and sighs, voicing her worry over society's questions.
   * `6–10s`: Nazneen adds her anxiety regarding her own daughter Rimi's marriage prospects; Meghla's fingers tighten on the tray.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “ছোট বোনের আজ দুবছর হয়ে গেল সংসার! বড়টার বয়স তো বত্রিশ পার হলো, সমাজ তো নানা কথা তুলছে।”
-  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “আমার রিমির বিয়ের বয়স হচ্ছে শিরিন আপা। বড় বোন অবিবাহিত থাকলে আমাদের মেয়েদেরও লোকে বিচার করে!”
+    * খালাম্মা শিরিন (`CHAR_SHIRIN`): “ছোট বোনের দুবছর সংসার হলো, বড়টার বত্রিশ পার হলো!”
+    * ফুফু নাজনীন (`CHAR_NAZNEEN`): “আমার রিমির বয়স হচ্ছে, বড় বোন থাকলে লোকে কথা কয়!”
 * **CAMERA:** Medium tracking shot following Meghla, shifting focus to Shirin and Nazneen in conversation, then tight close-up on Meghla's hands.
 * **PERFORMANCE AND AUDIO:** Heavy, anxious sigh from Shirin; nervous, defensive concern from Nazneen. Ambient morning birds and awning flapping sound.
 
@@ -35,8 +35,8 @@
   * `3–7s`: Shirin lowers her voice, noting that society invents dark suspicions when a girl's age crosses thirty.
   * `7–10s`: Meghla whispers her inner sorrow as a tear glistens in her eye; she clenches her jaw.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “মেয়ের তো কোনো দোষ দেখি না, কিন্তু বয়স বেড়ে গেলে মানুষের মনে যে কত কুৎসিত সন্দেহ ঢোকে!”
-  * মেঘলা (`CHAR_MEGHLA`): “বয়স কি কেবলই একটা অপরাধ? আমার সততা আর শিক্ষার কি কোনো মূল্য নেই?”
+    * খালাম্মা শিরিন (`CHAR_SHIRIN`): “মেয়ের দোষ নেই, কিন্তু বয়স বাড়লে লোকে কত সন্দেহ করে!”
+    * মেঘলা (`CHAR_MEGHLA`): “বয়স কি অপরাধ খালাম্মা? আমার শিক্ষার কি কোনো মূল্য নেই?”
 * **CAMERA:** Close-up on Meghla's profile at the doorway with shallow depth of field, blurring the veranda behind her.
 * **PERFORMANCE AND AUDIO:** Subdued, worried tone from Shirin off-focus; choked internal whisper from Meghla with subtle lip sync.
 
@@ -49,8 +49,8 @@
   * `2–6s`: Rabeya enters, gently placing a loving hand on Meghla's shoulder.
   * `6–10s`: Meghla opens her eyes, wiping her tear swiftly, speaking with quiet determination.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মা রাবেয়া (`CHAR_RABEYA`): “ওদের কথায় রাগ করিস না মা, সমাজটাকে তো আমরা একা বদলাতে পারব না।”
-  * মেঘলা (`CHAR_MEGHLA`): “রাগ নয় মা, কষ্ট হয়। নিজের সম্মান বাঁচাতে গিয়ে আমরা কেন অন্যকে ছোট করি?”
+    * মা রাবেয়া (`CHAR_RABEYA`): “ওদের কথায় রাগ করিস না মা, সমাজ তো বদলাতে পারব না।”
+    * মেঘলা (`CHAR_MEGHLA`): “রাগ নয় মা, নিজের সম্মান বাঁচানো কি অপরাধ?”
 * **CAMERA:** Medium two-shot inside the kitchen, slow push-in to their locked hands.
 * **PERFORMANCE AND AUDIO:** Gentle, resigned motherly tone from Rabeya; low, resonant, principled question from Meghla. Sound of simmering milk pot.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Title card "মেঘলা ও একলা আকাশ" fades in at 9.5s.
@@ -82,8 +82,8 @@
   * `3–7s`: Rodela speaks affectionately about Meghla's special payesh.
   * `7–10s`: Meghla caresses Rodela's hair and replies with deep sisterly warmth.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “আপু! তোমার সেই স্পেশাল পায়েস ছাড়া তো আমার কোনো অনুষ্ঠানই জমে না!”
-  * মেঘলা (`CHAR_MEGHLA`): “তোর জন্য সকাল থেকে কাজুবাদাম আর কিশমিশ দিয়ে রেঁধে রেখেছি রে।”
+    * রোদেলা (`CHAR_RODELA`): “আপু! তোমার স্পেশাল পায়েস ছাড়া অনুষ্ঠান জমেই না!”
+    * মেঘলা (`CHAR_MEGHLA`): “তোর জন্যই সকাল থেকে রেঁধে রেখেছি রে।”
 * **CAMERA:** Medium close-up of both sisters hugging, capturing contrasting textures of silk versus cotton.
 * **PERFORMANCE AND AUDIO:** Bubbly, joyful delivery from Rodela; soothing, warm older sister tone from Meghla.
 
@@ -96,8 +96,8 @@
   * `3–7s`: Shirin acknowledges Rodela's settled life after two years of marriage.
   * `7–10s`: Nazneen chimes in, expressing concern about the unmarried older sister's future.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “তানভীরের মতো ভালো ছেলে পাওয়া সত্যিই ভাগ্যের ব্যাপার। সংসারটা তো ভালোই গুছিয়ে নিলে মা।”
-  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “ছোটটা তো গুছিয়ে নিল, কিন্তু আলতাফ ভাইজান বড়টার ভবিষ্যৎ নিয়ে যে কী করবেন!”
+    * খালাম্মা শিরিন (`CHAR_SHIRIN`): “তানভীরের মতো পাত্র ভাগ্যের ব্যাপার, ছোটটা সংসার গুছিয়ে নিল।”
+    * ফুফু নাজনীন (`CHAR_NAZNEEN`): “কিন্তু বড়টার ভবিষ্যৎ নিয়ে ভাইজান যে কী করবেন!”
 * **CAMERA:** Medium shot of the sofa group, panning from Rodela's jewelry to Nazneen's troubled face.
 * **PERFORMANCE AND AUDIO:** Affectionate appraisal from Shirin; fretful, intrusive comment from Nazneen.
 
@@ -110,8 +110,8 @@
   * `3–7s`: Rodela politely asks not to raise Meghla's marriage anxiety today.
   * `7–10s`: Nazneen defends her words, claiming family members naturally share the worry.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “ফুফু, আজকের আনন্দের দিনে আপুর বিয়ের টেনশন নিয়ে কথা না বাড়ালে হয় না?”
-  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “টেনশন তো আমাদেরও রোদেলা। তোদের পরিবার ভালো থাকলে আমাদেরও ভালো লাগে।”
+    * রোদেলা (`CHAR_RODELA`): “ফুফু, আনন্দের দিনে আপুর বিয়ের টেনশন তুলবেন না।”
+    * ফুফু নাজনীন (`CHAR_NAZNEEN`): “আমরা তো তোদের ভালোর জন্যই বলছি রোদেলা।”
 * **CAMERA:** Two-shot over Nazneen's shoulder onto Rodela's defensive face, Tanveer visible looking down.
 * **PERFORMANCE AND AUDIO:** Protective, annoyed tone from Rodela; defensive, self-justifying tone from Nazneen.
 
@@ -124,8 +124,8 @@
   * `3–7s`: Meghla serves hot snacks before they get cold.
   * `7–10s`: Tanveer takes a plate, noting that she tirelessly cares for everyone without thinking of herself.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “তানভীর ভাইয়া, গরম পেঁয়াজু আর বাকরখানি নিন, ঠান্ডা হলে ভালো লাগবে না।”
-  * তানভীর (`CHAR_TANVEER`): “ধন্যবাদ আপা, আপনি নিজের জন্য একটুও সময় রাখেন না, সবার খেয়াল রাখেন।”
+    * মেঘলা (`CHAR_MEGHLA`): “তানভীর ভাইয়া, গরম পেঁয়াজু নিন, ঠান্ডা হলে ভালো লাগবে না।”
+    * তানভীর (`CHAR_TANVEER`): “ধন্যবাদ আপা, আপনি সবার খেয়াল রাখেন।”
 * **CAMERA:** Low-angle shot from tea table looking up at Meghla's composed face.
 * **PERFORMANCE AND AUDIO:** Hospitality-filled tone from Meghla; respectful, polite response from Tanveer.
 
@@ -138,8 +138,8 @@
   * `3–7s`: Rodela remembers how their father exhausted all savings on her wedding two years ago.
   * `7–10s`: Meghla comforts her, reminding her that her happiness is their greatest peace.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “আপু, আমার বিয়ের খরচ টানতে গিয়ে বাবা নিঃস্ব হয়ে গেলেন, তোমাকে কিছুই দিতে পারলেন না...”
-  * মেঘলা (`CHAR_MEGHLA`): “তুই নিজের সংসার নিয়ে শান্তিতে থাক রোদেলা, বাবার জন্য আমি তো আছিই।”
+    * রোদেলা (`CHAR_RODELA`): “আপু, আমার বিয়ের খরচ টানতে বাবা নিঃস্ব হয়ে গেলেন...”
+    * মেঘলা (`CHAR_MEGHLA`): “তুই শান্তিতে থাক রোদেলা, বাবার জন্য আমি আছি।”
 * **CAMERA:** Close two-shot, soft natural daylight from corridor grill on their faces.
 * **PERFORMANCE AND AUDIO:** Choked emotional guilt from Rodela; comforting, protective sisterly tone from Meghla.
 
@@ -152,8 +152,8 @@
   * `3–7s`: Rodela asks if she will truly find an understanding partner.
   * `7–10s`: Meghla smiles with calm philosophical maturity: life's paths are not identical for all.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “তোমার জন্য কি সত্যিই একজন বোঝার মতো মানুষ জুটবে না আপু?”
-  * মেঘলা (`CHAR_MEGHLA`): “ধৈর্য ধর রোদেলা, সবার জীবনের পথ এক নিয়মে চলে না।”
+    * রোদেলা (`CHAR_RODELA`): “তোমার জন্য কি ভালো মানুষ জুটবে না আপু?”
+    * মেঘলা (`CHAR_MEGHLA`): “ধৈর্য ধর রোদেলা, সবার পথ এক নিয়মে চলে না।”
 * **CAMERA:** Extreme close-up on their hands, tilting up to Meghla's serene eyes.
 * **PERFORMANCE AND AUDIO:** Anxious question from Rodela; dignified, mature calmness from Meghla.
 
@@ -170,8 +170,8 @@
   * `3–7s`: Shirin asks how Altaf will find peace about Meghla given his frail post-retirement health.
   * `7–10s`: Altaf answers with weary honesty: finding good-hearted people is difficult nowadays.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “ভাইজান, রিটায়ারমেন্টের পর আপনার শরীরের যে অবস্থা, মেঘলার একটা গতি না হলে আপনি নিশ্চিন্ত হবেন কীভাবে?”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “চেষ্টা তো করছি শিরিন, কিন্তু ভালো মনের মানুষ পাওয়া যে আজকাল বড় কঠিন।”
+    * খালাম্মা শিরিন (`CHAR_SHIRIN`): “ভাইজান, বড়টার একটা গতি না হলে আপনি শান্তি পাবেন?”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “চেষ্টা তো করছি... কিন্তু যৌতুক দিয়ে তো বিয়ে হয় না।”
 * **CAMERA:** Wide dining room view, slowly pushing in toward Altaf Master.
 * **PERFORMANCE AND AUDIO:** Intrusive, worried family tone from Shirin; subdued, weary tone from Altaf. Silverware sound.
 
@@ -184,8 +184,8 @@
   * `3–7s`: Nazneen delivers her pragmatic social observation across the table.
   * `7–10s`: Rabeya proudly defends Meghla's 5 years of respected teaching at the high school.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “কঠিন তো হবেই ভাইজান! আজকালকার ছেলেরা একটু কম বয়সী মেয়ে খোঁজে, বত্রিশ বছর শুনে অনেকেই পিছিয়ে যায়।”
-  * মা রাবেয়া (`CHAR_RABEYA`): “আমার মেঘলা তো পাঁচ বছর ধরে সম্মানের সাথে হাইস্কুলে মাস্টারি করছে, ওর গুণের তো কমতি নেই!”
+    * ফুফু নাজনীন (`CHAR_NAZNEEN`): “দশ লাখ টাকার দাবি মিটিয়ে দিলে আজ আপদ বিদায় হতো!”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “শিক্ষকতার সৎ উপার্জনে এত ঘুষ দেওয়ার সামর্থ্য আমার ছিল না।”
 * **CAMERA:** Medium shot across the table from Nazneen to Rabeya.
 * **PERFORMANCE AND AUDIO:** Blunt social realism from Nazneen; protective maternal pride from Rabeya.
 
@@ -198,8 +198,8 @@
   * `3–7s`: Shirin asks: a job is fine, but where is a woman's security in society without marriage?
   * `7–10s`: Meghla answers with clarity: the fear of insecurity without marriage is what weakens women most.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “চাকরি করা ভালো রাবেয়া, কিন্তু আমাদের সমাজে দিনশেষে একা একটা মেয়ের নিরাপত্তা কোথায়?”
-  * মেঘলা (`CHAR_MEGHLA`): “খালাম্মা, বিয়ে ছাড়া একজন নারী নিরাপত্তাহীন—এই ভয়টাই তো মেয়েদের সবচেয়ে বেশি দুর্বল করে দেয়।”
+    * খালাম্মা শিরিন (`CHAR_SHIRIN`): “দ্বিতীয় পাত্র তো পছন্দ করেছিল, মেয়েই চাকরি ছাড়তে চাইল না!”
+    * মেঘলা (`CHAR_MEGHLA`): “বাবা-মাকে ভুলে থাকার শর্ত মেনে কোনো সংসার হয় না খালাম্মা।”
 * **CAMERA:** Tight two-shot: Shirin looking up from the table, Meghla standing tall.
 * **PERFORMANCE AND AUDIO:** Traditional, cautionary tone from Shirin; clear, self-respecting articulation from Meghla.
 
@@ -212,8 +212,8 @@
   * `3–7s`: Shirin warns that textbook ideals are easy, but societal reality is unforgiving.
   * `7–10s`: Rodela stands up for her sister, reminding all that Meghla stands honestly by her father.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “বইয়ের কথা বলা সহজ মেঘলা, কিন্তু সমাজের রূঢ় বাস্তবতা অনেক কঠিন মা।”
-  * রোদেলা (`CHAR_RODELA`): “কিন্তু আপু তো সৎভাবে বাবার পাশে দাঁড়িয়ে লড়াই করছে খালাম্মা!”
+    * ফুফু নাজনীন (`CHAR_NAZNEEN`): “তৃতীয় পাত্র তো বয়স শুনেই কেটে পড়ল!”
+    * মেঘলা (`CHAR_MEGHLA`): “যে শুধু বয়স দেখে, মানুষ দেখে না, তাকে দরকার নেই।”
 * **CAMERA:** Pan from Shirin's serious face to Rodela's defensive posture.
 * **PERFORMANCE AND AUDIO:** Worldly warning from Shirin; passionate support from Rodela.
 
@@ -226,8 +226,8 @@
   * `3–7s`: Altaf states that he is alive today because his daughter bore the household burden.
   * `7–10s`: Nazneen clarifies they want no ill, only worry about who will shield her when he passes.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “আমার মেয়ে এই ঘরের দায়িত্ব কাঁধে তুলে নিয়েছে বলেই তো আমি আজও বেঁচে আছি।”
-  * ফুফু নাজনীন (`CHAR_NAZNEEN`): “আমরা তো ওর খারাপ চাই না ভাইজান, কিন্তু আপনি চলে গেলে ও কার আশ্রয়ে থাকবে সেই ভাবনায় বলি।”
+    * মা রাবেয়া (`CHAR_RABEYA`): “বড়টার একটা গতি করে দাও আল্লাহ, লোকে বড় খোঁটা দেয়!”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “আমার মেঘলা কারও ঘাড়ে বোঝা হয়ে বেঁচে থাকবে না রাবেয়া।”
 * **CAMERA:** Close-up on Altaf Master's emotional expression, cutting to Nazneen's well-meaning anxiety.
 * **PERFORMANCE AND AUDIO:** Emotional gratitude from Altaf; sincere yet intrusive concern from Nazneen.
 
@@ -240,8 +240,8 @@
   * `3–7s`: Meghla proclaims: her father's moral education is her shelter; she won't demean herself for charity.
   * `7–10s`: Tanveer nods approvingly, urging the elders to respect her profound stance.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “ফুফু, বাবার শিক্ষাই আমার সবচেয়ে বড় আশ্রয়। কারো দয়া বা অনুগ্রহ পাওয়ার জন্য আমি নিজেকে ছোট করব না।”
-  * তানভীর (`CHAR_TANVEER`): “আপার কথাগুলোর মধ্যে অনেক গভীরতা আছে খালাম্মা, আমাদের উচিত উনাকে শ্রদ্ধা করা।”
+    * খালাম্মা শিরিন (`CHAR_SHIRIN`): “আমরা চলি ভাইজান, মেয়ের জেদ থাকলে সারা জীবন অবিবাহিতই থাকবে।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “আমার মেয়ে সৎভাবে মাথা উঁচু করেই থাকবে শিরিন।”
 * **CAMERA:** Medium shot of Meghla standing composed, Tanveer nodding in the foreground.
 * **PERFORMANCE AND AUDIO:** Calm, unwavering self-respect from Meghla; respectful, supportive intervention from Tanveer.
 
@@ -254,8 +254,8 @@
   * `3–7s`: Shirin prays for her well-being, acknowledging the pain of waiting for the right companion.
   * `7–10s`: Meghla smiles gracefully, asking for her blessings to live with dignity.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * খালাম্মা শিরিন (`CHAR_SHIRIN`): “আল্লাহ তোমার মঙ্গল করুন মেঘলা, কিন্তু মনের মতো মানুষ না পাওয়া পর্যন্ত যে কী কষ্ট তা বুঝি।”
-  * মেঘলা (`CHAR_MEGHLA`): “দোয়া করবেন খালাম্মা, যেন সম্মানের সাথে বাঁচতে পারি।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “আমি অক্ষম পিতা রে মা... তোকে কিছুই দিতে পারলাম না।”
+    * মেঘলা (`CHAR_MEGHLA`): “বাবা, তুমি সততার রুটি খাইয়েছ, এতেই আমি গর্বিত।”
 * **CAMERA:** Soft two-shot of Shirin and Meghla sharing a moment of mutual understanding.
 * **PERFORMANCE AND AUDIO:** Sincere, softened blessing from Shirin; grateful, modest response from Meghla.
 
@@ -268,7 +268,8 @@
   * `3–7s`: She reflects on how society acts out of fear, but fear cannot justify compromise.
   * `7–10s`: She sets the dishes down, her eyes clear and unclouded.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “সমাজ ভয় পায়, কিন্তু ভয় পেয়ে কি আপস করা যায়?”
+    * মা রাবেয়া (`CHAR_RABEYA`): “ছোট বোনের বিয়েতেই বাবার সব সঞ্চয় শেষ হলো...”
+    * মেঘলা (`CHAR_MEGHLA`): “বোনের সুখের জন্যই তো বাবা করেছিলেন মা, আক্ষেপ কোরো না।”
 * **CAMERA:** Medium tracking shot behind Meghla into the warm kitchen light, ending on her resolute profile.
 * **PERFORMANCE AND AUDIO:** Firm, reflective internal monologue from Meghla. Clatter of porcelain dishes.
 
@@ -285,8 +286,8 @@
   * `3–7s`: Meghla asks why he is troubling his mind again with the old diary.
   * `7–10s`: Altaf touches the handwritten lines, recalling years of knocking on suitors' doors.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “বাবা, চা এনেছি। ডায়েরিটা নিয়ে আবার মন খারাপ করছ?”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “এই ডায়েরির পাতায় পাতায় তোর জন্য কত মানুষের দ্বারে দ্বারে ঘোরার স্মৃতি লেখা আছে রে মা।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “মেঘলা, এই ডায়েরিতে তোর প্রতিটি ভাঙা বিয়ের হিসেব লেখা আছে রে।”
+    * মেঘলা (`CHAR_MEGHLA`): “বাবা, অতীত ভুলে যাও, ওগুলো কোনো ব্যর্থতা ছিল না।”
 * **CAMERA:** Macro shot of the worn red diary on the desk, tilting up to Altaf's tired eyes.
 * **PERFORMANCE AND AUDIO:** Tender filial concern from Meghla; weary, nostalgic grief from Altaf. Tea steam rising.
 
@@ -299,7 +300,8 @@
   * `3–7s`: Altaf remembers the engineer groom whose family demanded ten lakh taka dowry.
   * `7–10s`: The focus on the diary dissolves into the first flashback.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “পাঁচ বছর আগে... সেই ইঞ্জিনিয়ার ছেলেটার বাড়ি থেকে যখন দশ লাখ টাকা যৌতুক চাইল...”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “তোর সততাই কি তোর বিয়ের প্রধান বাধা হয়ে দাঁড়াল মা?”
+    * মেঘলা (`CHAR_MEGHLA`): “অসততার চেয়ে একলা থাকা অনেক সম্মানের বাবা।”
 * **CAMERA:** Rack focus from the diary entry "২০১৯ — ইঞ্জিনিয়ার — দাবি: ১০ লাখ" dissolving into flashback.
 * **PERFORMANCE AND AUDIO:** Quivering narration from Altaf. Whirring sound of ceiling fan.
 
@@ -312,8 +314,8 @@
   * `3–7s`: He delivers the cash ultimatum: 10 lakhs for his son's Canada migration.
   * `7–10s`: Younger Altaf raises his hands in complete helplessness.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * পাত্রের বাবা: “আমার ছেলে কানাডা যাবে। ক্যাশ দশ লাখ টাকা না দিলে এই বিয়েতে আমরা এগোতে পারব না।”
-  * তরুণ আলতাফ: “আমি সাধারণ স্কুলমাস্টার ভাই সাহেব, এত টাকা জোগাড় করা আমার পক্ষে অসম্ভব।”
+    * পাত্রের বাবা (প্রথম পাত্রপক্ষ): “দশ লাখ টাকা নগদ না দিলে এই বিয়েতে আমরা রাজি নই।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “ভাইসাহেব, আমি একজন অবসরপ্রাপ্ত শিক্ষক, এত টাকা কোথায় পাব?”
 * **CAMERA:** High-angle shot showing the suitor's father dominating the humble schoolteacher.
 * **PERFORMANCE AND AUDIO:** Arrogant, transactional demand; cracked, pleading response from Altaf.
 
@@ -326,8 +328,8 @@
   * `3–7s`: He sneers that poor teachers shouldn't dream of high-status grooms without money.
   * `7–10s`: Young Meghla watches her father bow his head, resolving never to let him be humiliated for dowry.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * পাত্রের বাবা: “টাকা দিতে না পারলে বড় ঘরের ছেলের স্বপ্ন দেখবেন না মাস্টার সাহেব!”
-  * তরুণী মেঘলা: “যে সম্পর্কের শুরুই টাকার দরদামে, সেই ঘরে আমার বাবা মাথা নত করবে না।”
+    * প্রথম পাত্র: “বাবা যা বলছেন সেটাই শেষ কথা মাস্টার সাহেব।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “আল্লাহ, আমার মেয়েকে তুমি রক্ষা কোরো...”
 * **CAMERA:** Frame split between the departing suitor's father and young Meghla's tearful yet resolute face.
 * **PERFORMANCE AND AUDIO:** Sneering insult; fierce internal vow from young Meghla.
 
@@ -340,8 +342,8 @@
   * `3–7s`: Asad states his family policy: their women don't work; she must quit teaching.
   * `7–10s`: Meghla (28) explains she newly joined teaching and her salary supports her father's medicine.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * পাত্র আসাদ: “মেঘলা, তুমি দেখতে ভালো। কিন্তু আমাদের বংশের মেয়েরা বাইরে চাকরি করে না। বিয়ের পর চাকরি ছাড়তে হবে।”
-  * তরুণী মেঘলা: “আসাদ সাহেব, আমি সদ্য শিক্ষকতায় ঢুকেছি। বাবার সংসারের ওষুধের খরচে আমার চাকরির আয়টা খুব দরকার।”
+    * দ্বিতীয় পাত্র: “বিয়ের পর চাকরি ছাড়বে এবং বাপের বাড়িতে টাকা দেওয়া চলবে না।”
+    * মেঘলা (`CHAR_MEGHLA`): “বাবাকে ছাড়ার শর্তে আমি কোনো বিয়ে করব না।”
 * **CAMERA:** Medium two-shot across the coffee table, capturing opposing values.
 * **PERFORMANCE AND AUDIO:** Patronizing, smooth tone from Asad; calm, principled defense from young Meghla.
 
@@ -354,8 +356,8 @@
   * `3–7s`: Asad claims a good wife leaves her father's worries behind.
   * `7–10s`: Meghla stands up, closing her notebook decisively.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * পাত্র আসাদ: “বিয়ের পর স্বামীর ঘরটাই আসল, বাপের বাড়ির চিন্তা মাথায় রাখলে সংসার টেকে না।”
-  * তরুণী মেঘলা: “যে চাকরি আমার বাবার পাশে দাঁড়ানোর অধিকার দেয়, সেই দায়িত্ব আমি বিসর্জন দিতে পারব না।”
+    * দ্বিতীয় পাত্র: “এমন অহংকারী মেয়ে কোনোদিন ঘর করতে পারবে না!”
+    * মেঘলা (`CHAR_MEGHLA`): “নিজের দায়িত্ব পালন করা অহংকার নয়, আত্মমর্যাদা।”
 * **CAMERA:** Over-the-shoulder shot from Asad onto Meghla rising with moral strength.
 * **PERFORMANCE AND AUDIO:** Patriarchal dismissal from Asad; sharp, clear refusal from Meghla.
 
@@ -368,8 +370,8 @@
   * `3–7s`: She complains about Meghla's sharp temper, claiming no family can be happy with such a girl.
   * `7–10s`: Altaf defends his daughter: she only spoke of supporting her father.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * আসাদের মা: “মেয়ের তো তেজ খুব! এমন মেজাজের মেয়ে নিয়ে কোনো পরিবার সুখী হতে পারবে না।”
-  * তরুণ আলতাফ: “আমার মেয়ে তার বাবার পাশে থাকার কথা বলেছে আপা, কোনো অন্যায় করেনি।”
+    * পাত্রের মা (দ্বিতীয় পাত্রপক্ষ): “চল বাবা, চাকরিজীবী অহংকারী বউ ঘরে তোলা যাবে না।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “আমার মেয়ে তো কোনো ভুল বলেনি আপা...”
 * **CAMERA:** Low-angle shot from courtyard looking up at Asad's mother and Altaf on the porch.
 * **PERFORMANCE AND AUDIO:** Shrill complaint from Asad's mother; dignified, calm paternal defense from Altaf.
 
@@ -382,8 +384,8 @@
   * `3–7s`: Rabeya worries: if all savings go to Rodela's wedding, what will remain for Meghla?
   * `7–10s`: Altaf seals the envelope: a good match cannot be lost; he will manage Meghla's later somehow.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মা রাবেয়া: “সব সঞ্চয় যদি রোদেলার বিয়েতে দিয়ে দাও, বড়টার বেলা কী করবে গো?”
-  * বাবা আলতাফ: “ভালো পাত্র হাতছাড়া করা যায় না রাবেয়া! ছোটটার হয়ে যাক, মেঘলারটা আমি কোনোভাবে ব্যবস্থা করব।”
+    * রোদেলা (`CHAR_RODELA`): “আপু, আমার আগে তোমার বিয়ে হওয়া উচিত ছিল...”
+    * মেঘলা (`CHAR_MEGHLA`): “তোর বিয়ে হচ্ছে এতেই আমার আনন্দ রে বোন।”
 * **CAMERA:** Warm bedroom shot framing the father sealing his last savings into wedding envelopes.
 * **PERFORMANCE AND AUDIO:** Anxious maternal whisper from Rabeya; hopeful yet desperate sacrifice from Altaf.
 
@@ -396,8 +398,8 @@
   * `3–7s`: She notes with a frown: the bride has reached thirty, they want a younger girl for their brother.
   * `7–10s`: Rabeya attempts to highlight Meghla's youthful looks and education.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * পাত্রের বোন: “আপনার মেয়ের বয়স তো তিরিশ ছুঁয়েছে! আমাদের ছেলের জন্য আরও কম বয়সী পাত্রী চাই।”
-  * মা রাবেয়া: “আমার মেয়ে দেখতে মাশাল্লাহ এখনও অনেক তরুণী, ওর শিক্ষাও তো ভালো...”
+    * পাত্রের মা (তৃতীয় পাত্রপক্ষ): “মেয়ের বয়স বত্রিশ? আমাদের ছেলে তো তরুণী মেয়ে চায়!”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “মেঘলা খুব বুদ্ধিমতী আর সংসারী মা...”
 * **CAMERA:** Close-up on the birth certificate paper, tilting up to the sister's skeptical eyes.
 * **PERFORMANCE AND AUDIO:** Matter-of-fact rejection from the sister; nervous, pleading defense from Rabeya.
 
@@ -410,8 +412,8 @@
   * `3–7s`: She insists education matters less than age in their household.
   * `7–10s`: Altaf asks in deep sorrow: can a human being's entire worth be measured only by age?
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * পাত্রের বোন: “শিক্ষার চেয়ে বয়সটাই আমাদের কাছে মুখ্য খালাম্মা। আমাদের পরিবারে কম বয়সী মেয়েই মানানসই।”
-  * বাবা আলতাফ: “মা, বয়স দিয়ে কি একজন মানুষের সমস্ত মূল্য মাপা যায়?”
+    * তৃতীয় পাত্র: “বয়স বেশি হলে সংসারে মানিয়ে নেওয়া কঠিন।”
+    * মেঘলা (`CHAR_MEGHLA`): “মন না থাকলে কোনো বয়সেই মানিয়ে নেওয়া যায় না।”
 * **CAMERA:** Over-the-shoulder shot from Altaf onto the departing groom's sister.
 * **PERFORMANCE AND AUDIO:** Pragmatic, dismissive tone from the sister; wounded, philosophical question from Altaf.
 
@@ -424,8 +426,8 @@
   * `3–7s`: Neighbor remarks on the younger sister marrying first while obstacles plague the older.
   * `7–10s`: Meghla pulls her father back inside, begging him not to beg before anyone again.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * প্রতিবেশী: “ছোটটার বিয়ে আগেই হয়ে গেল, বড়টার বেলাতেই যত বাধা!”
-  * তরুণী মেঘলা: “বাবা, তুমি আর কারো সামনে নিজের হাত পাতবে না, আমি এভাবেই ভালো আছি।”
+    * তৃতীয় পাত্রপক্ষ: “দেরি হয়ে যাচ্ছে, আমরা চলি মাস্টার সাহেব।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “সবাই শুধু বয়সের ভুল খোঁজে, মানুষ দেখে না...”
 * **CAMERA:** Tracking shot of the rickshaw departing, panning to Meghla embracing Altaf on porch.
 * **PERFORMANCE AND AUDIO:** Malicious neighborhood gossip; heartfelt, pleading filial pride from Meghla.
 
@@ -438,8 +440,8 @@
   * `3–7s`: Altaf blames his lack of wealth and status for her tribulations.
   * `7–10s`: Meghla reassures him: those who only measured her by age and cash were never worthy of knowing her.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “আমার টাকাপয়সা আর সামাজিক অবস্থানের জন্যই আজ তোর এই অবস্থা রে মা...”
-  * মেঘলা (`CHAR_MEGHLA`): “না বাবা। যারা আমাকে শুধু বয়স আর টাকা দিয়ে মাপতে চেয়েছে, তারা আমাকে জানার যোগ্যই ছিল না।”
+    * মেঘলা (`CHAR_MEGHLA`): “বাবা, ডায়েরিটা বন্ধ করো। অতীত নিয়ে আর কষ্ট পেয়ো না।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “তোর চোখের দিকে তাকালে বুক ফেটে যায় রে মা।”
 * **CAMERA:** Tight two-shot: father and daughter holding hands over the red diary.
 * **PERFORMANCE AND AUDIO:** Aching self-blame from Altaf; mature, soothing, clear-eyed truth from Meghla.
 
@@ -452,8 +454,8 @@
   * `3–7s`: Altaf asks if God hasn't sent even one understanding human to this world for her.
   * `7–10s`: Meghla smiles gently, telling him to trust time and not worry unnecessarily.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “আল্লাহ কি তোকে বোঝার মতো একজন মানুষও এই দুনিয়ায় পাঠাননি মা?”
-  * মেঘলা (`CHAR_MEGHLA`): “সময় হলে সবই হবে বাবা, তুমি অহেতুক মন খারাপ কোরো না।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “তোর জন্য কি সত্যিই একজন খাঁটি মানুষ জুটবে না?”
+    * মেঘলা (`CHAR_MEGHLA`): “আল্লাহ যা করবেন ভালোর জন্যই করবেন বাবা।”
 * **CAMERA:** Close-up on Meghla's loving, confident eyes smiling at her father.
 * **PERFORMANCE AND AUDIO:** Pleading prayer from Altaf; tranquil, comforting faith from Meghla.
 
@@ -470,7 +472,7 @@
   * `3–7s`: She reflects with honest humility: not all fault lies with society; she made mistakes too.
   * `7–10s`: She sighs, remembering her hesitation five years ago.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “সব দোষ তো শুধু সমাজের নয়... নিজেরও তো কিছু ভুল সিদ্ধান্ত ছিল জীবনে।”
+    * মেঘলা (`CHAR_MEGHLA`): “পাঁচ বছর আগের সেই ক্ষত আজও মন থেকে মোছেনি...”
 * **CAMERA:** Extreme close-up on the brittle dried flowers in her palm, dissolving into memory.
 * **PERFORMANCE AND AUDIO:** Honest, introspective whisper from Meghla. Evening crickets sound.
 
@@ -483,8 +485,8 @@
   * `3–7s`: Fahraz proposes with genuine love, admitting his modest private firm salary.
   * `7–10s`: Young Meghla hesitates, pointing out that building a future on such meager earnings is risky.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * ফারাজ: “মেঘলা, আমি জানি আমি এক সাধারণ প্রাইভেট ফার্মে সামান্য বেতনে কাজ করি, কিন্তু আমি তোমাকে ভীষণ ভালোবাসি।”
-  * তরুণী মেঘলা: “ফারাজ, সবে তো আমার ক্যারিয়ার শুরু হলো। এই সামান্য আয়ে ভবিষ্যৎ নিয়ে চলাটা বড্ড অনিশ্চিত।”
+    * ফারাজ: “মেঘলা, আমার পরিবার এই সাধারণ স্কুলমাস্টারের মেয়েকে মানবে না।”
+    * মেঘলা (`CHAR_MEGHLA`): “ফারাজ... তুমি তো আমাকে ভালোবাসতে বলে দাবি করেছিলে!”
 * **CAMERA:** Medium two-shot on park bench under dappled tree shadows.
 * **PERFORMANCE AND AUDIO:** Sincere, tender proposal from Fahraz; ambitious, cautious hesitation from young Meghla.
 
@@ -497,8 +499,8 @@
   * `3–7s`: Young Meghla argues she is pragmatic; family security and relief come before romance.
   * `7–10s`: Fahraz looks at her with wounded sorrow.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * ফারাজ: “টাকাপয়সা তো পরিশ্রম করলে একদিন হবেই মেঘলা, আসল হলো মনের মেলবন্ধন।”
-  * তরুণী মেঘলা: “আমি বাস্তববাদী ফারাজ। ভালোবাসার চেয়েও আগে চাই নিরাপত্তা আর পরিবারের স্বস্তি।”
+    * ফারাজ: “ভালোবাসা দিয়ে তো স্ট্যাটাস পাওয়া যায় না মেঘলা।”
+    * মেঘলা (`CHAR_MEGHLA`): “তাহলে এতদিন অভিনয় করেছিলে ফারাজ?”
 * **CAMERA:** Close-up on Fahraz's earnest eyes, cutting to young Meghla's guarded, pragmatic expression.
 * **PERFORMANCE AND AUDIO:** Hopeful idealism from Fahraz; pragmatic, self-protective boundary from young Meghla.
 
@@ -511,8 +513,8 @@
   * `3–7s`: He warns gently: seeking total perfection sometimes causes one to lose a genuine person.
   * `7–10s`: Young Meghla says she may be proven wrong one day, but cannot compromise now.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * ফারাজ: “তোমার ক্যারিয়ার আর নিরাপত্তার চিন্তা হয়তো ভুল নয় মেঘলা, কিন্তু অতিরিক্ত পারফেক্ট খুঁজতে গিয়ে মানুষ কখনো কখনো খাঁটি মানুষটাকেই হারিয়ে ফেলে।”
-  * তরুণী মেঘলা: “আমি হয়তো একদিন ভুল প্রমাণ হব ফারাজ, কিন্তু এখন আমি আপস করতে পারছি না।”
+    * ফারাজ: “আমি পরিবারের ইচ্ছার বাইরে যেতে পারব না, ক্ষমা কোরো।”
+    * মেঘলা (`CHAR_MEGHLA`): “কাউকে ঠকানোর চেয়ে আগেই বলে দেওয়া ভালো ছিল।”
 * **CAMERA:** Low-angle tracking shot of Fahraz walking away as young Meghla stands alone on the path.
 * **PERFORMANCE AND AUDIO:** Sorrowful, gentle wisdom from Fahraz; firm, unyielding resolve from young Meghla.
 
@@ -525,7 +527,8 @@
   * `3–7s`: She vows internally: she wants to stand on her own feet for her father, without entangling anyone in debt.
   * `7–10s`: The memory dissolves back to her present bedroom.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * তরুণী মেঘলা: “বাবার সংসারে আমি একা দাঁড়াতে চাই... আমি কাউকে আর্থিক বোঝায় জড়াতে পারব না।”
+    * ফারাজ: “ভালো থেকো মেঘলা...”
+    * মেঘলা (`CHAR_MEGHLA`): “তুমি কাপুরুষের মতো পালালে ফারাজ...”
 * **CAMERA:** Tracking shot in front of young Meghla, dissolving into her 32-year-old face in the present.
 * **PERFORMANCE AND AUDIO:** Resolute, protective internal thought from young Meghla.
 
@@ -538,8 +541,7 @@
   * `3–7s`: Meghla admits: Fahraz was right, excessive fear and perfectionism clouded her judgment.
   * `7–10s`: Rabeya comforts her: she was young and terrified by family hardship; it was no sin.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “ফারাজ ঠিকই বলেছিল মা... অতিরিক্ত নিরাপত্তা আর ভয়ের কারণেই আমি সেদিন সঠিক সিদ্ধান্ত নিতে পারিনি।”
-  * মা রাবেয়া (`CHAR_RABEYA`): “তখন তোর বয়স কম ছিল, সংসারের টানাপোড়েন দেখে তুই ভয় পেয়েছিলি মা। এতে তোর কোনো পাপ হয়নি।”
+    * মেঘলা (`CHAR_MEGHLA`): “সেই ভুলের পর নিজেকে নতুন করে চিনতে শিখেছিলাম...”
 * **CAMERA:** Medium shot framing Meghla at her desk as Rabeya approaches with a loving hand.
 * **PERFORMANCE AND AUDIO:** Thoughtful, honest admission from Meghla; soothing, guilt-relieving maternal words from Rabeya.
 
@@ -552,8 +554,7 @@
   * `3–7s`: Rabeya notes Fahraz is happily settled; why carry old hesitation in her heart?
   * `7–10s`: Meghla answers: not to punish herself, but because she learned that values matter far more than status.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মা রাবেয়া (`CHAR_RABEYA`): “ফারাজ তো এখন সংসারী, সুখে আছে। তুই কেন সেই পুরোনো দ্বিধাকে আজও বুকের ভেতর বয়ে বেড়াচ্ছিস?”
-  * মেঘলা (`CHAR_MEGHLA`): “শাস্তি পাওয়ার জন্য নয় মা, আমি শিখেছি। শিখেছি যে স্ট্যাটাস বা পদের চেয়ে মানুষের ভেতরের মূল্যবোধটাই আসল।”
+    * মেঘলা (`CHAR_MEGHLA`): “প্রেম বা বিয়ের চেয়েও নিজের আত্মসম্মান অনেক দামি।”
 * **CAMERA:** Intimate two-shot on bed under warm lamplight.
 * **PERFORMANCE AND AUDIO:** Gentle inquiry from Rabeya; grounded, mature self-awareness from Meghla.
 
@@ -566,8 +567,7 @@
   * `3–7s`: She says she won't carry lifelong guilt; if someone arrives now, she will look at the human being.
   * `7–10s`: Rabeya smiles, praying God guides her to the right path.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “সেই ভুলের বোঝা মাথায় নিয়ে আমি সারা জীবন অনুশোচনা করব না মা। এবার যদি কেউ আসে, আমি মানুষটাকে চিনব।”
-  * মা রাবেয়া (`CHAR_RABEYA`): “আল্লাহ তোকে সঠিক পথ দেখাবেন রে মা।”
+    * মেঘলা (`CHAR_MEGHLA`): “আমি আর কোনোদিন কারও কাছে ছোট হয়ে থাকব না।”
 * **CAMERA:** Close-up on Meghla's determined, unburdened face.
 * **PERFORMANCE AND AUDIO:** Liberated, forward-looking conviction from Meghla; warm maternal prayer from Rabeya. Drawer closing sound.
 
@@ -580,8 +580,7 @@
   * `3–7s`: She declares: not marrying is no curse; living single with dignity is better than losing oneself.
   * `7–10s`: Rabeya asks in awe how she stays so strong inside.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “বিয়ে না হওয়াটা কোনো অভিশাপ নয় মা। নিজেকে হারিয়ে ফেলার চেয়ে একা থাকাও অনেক সম্মানের।”
-  * মা রাবেয়া (`CHAR_RABEYA`): “তুই এত শক্ত থাকতে পারিস কীভাবে মা?”
+    * মেঘলা (`CHAR_MEGHLA`): “রাতের আকাশ যতই অন্ধকার হোক, ভোর তো হবেই।”
 * **CAMERA:** Silhouette shot of Meghla against the starry night window, turning to her mother.
 * **PERFORMANCE AND AUDIO:** Inspiring, self-respecting declaration from Meghla; awed, tender question from Rabeya.
 
@@ -594,8 +593,7 @@
   * `3–7s`: She answers: learned from watching father; standing tall amidst poverty is not for the weak.
   * `7–10s`: Rabeya wipes her eyes, telling her she prays for her every night in Tahajjud.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “বাবাকে দেখে শিখেছি মা। অভাবের সাথে লড়াই করে মাথা উঁচু রাখা দুর্বল মানুষের কাজ নয়।”
-  * মা রাবেয়া (`CHAR_RABEYA`): “তোর জন্য প্রতিদিন তাহাজ্জুদে কাঁদি রে মা।”
+    * মেঘলা (`CHAR_MEGHLA`): “আমার সততাই আমার সবচেয়ে বড় আশ্রয়।”
 * **CAMERA:** Low-angle shot looking up at Meghla's dignified expression.
 * **PERFORMANCE AND AUDIO:** Proud, affectionate tribute from Meghla; heartfelt devotion from Rabeya.
 
@@ -608,8 +606,8 @@
   * `3–7s`: Altaf asks if she completed her lesson plan for tomorrow's classes.
   * `7–10s`: Meghla smiles, having finished grading tenth-grade exam papers, urging him to sleep.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “মেঘলা, কাল সকালে স্কুলে ক্লাসের প্রস্তুতি নিয়েছিস মা?”
-  * মেঘলা (`CHAR_MEGHLA`): “হ্যাঁ বাবা, দশম শ্রেণির খাতাগুলো দেখা শেষ। এবার ঘুমোতে যাও।”
+    * মা রাবেয়া (`CHAR_RABEYA`): “ঘুমাসনি মা? শরীর খারাপ করবে তো।”
+    * মেঘলা (`CHAR_MEGHLA`): “ঘুম ভেঙে গেল মা, তুমি শুয়ে পড়ো।”
 * **CAMERA:** Medium shot framing the affectionate family interaction in the warm room.
 * **PERFORMANCE AND AUDIO:** Gentle parental check-in from Altaf; loving, caring daughterly reassurance from Meghla.
 
@@ -622,7 +620,8 @@
   * `3–7s`: Moonlight fills the room; she whispers her inner truth.
   * `7–10s`: She resolves: only when someone embraces her along with her father's responsibility, will a new dawn arrive.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “যেদিন কেউ আমাকে আমার বাবার দায়িত্বসহ বুঝবে, সেদিনই আমার নতুন সকাল হবে।”
+    * মা রাবেয়া (`CHAR_RABEYA`): “আল্লাহ তোর কপাল খুলে দিক মা...”
+    * মেঘলা (`CHAR_MEGHLA`): “দোয়া কোরো মা, যেন মাথা উঁচু রাখতে পারি।”
 * **CAMERA:** Slow-motion fade to black on Meghla's serene profile.
 * **PERFORMANCE AND AUDIO:** Profound, quiet internal whisper. Desk lamp switch click sound.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Title card fades in: "কয়েক দিন পর — বৃহস্পতিবার সকাল ১০:০০ মিনিট".
@@ -640,8 +639,8 @@
   * `3–7s`: He introduces Ashik Mahmud (34), senior logistics manager at a multinational firm.
   * `7–10s`: Altaf asks anxiously about Meghla's age (32), wanting no deception.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মহিউদ্দীন সাহেব: “আলতাফ, ছেলেটির নাম আশিক মাহমুদ। বয়স চৌত্রিশ। মাল্টিন্যাশনাল কোম্পানিতে লজিস্টিকস ম্যানেজার।”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “কিন্তু ভাই সাহেব, মেঘলার বয়স তো বত্রিশ! ছেলেপক্ষ কি তা জানে?”
+    * মহিউদ্দীন সাহেব: “আলতাফ, তোর মেঘলার জন্য এক অসাধারণ সম্বন্ধ এনেছি!”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “কেমন পরিবার মহিউদ্দীন ভাই?”
 * **CAMERA:** Close-up on the bio-data photo showing Ashik's calm, dignified, bearded face.
 * **PERFORMANCE AND AUDIO:** Authoritative, respectable tone from Mohiuddin; cautious, worried question from Altaf. Paper sliding sound.
 
@@ -654,8 +653,8 @@
   * `3–7s`: Mohiuddin quotes Ashik: he wants an understanding, responsible, educated life partner.
   * `7–10s`: Rabeya raises folded hands in gratitude, tears welling in her eyes.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মহিউদ্দীন সাহেব: “আমি সব সত্য স্পষ্ট বলেছি। আশিক নিজে বলেছে—তার একজন সমঝদার, দায়িত্বশীল ও শিক্ষিত জীবনসঙ্গী দরকার।”
-  * মা রাবেয়া (`CHAR_RABEYA`): “হে আল্লাহ! এমন ছেলের খোঁজ এতদিন কোথায় ছিল!”
+    * মহিউদ্দীন সাহেব: “ছেলে আশিক মাহমুদ, প্রতিষ্ঠিত ইঞ্জিনিয়ার, মার্জিত স্বভাবের।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “ছেলের পরিবার কেমন? কোনো কঠিন শর্ত নেই তো?”
 * **CAMERA:** Medium shot capturing the relief washing over Altaf and Rabeya's faces.
 * **PERFORMANCE AND AUDIO:** Reassuring, grandfatherly delivery from Mohiuddin; emotional gasp of prayer from Rabeya.
 
@@ -668,8 +667,8 @@
   * `3–7s`: She notes the calm, sincere eyes, wondering if this hope hides another condition.
   * `7–10s`: Mohiuddin confirms: no father, just mother and son coming tomorrow (Friday morning).
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “চোখ দুটো কত শান্ত... কিন্তু এই আশার পেছনে আবার কোনো কঠিন শর্ত নেই তো?”
-  * মহিউদ্দীন সাহেব: “ছেলের বাবা নেই। মা আর ছেলে। আগামীকাল শুক্রবার সকালে ওরা মেঘলাকে দেখতে আসতে চায়।”
+    * মহিউদ্দীন সাহেব: “মা একটু মেজাজি, তবে ছেলে খুবই সৎ ও ভালো।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “মেয়ের বয়স বত্রিশ, তারা কি সব জানে?”
 * **CAMERA:** Rack focus from the photo on the table to Meghla's guarded eyes behind the curtain.
 * **PERFORMANCE AND AUDIO:** Guarded internal thought from Meghla; clear conversational voice from Mohiuddin.
 
@@ -682,8 +681,8 @@
   * `3–7s`: Altaf states upfront: no wealth or dowry left after Rodela's wedding.
   * `7–10s`: Mohiuddin describes the family: the mother is strict and conservative, but Ashik is very polished.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “ভাই সাহেব, আমাদের তো কোনো অর্থসম্পদ বা যৌতুক দেওয়ার সামর্থ্য নেই। ছোট মেয়ের বিয়েতেই সব শেষ হয়েছে।”
-  * মহিউদ্দীন সাহেব: “আশিকের মা একটু কঠোর আর রক্ষণশীল মানুষ আলতাফ, কিন্তু আশিক খুব মার্জিত ছেলে। তোমরা প্রস্তুতি নাও।”
+    * মহিউদ্দীন সাহেব: “সব বলেছি! কাল সকালে তারা মেঘলাকে দেখতে আসছে।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “মাবুদ... এবার যেন মেয়েটার একটা গতি হয়!”
 * **CAMERA:** Tight two-shot of the two elderly colleagues, highlighting honesty versus social reality.
 * **PERFORMANCE AND AUDIO:** Humble, honest disclosure from Altaf; balanced, realistic advice from Mohiuddin.
 
@@ -696,8 +695,8 @@
   * `3–7s`: Rabeya calls out to prepare the blue Jamdani saree and phone Rodela.
   * `7–10s`: Meghla gently stops her mother, advising calm until they see the people in person.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মা রাবেয়া (`CHAR_RABEYA`): “মেঘলা! কালকের জন্য তোর সেই নীল জামদানি শাড়িটা বের কর! আজ আমি রোদেলাকেও খবর দিচ্ছি।”
-  * মেঘলা (`CHAR_MEGHLA`): “মা, এত তাড়াহুড়ো করো না। আগে মানুষগুলোকে সামনাসামনি দেখতে দাও।”
+    * মা রাবেয়া (`CHAR_RABEYA`): “মেঘলা! কাল পাত্রপক্ষ তোকে দেখতে আসছে রে মা!”
+    * মেঘলা (`CHAR_MEGHLA`): “মা, তাড়াহুড়ো কোরো না, আগে মানুষগুলোকে দেখি।”
 * **CAMERA:** Tracking shot of Rabeya bustling through the house, halted gently by Meghla's hands.
 * **PERFORMANCE AND AUDIO:** Excited maternal bustle; grounded, calm voice from Meghla.
 
@@ -710,8 +709,8 @@
   * `3–7s`: Altaf begs God to bring dignified peace to Meghla's life.
   * `7–10s`: Meghla steps behind him, reassuring him that whatever happens will walk the path of truth.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “মাবুদ, আমার জীবনের সব পুণ্য দিয়ে হলেও আমার মেঘলার জীবনে একটু সম্মানজনক শান্তি এনে দাও!”
-  * মেঘলা (`CHAR_MEGHLA`): “বাবা, তুমি এত ব্যাকুল হয়ো না। যা হবে সততার পথেই হবে।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “মাবুদ, আমার মেঘলার জীবনে একটু সম্মানজনক শান্তি এনে দাও!”
+    * মেঘলা (`CHAR_MEGHLA`): “বাবা, ব্যাকুল হয়ো না, যা হবে সততার পথেই হবে।”
 * **CAMERA:** Wide shot of the veranda, the elderly father praying against the sunlit greenery, daughter beside him.
 * **PERFORMANCE AND AUDIO:** Quivering, heartfelt prayer from Altaf; deeply comforting whisper from Meghla. Bird songs.
 
@@ -724,8 +723,8 @@
   * `3–7s`: Altaf says he has waited years to see a tranquil smile on her face.
   * `7–10s`: Meghla sets her boundary: if this family doesn't accept her genuinely, she will rush into nothing.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “তোর মুখের একটা শান্ত হাসি দেখার জন্য আমি বছরের পর বছর অপেক্ষা করছি রে মা।”
-  * মেঘলা (`CHAR_MEGHLA`): “যদি এই পরিবার আমাকে মন থেকে গ্রহণ না করে, আমি কোনো তাড়াহুড়ো করব না বাবা।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “তোর মুখে একটু হাসি দেখার অপেক্ষায় আছি রে মা।”
+    * মেঘলা (`CHAR_MEGHLA`): “মন থেকে গ্রহণ না করলে তাড়াহুড়ো করব না বাবা।”
 * **CAMERA:** Close-up on Altaf's hand blessing her forehead, panning down to Meghla's resolute expression.
 * **PERFORMANCE AND AUDIO:** Tender, aged voice from Altaf; solemn, mature commitment from Meghla.
 
@@ -738,7 +737,7 @@
   * `3–7s`: She wonders if 32-year-old Meghla can spread wings in a new sky, or if another trial awaits.
   * `7–10s`: Her reflection shows a blend of vulnerability and unyielding dignity.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “বত্রিশ বছরের এই মেঘলা কি পারবে এক নতুন আকাশে ডানা মেলতে? নাকি আবারও কোনো পরীক্ষার মুখোমুখি হতে হবে?”
+    * মেঘলা (`CHAR_MEGHLA`): “আবারও কি এক নতুন পরীক্ষার সামনে দাঁড়াচ্ছি?”
 * **CAMERA:** Mirror reflection shot, camera slowly zooming in past hairpins onto her questioning eyes.
 * **PERFORMANCE AND AUDIO:** Soft, introspective voiceover/whisper from Meghla. Rustle of hairpins and comb.
 
@@ -751,8 +750,8 @@
   * `3–7s`: Rodela's excited voice bursts through the speaker, promising to come tomorrow morning to dress her up.
   * `7–10s`: Meghla smiles affectionately, warning her sister not to get overexcited.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * রোদেলা (`CHAR_RODELA`): “আপু! মা আমাকে সব বলল! আমি কাল সকালেই আসছি, তোমাকে সাজিয়ে দেব!”
-  * মেঘলা (`CHAR_MEGHLA`): “রোদেলা, তুই অতিরিক্ত উত্তেজনা দেখাস না রে... শান্ত থাক।”
+    * রোদেলা (`CHAR_RODELA`): “আপু! আমি কাল সকালেই আসছি, তোমাকে সাজিয়ে দেব!”
+    * মেঘলা (`CHAR_MEGHLA`): “রোদেলা, এত উত্তেজিত হোস না রে... শান্ত থাক।”
 * **CAMERA:** Medium shot of Meghla holding the phone, pacing slowly beside her bookshelf.
 * **PERFORMANCE AND AUDIO:** High-energy telephone filter voice from Rodela; grounded, tender older sister advice from Meghla.
 
@@ -769,8 +768,8 @@
   * `3–7s`: Rabeya details the menu: prawn and firni to leave no room for complaints.
   * `7–10s`: Altaf hands her the money, having withdrawn his last pension savings.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মা রাবেয়া (`CHAR_RABEYA`): “চিংড়ি মাছ আর ফিরনি করব। মেহমান যেন কোনো ত্রুটি না পায়।”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “আমার জমানো পেনশনের শেষ দশ হাজার টাকা তুলে এনেছি, মেহমানদারির কোনো কমতি হবে না।”
+    * মা রাবেয়া (`CHAR_RABEYA`): “চিংড়ি আর ফিরনি করব, মেহমান যেন খুশি হয়।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “পেনশনের শেষ টাকা তুলেছি, মেহমানদারিতে কমতি হবে না।”
 * **CAMERA:** Close-up on the bank notes being placed into the cloth shopping bag.
 * **PERFORMANCE AND AUDIO:** Nervous hospitality planning from Rabeya; generous, sacrificial tone from Altaf. Paper rustle.
 
@@ -783,8 +782,8 @@
   * `3–7s`: She argues that true suitors look for values and education, not lavish feasts.
   * `7–10s`: Altaf touches her cheek, citing the burdensome traditions of the girl's side.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “বাবা, এত আয়োজনের কী দরকার? যারা আমাকে দেখবে, তারা আমার শিক্ষা আর আচরণ দেখবে, খাবারের বহর নয়।”
-  * বাবা আলতাফ (`CHAR_ALTAF`): “মেয়েপক্ষের এইটুকুই তো করার থাকে রে মা, এটুকু না করলে লোকে কী বলবে?”
+    * মেঘলা (`CHAR_MEGHLA`): “বাবা, যারা দেখবে তারা শিক্ষা দেখবে, খাবারের বহর নয়।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “মেয়েপক্ষের এইটুকুই তো করার থাকে রে মা।”
 * **CAMERA:** Two-shot over the table, capturing the generational contrast between social vanity and moral authenticity.
 * **PERFORMANCE AND AUDIO:** Logical, dignified protest from Meghla; helpless traditional conformity from Altaf.
 
@@ -797,8 +796,8 @@
   * `3–7s`: Jahanara Begum questions his choice of a 32-year-old schoolteacher from an ordinary background.
   * `7–10s`: Ashik smiles calmly, explaining that character and responsibility matter more than youth or beauty.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “আশিক, মেয়েটির বয়স বত্রিশ, সাধারণ স্কুলমাস্টারের মেয়ে। তোর জন্য কি ভালো পরিবারের মেয়ের অভাব ছিল?”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা, রূপ বা বয়স দিয়ে মানুষ মাপা যায় না। মহিউদ্দীন কাকা বলেছেন মেয়েটি ভীষণ মার্জিত ও দায়িত্ববান।”
+    * জাহানারা বেগম (`CHAR_JAHANARA`): “আশিক, মেয়েটার বয়স বত্রিশ, সাধারণ মাস্টারের মেয়ে।”
+    * আশিক মাহমুদ (`CHAR_ASHIK`): “মা, বয়স দিয়ে নয়, মানুষ বিচার করতে হয় গুণ দিয়ে।”
 * **CAMERA:** Sleek, modern two-shot establishing Ashik's affluent background and his contrast with his mother's elitism.
 * **PERFORMANCE AND AUDIO:** Critical, skeptical inquiry from Jahanara; mature, affectionate assurance from Ashik.
 
@@ -811,8 +810,8 @@
   * `3–7s`: She voices her deep paranoia about over-responsible women clinging to their natal homes.
   * `7–10s`: Ashik leans forward, defending Meghla's devotion to her family as a virtue.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “দায়িত্ববান হওয়া ভালো আশিক, কিন্তু বেশি দায়িত্ববান মেয়েরা বিয়ের পর বাপের বাড়ির টান ছাড়তে পারে না।”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা, যে মেয়ে নিজের বাবা-মাকে ভালোবাসে, সে তোমার সংসারকেও ভালোবাসবে। তুমি অহেতুক ভয় পেয়ো না।”
+    * জাহানারা বেগম (`CHAR_JAHANARA`): “বেশি দায়িত্ববান মেয়েরা বাপের বাড়ির টান ছাড়তে পারে না।”
+    * আশিক মাহমুদ (`CHAR_ASHIK`): “যে বাবাকে ভালোবাসে, সে তোমার সংসারকেও ভালোবাসবে মা।”
 * **CAMERA:** Tight shot on Jahanara's sharp, calculating eyes behind her designer glasses.
 * **PERFORMANCE AND AUDIO:** Cold, guarded warning from Jahanara; warm, idealistic belief from Ashik.
 
@@ -825,8 +824,8 @@
   * `3–7s`: She declares: she raised him alone, and she will allow no third-party financial or emotional pressure in her home.
   * `7–10s`: Ashik begs her not to humiliate them tomorrow by laying down harsh conditions.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “আমি একা হাতে তোকে মানুষ করেছি আশিক। আমার সংসারে কোনো তৃতীয় পক্ষের আর্থিক বা মানসিক চাপ থাকবে না, এটা আমি কাল পরিষ্কার জানিয়ে দেব।”
-  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা! দয়া করে কাল ওখানে গিয়ে কোনো কঠিন শর্ত ছুড়ে দিয়ে ওদের ছোট কোরো না।”
+    * জাহানারা বেগম (`CHAR_JAHANARA`): “আমার সংসারে কোনো তৃতীয় পক্ষের চাপ থাকবে না, এটা জানিয়ে দেব।”
+    * আশিক মাহমুদ (`CHAR_ASHIK`): “মা! ওখানে গিয়ে অহেতুক কোনো কঠিন শর্ত চাপিয়ো না।”
 * **CAMERA:** Low-angle shot of Jahanara walking away toward the bedroom, Ashik left frozen in the foreground.
 * **PERFORMANCE AND AUDIO:** Unyielding, icy declaration from Jahanara; alarmed, pleading response from Ashik.
 
@@ -839,7 +838,7 @@
   * `3–7s`: Meghla stares at the plaster ceiling, her mind racing with the weight of tomorrow.
   * `7–10s`: She wonders if tomorrow brings a new dawn or another burden to her name.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “কালকের দিনটি কি আমার জীবনের নতুন দিগন্ত খুলে দেবে? নাকি সমাজে আমার নামের পাশে আরও একটা বোঝা বাড়বে?”
+    * মেঘলা (`CHAR_MEGHLA`): “কালকের দিনটা আমার জীবনের এক বড় মোড় হতে পারে...”
 * **CAMERA:** Overhead top-down shot of Meghla lying awake on her floral bedsheet, moonlight illuminating half her face.
 * **PERFORMANCE AND AUDIO:** Intimate, whispered internal voiceover. Soft ticking of pendulum clock.
 
@@ -852,7 +851,7 @@
   * `3–7s`: She makes an unshakeable inner pledge: no compromise on dignity or father's honor.
   * `7–10s`: Moonlight breaks through a split in the dark cloud, illuminating her resolute face.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * মেঘলা (`CHAR_MEGHLA`): “যদি কাল আমার সম্মান আর বাবার মর্যাদা নিয়ে কোনো আপস করতে হয়, আমি পিছপা হব না... তবে আমি শান্তি চাই, বড় বেশি শান্তি চাই।”
+    * মেঘলা (`CHAR_MEGHLA`): “সম্মান নিয়ে আপস করব না... তবে আমি শান্তি চাই।”
 * **CAMERA:** Slow track-in to Meghla's profile as moonlight suddenly bathes her features.
 * **PERFORMANCE AND AUDIO:** Quiet, steely conviction from Meghla; soft nocturnal breeze sound.
 
@@ -865,8 +864,8 @@
   * `3–6s`: Altaf Master rushes down the porch with folded hands, greeting them eagerly.
   * `6–10s`: Jahanara Begum steps onto the brick path, her opening words casting an immediate chill over the reception.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * বাবা আলতাফ (`CHAR_ALTAF`): “আসুন আপা, আসুন বাবাজীবন... ভেতরে আসুন।”
-  * জাহানারা বেগম (`CHAR_JAHANARA`): “আসি মাস্টার সাহেব। তবে কথা চূড়ান্ত করার আগে কিছু জরুরি শর্তের নিষ্পত্তি হওয়া দরকার।”
+    * মহিউদ্দীন সাহেব: “আলতাফ! পাত্রপক্ষ এসে গেছে, গাড়ি দাঁড়াল!”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “মাবুদ... তুমি সহায় থেকো...”
 * **CAMERA:** Dramatic low-angle tracking shot from Altaf's eager greeting to Jahanara's unsmiling, formidable presence; freeze-frame on Altaf's startled face.
 * **PERFORMANCE AND AUDIO:** Pleading, enthusiastic hospitality from Altaf; chilling, calculated assertion from Jahanara. Car engine idling sound.
 * **CONTINUITY AND NEGATIVE CONSTRAINTS:** Freeze-frame at 9.8s with fade to black. Text overlay: "পর্ব ১ সমাপ্ত — পর্ব ২-তে চোখ রাখুন". No subtitles.
