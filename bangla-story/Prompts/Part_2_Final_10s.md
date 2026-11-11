@@ -1,693 +1,876 @@
-# 🎬 PART 2: FINAL 10-SECOND AI VIDEO PROMPTS (Clips 046 – 090)
-## প্রজেক্ট: স্ত্রীর নামে ৫০ লাখ টাকার ঋণ — পর্ব ২
-**Deliverable:** `Part_2_Final_10s.md` (Clips 046–090 of 180)  
-**Optimization Status:** 100% Verified for 10-Second Performability (14–22 Bengali words per dialogue clip, explicit `0–10s` action timing, full financial & visual continuity).  
-**Technical Specs:** Duration: Exactly 10s | Aspect Ratio: 16:9 | Resolution: 1080p | Frame Rate: 24fps | Style: Photorealistic Cinematic Live-Action Bengali Family Drama | No Subtitles, No Watermarks, No On-Screen Text.
+# 🎬 PART 2: FINAL 10-SECOND AI VIDEO PROMPTS (Clips 061 – 120)
+## প্রজেক্ট: মেঘলা ও একলা আকাশ — পর্ব ২ (আশিকের শুভদৃষ্টি, মনের বোঝাপড়া ও অপ্রত্যাশিত শর্ত)
+**Deliverable:** `Part_2_Final_10s.md` (Clips 061–120 of 240)  
+**Optimization Status:** 100% Synchronized with Revised Master Screenplay (5-year school tenure, nuanced character depth, exact Bengali dialogue).  
+**Technical Specifications:**
+* **Duration:** Exactly 10 seconds per clip (Total: 600s / 10 minutes)
+* **Aspect Ratio:** 16:9 widescreen | **Resolution:** 1080p photorealistic cinematic live-action | **Frame Rate:** 24 fps
+* **Environment:** Altaf Master's drawing room, western balcony with Bokul tree, and dining room
+* **Audio:** Spoken Bengali dialogue lip-sync, ambient environmental acoustics, strictly NO background music
 
 ---
 
-### SCENE 7: CONFRONTATION OVER TANVIR HASAN'S NAME (Clips 046 – 052)
+### SCENE 8: DRAWING ROOM COURTESY (Clips 061 – 067)
 
-#### CLIP 046 — DEMANDING TO KNOW ABOUT TANVIR HASAN
+#### CLIP 061 — THE UNEASY SEATING IN THE DRAWING ROOM
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, light slate-blue shirt, holding `PROP_LOAN_STATEMENT` before Neela, furious); `CHAR_NEELA` (30, muted teal-blue cotton saree with white border, tearful and trembling).
-* **SCENE:** Rakib's living room. Day 1, 7:16 PM (direct continuation from Clip 045). Warm indoor bulb lighting with dramatic shadows.
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, white cotton punjabi, turning ceiling fan regulator); `CHAR_JAHANARA` (58, maroon silk saree, examining old walls critically); `CHAR_ASHIK` (34, navy blue formal shirt, dark trousers, relaxed and polite).
+* **SCENE:** Altaf Master's simple, lime-washed drawing room. Friday, 10:20 AM. Morning light through window.
 * **ACTION AND TIMING:**
-  * `0–4s`: Rakib holds the bank statement inches from Neela's face and demands an answer.
-  * `4–8s`: Neela looks at him with pleading, tear-filled eyes and defends Tanvir's honor.
-  * `8–10s`: Rakib's expression twists in bitter disbelief.
-* **DIALOGUE — EXACT BENGALI LINES (20 words):**
-  * রাকিব (`CHAR_RAKIB`): “চুপ কেন? কে এই তানভীর হাসান, যাকে ৫০ লাখ পাঠিয়েছ?”
-  * নীলা (`CHAR_NEELA`): “উনি শত্রু নন রাকিব, ওনার কাছে আমাদের বড় দায় ছিল!”
-* **CAMERA:** Tight eye-level medium two-shot in the living room.
-* **PERFORMANCE AND AUDIO:** Intense anger from Rakib; earnest, tearful defense from Neela. Quiet room tone.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Preserve `PROP_LOAN_STATEMENT` in Rakib's hand. No subtitles.
-
-#### CLIP 047 — "YOUR DEBT, NOT OURS!"
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, shouting in wounded pride); `CHAR_NEELA` (30, weeping, trying to make him understand without breaking her oath).
-* **SCENE:** Living room. Day 1, 7:18 PM.
-* **ACTION AND TIMING:**
-  * `0–4s`: Rakib points a trembling finger at Neela, rejecting her claim that it was their shared debt.
-  * `4–9s`: Neela cries out that paying Tanvir seven years ago saved Rakib's freedom.
-  * `9–10s`: Rakib frowns deeply.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * রাকিব (`CHAR_RAKIB`): “আমাদের দায় বলবে না, বলো তোমার দায়! আমি ওকে চিনিই না!”
-  * নীলা (`CHAR_NEELA`): “সেদিন ওনার পাওনা না মেটালে আজ তুমি বাইরে থাকতে পারতে না!”
-* **CAMERA:** Over-the-shoulder two-shot shifting focus from Rakib to Neela.
-* **PERFORMANCE AND AUDIO:** Sharp, wounded voice from Rakib; desperate emotional cry from Neela.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
-
-#### CLIP 048 — BLIND FAITH IN ELDER BROTHER JAMAL
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, defending his elder brother proudly); `CHAR_NEELA` (30, stunned as she realizes what Jamal told Rakib).
-* **SCENE:** Living room. Day 1, 7:20 PM.
-* **ACTION AND TIMING:**
-  * `0–5s`: Rakib angrily repeats the lie his elder brother Jamal told him about settling all his old business debts.
-  * `5–9s`: Neela stares at Rakib in heartbreak as she realizes Jamal took credit for her sacrifice.
-  * `9–10s`: Neela's lips tremble in silent agony.
-* **DIALOGUE — EXACT BENGALI LINES (20 words):**
-  * রাকিব (`CHAR_RAKIB`): “মিথ্যা বলো না! সাত বছর আগে আমার সব পাওনাদারকে বড় ভাই জামাল মিটিয়েছিলেন!”
-  * নীলা (`CHAR_NEELA`): “ভাইজান... ভাইজান তোমাকে বলেছেন উনি সব মিটিয়েছেন?”
-* **CAMERA:** Medium close-up panning from Rakib to Neela's heartbroken realization.
-* **PERFORMANCE AND AUDIO:** Proud certainty from Rakib; stunned, broken whisper from Neela.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
-
-#### CLIP 049 — BOUND BY HER OATH
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, accusing Neela); `CHAR_NEELA` (30, bowing her head in helpless silence).
-* **SCENE:** Living room. Day 1, 7:22 PM.
-* **ACTION AND TIMING:**
-  * `0–5s`: Rakib accuses her of slandering his brother while giving 50 Lakh to another man.
-  * `5–9s`: Neela closes her eyes, tears falling, and repeats that her oath binds her tongue today.
-  * `9–10s`: Rakib glares at her in disgust.
-* **DIALOGUE — EXACT BENGALI LINES (20 words):**
-  * রাকিব (`CHAR_RAKIB`): “হ্যাঁ! ভাইজান আমার সম্মান বাঁচিয়েছেন, আর তুমি ওনার নামে অপবাদ দিচ্ছ?”
-  * নীলা (`CHAR_NEELA`): “আমি কসম খেয়েছি রাকিব, তাই আজ বলতে পারছি না।”
-* **CAMERA:** Tight two-shot at eye level.
-* **PERFORMANCE AND AUDIO:** Harsh accusation from Rakib; choked, helpless restraint from Neela.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
-
-#### CLIP 050 — LITTLE MEHER INTERVENES IN TEARS
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEHER` (6, yellow frock, running out from behind the bedroom door crying); `CHAR_NEELA` (30, holding Meher); `CHAR_RAKIB` (35, softening slightly toward his daughter).
-* **SCENE:** Living room doorway to bedroom. Day 1, 7:24 PM.
-* **ACTION AND TIMING:**
-  * `0–4s`: Meher runs out from behind the bedroom door in tears and hugs her mother's saree pallu.
-  * `4–8s`: Rakib lowers his voice and tells Meher to go back inside.
-  * `8–10s`: Neela bends down and picks Meher up in her arms.
-* **DIALOGUE — EXACT BENGALI LINES (14 words):**
-  * মেহের (`CHAR_MEHER`): “বাবা, আম্মুকে বকছ কেন? আম্মু সকাল থেকে কিচ্ছু খায়নি!”
-  * রাকিব (`CHAR_RAKIB`): “মেহের মা, তুমি ভেতরে যাও...”
-* **CAMERA:** Medium wide shot capturing Meher running between her parents.
-* **PERFORMANCE AND AUDIO:** Crying child voice from Meher; restrained, heavy sigh from Rakib.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
-
-#### CLIP 051 — BITTER ESTRANGEMENT UNDER ONE ROOF
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, looking at Neela with cold resentment); `CHAR_NEELA` (30, holding `CHAR_MEHER` in her arms, weeping).
-* **SCENE:** Living room. Day 1, 7:26 PM.
-* **ACTION AND TIMING:**
-  * `0–5s`: Rakib delivers a cutting remark before turning away from Neela.
-  * `5–8s`: Neela cries out softly while holding Meher close.
-  * `8–10s`: Rakib walks toward the sofa and turns his back.
-* **DIALOGUE — EXACT BENGALI LINES (20 words):**
-  * রাকিব (`CHAR_RAKIB`): “যে স্ত্রী স্বামীর চেয়ে অন্য লোকের কসমকে বড় মনে করে, তার মুখ দেখতেও কষ্ট হয়!”
-  * নীলা (`CHAR_NEELA`): “রাকিব, ওভাবে বলো না প্লিজ!”
-* **CAMERA:** Medium shot as Rakib turns his back on Neela and Meher.
-* **PERFORMANCE AND AUDIO:** Cold, wounded voice from Rakib; heartbroken cry from Neela.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Meher remains silent in Neela's arms. No subtitles.
-
-#### CLIP 052 — SLEEPLESS TEARS IN THE DARK
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_NEELA` (30, sitting on the darkened bed hugging sleeping `CHAR_MEHER`, weeping quietly).
-* **SCENE:** Dimly lit master bedroom at night. Day 1, 10:30 PM. Cool blue moonlight through the window.
-* **ACTION AND TIMING:**
-  * `0–3s`: Neela sits on the bed patting sleeping Meher while tears roll down her cheeks in the dim light.
-  * `3–8s`: Looking toward the closed bedroom door, she whispers softly to herself in sorrow.
-  * `8–10s`: She rests her forehead against Meher's head.
-* **DIALOGUE — EXACT BENGALI LINES (15 words):**
-  * নীলা (`CHAR_NEELA`): “আজ আমাকে ঘৃণা করছ রাকিব...”
-  * নীলা (`CHAR_NEELA`): “কিন্তু সত্যিটা জানলে নিজের বড় ভাইয়ের মুখ দেখতে পারবে তো?”
-* **CAMERA:** Slow push-in close-up on Neela's tear-streaked face in moonlight.
-* **PERFORMANCE AND AUDIO:** Soft, aching whisper from Neela. Quiet night ambience.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Only `CHAR_NEELA` speaks. No subtitles.
-
----
-
-### SCENE 8: TWIST 2 — THE MIDNIGHT LOCKER & TANVIR'S PHOTO (Clips 053 – 065)
-
-#### CLIP 053 — RAKIB AWAKE AT 1:30 AM
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, sitting restless on the living room sofa in the dark, rubbing his temples).
-* **SCENE:** Dimly lit living room, wall clock showing 1:30 AM. Night 1, 1:30 AM.
-* **ACTION AND TIMING:**
-  * `0–3s`: Rakib sits awake on the sofa, glancing up at the wall clock showing 1:30 AM.
-  * `3–8s`: Remembering how Neela guarded the wardrobe earlier, he whispers to himself with sudden resolve.
-  * `8–10s`: He rises quietly from the sofa and walks toward the bedroom.
-* **DIALOGUE — EXACT BENGALI LINES (14 words):**
-  * রাকিব (`CHAR_RAKIB`): “নীলা কেন সকালে আলমারির নিচের লকারটা খুলতে দেয়নি?”
-  * রাকিব (`CHAR_RAKIB`): “ওখানে কী লুকানো আছে আজ দেখবই!”
-* **CAMERA:** Medium close-up on Rakib on the sofa, panning slightly as he stands up.
-* **PERFORMANCE AND AUDIO:** Low, tense midnight whisper. Soft ticking of the wall clock.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Only `CHAR_RAKIB` speaks. No subtitles.
-
-#### CLIP 054 — ENTERING THE SLEEPING BEDROOM (SILENT SUSPENSE)
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, stepping silently into the bedroom); `CHAR_NEELA` (30) and `CHAR_MEHER` (6) fast asleep on the bed.
-* **SCENE:** Dimly lit master bedroom. Night 1, 1:32 AM.
-* **ACTION AND TIMING:**
-  * `0–4s`: Rakib gently pushes open the bedroom door and steps inside without making a sound.
-  * `4–7s`: He looks at Neela sleeping beside Meher in the faint moonlight.
-  * `7–10s`: He tiptoes slowly toward the head of the bed.
+  * `0–3s`: Altaf turns the wall fan regulator to full speed; fan blades whir slowly overhead.
+  * `3–7s`: Altaf apologizes for the modest furnishings of the room.
+  * `7–10s`: Ashik smiles warmly, putting the host at ease, while his mother inspects the cracked corner paint.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * `DIALOGUE: NO DIALOGUE.`
-* **CAMERA:** Slow handheld tracking shot following Rakib into the shadowy bedroom.
-* **PERFORMANCE AND AUDIO:** Complete vocal silence; soft floorboards creaking and ceiling fan hum.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No character speaks or moves lips. No subtitles.
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আমাদের বসার ঘরটা খুবই সাদামাটা আপা, আপনারা একটু কষ্ট করে বসুন।”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “না না কাকা, কোনো অসুবিধা নেই। ঘরটা বেশ ঠান্ডা আর খোলামেলা।”
+* **CAMERA:** Medium wide shot of the drawing room, pushing in toward Ashik and Altaf.
+* **PERFORMANCE AND AUDIO:** Apologetic, humble hospitality from Altaf; cordial, warm delivery from Ashik. Whirring sound of old ceiling fan.
 
-#### CLIP 055 — TAKING THE LOCKER KEYS (SILENT SUSPENSE)
+#### CLIP 062 — THE GLASS OF WOOD-APPLE SHORBOT
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, reaching near Neela's pillow); `CHAR_NEELA` (30, sleeping).
-* **SCENE:** Master bedroom bedside. Night 1, 1:33 AM.
+* **CHARACTER CONTINUITY:** `CHAR_RABEYA` (56, carrying tray with two glasses of Bel shorbot); `CHAR_JAHANARA` (58); `CHAR_ASHIK` (34).
+* **SCENE:** Drawing room. Friday, 10:22 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Rakib spots the small brass key ring resting beside Neela's pillow.
-  * `4–8s`: Holding his breath, he carefully lifts the keys so they do not jingle; Neela stirs slightly in her sleep.
-  * `8–10s`: Rakib steps back toward the wooden wardrobe clutching the keys.
+  * `0–3s`: Rabeya enters with trembling hands, offering the chilled homemade drink.
+  * `3–7s`: Rabeya invites them warmly; Jahanara asks about sugar content with critical suspicion.
+  * `7–10s`: Ashik swiftly reaches out, taking a glass with an appreciative nod.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * `DIALOGUE: NO DIALOGUE.`
-* **CAMERA:** Extreme close-up on Rakib's fingers lifting the key ring beside Neela's sleeping face.
-* **PERFORMANCE AND AUDIO:** Faint metallic clink of keys; tense breathing. No dialogue.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Silent clip. No subtitles.
+  * মা রাবেয়া (`CHAR_RABEYA`): “বেলের শরবতটা নিন আপা, রোদের মধ্যে অনেক দূর থেকে গাড়ি চালিয়ে এসেছেন।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “শরবতে চিনি বেশি নেই তো? আমার আবার মিষ্টি খাওয়া একদম বারণ।”
+* **CAMERA:** Two-shot over Rabeya's tray, framing Jahanara's skeptical gaze and Ashik's quick intervention.
+* **PERFORMANCE AND AUDIO:** Hesitant, anxious hospitality from Rabeya; aloof, condescending query from Jahanara. Glass clink.
 
-#### CLIP 056 — UNLOCKING THE BOTTOM LOCKER (SILENT SUSPENSE)
+#### CLIP 063 — ASHIK DISSOLVES THE TENSION
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, crouching before the open wardrobe, unlocking the bottom compartment).
-* **SCENE:** Master bedroom wardrobe. Night 1, 1:35 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, taking a sip and smiling at Rabeya); MOHIUDDIN SAHEB (70, sitting on cane chair); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room. Friday, 10:24 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Crouching down, Rakib inserts the small key into the bottom locker of the wooden wardrobe and turns it.
-  * `4–8s`: He opens the locker door and pulls out an old rectangular tin box (`PROP_TIN_BOX`).
-  * `8–10s`: His hands tremble as he lifts the lid of the tin box.
+  * `0–3s`: Ashik sips the shorbot, nodding enthusiastically at Rabeya.
+  * `3–7s`: Ashik praises the refreshing drink and reassures his mother.
+  * `7–10s`: Mohiuddin Saheb chuckles, highlighting Ashik's balanced temperament.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * `DIALOGUE: NO DIALOGUE.`
-* **CAMERA:** Low-angle close-up on the locker opening and `PROP_TIN_BOX` being lifted out.
-* **PERFORMANCE AND AUDIO:** Soft click of the lock turning, metallic scrape of the tin box lid. No dialogue.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Silent clip. Establish `PROP_TIN_BOX`. No subtitles.
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “খুব সুন্দর শরবত হয়েছে কাকিমা। মা, একদম কাঁচা বেলের স্বাদ, মিষ্টি একদম পরিমিত।”
+  * মহিউদ্দীন সাহেব: “আশিকের মেজাজটাই এমন অমায়িক আলতাফ, কোনো বিষয়ে অহেতুক জটিলতা পছন্দ করে না।”
+* **CAMERA:** Medium close-up on Ashik's genial face, panning slightly to Mohiuddin chuckling.
+* **PERFORMANCE AND AUDIO:** Natural, genial delivery from Ashik; grandfatherly warmth from Mohiuddin.
 
-#### CLIP 057 — 76 MONTHLY CASH DEPOSIT SLIPS (NEELA 20K + MOTHER 10K)
+#### CLIP 064 — PROBING THE RETIRED TEACHER
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, crouching by the wardrobe, holding a thick bundle of 76 pink bank deposit slips with a handwritten ledger note pinned on top from `PROP_TIN_BOX`).
-* **SCENE:** Master bedroom floor by the wardrobe. Night 1, 1:36 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, sipping gingerly from glass); `CHAR_ALTAF` (64, sitting on cane stool).
+* **SCENE:** Drawing room. Friday, 10:26 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Rakib pulls out the bundle of 76 bank cash deposit receipts and reads Neela's handwritten calculation note pinned to the top slip (`সেলাই ও টিউশনি ২০,০০০ + মায়ের পেনশন ১০,০০০ = ৩০,০০০ টাকা`).
-  * `4–9s`: Realizing that Neela and her mother combined their savings every month for 76 months, he whispers in astonishment.
-  * `9–10s`: He notices a white envelope underneath the receipts in the box.
-* **DIALOGUE — EXACT BENGALI LINES (18 words):**
-  * রাকিব (`CHAR_RAKIB`): “সেলাই-টিউশনির ২০ হাজার আর আম্মার পেনশনের ১০ হাজার...”
-  * রাকিব (`CHAR_RAKIB`): “মা-মেয়ে মিলে ৭৬ মাস ৩০ হাজার করে জমা দিয়েছে!”
-* **CAMERA:** Close-up on the pinned breakdown note and bundle of bank slips tilting up to Rakib's stunned face.
-* **PERFORMANCE AND AUDIO:** Hushed, stunned whisper from Rakib; crisp paper flipping sound.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Only `CHAR_RAKIB` speaks. Visually and narratively clear that the ৳30,000 monthly cash deposit is the combined contribution of Neela (৳20,000) and her mother (৳10,000) over 76 months (৳22.8L total). No subtitles.
+  * `0–3s`: Jahanara Begum takes a small sip and rests the glass on the small wooden side-table.
+  * `3–7s`: She inquires directly about Altaf's retirement from teaching five years ago.
+  * `7–10s`: Altaf answers humbly about surviving on his small pension and private tuitions.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “মাস্টার সাহেব, মহিউদ্দীন ভাইয়ের কাছে শুনলাম আপনি হাইস্কুল থেকে রিটায়ার করেছেন পাঁচ বছর আগে?”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “জি আপা। পেনশনের টাকা আর সামান্য যা জমানো ছিল, তা দিয়ে কোনোমতে টানছি।”
+* **CAMERA:** Tight two-shot: Jahanara's probing, calculating eyes versus Altaf's unpretentious simplicity.
+* **PERFORMANCE AND AUDIO:** Interrogative, formal tone from Jahanara; honest, slightly weary tone from Altaf.
 
-#### CLIP 058 — TWIST 2: THE STRANGER'S PHOTOGRAPH
+#### CLIP 065 — TWO YEARS OF MARRIED LIFE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, opening the white envelope and pulling out `PROP_TANVIR_PHOTO`, shocked and furious).
-* **SCENE:** Master bedroom floor. Night 1, 1:38 AM.
+* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, golden silk saree, placing plate of sandesh sweets on table); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room. Friday, 10:28 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Rakib opens the white envelope from the bottom of the tin box and pulls out a studio photograph of a dignified 38-year-old man (`CHAR_TANVIR`).
-  * `4–9s`: Staring at the stranger's portrait, Rakib whispers in shocked anger.
-  * `9–10s`: He slowly flips the photograph over.
-* **DIALOGUE — EXACT BENGALI LINES (13 words):**
-  * রাকিব (`CHAR_RAKIB`): “এই লোকটা কে?!”
-  * রাকিব (`CHAR_RAKIB`): “এই অপরিচিত পরপুরুষের ছবি নীলার লকারে কেন?”
-* **CAMERA:** Over-the-shoulder close-up showing `PROP_TANVIR_PHOTO` in Rakib's hand and his shocked eyes.
-* **PERFORMANCE AND AUDIO:** Low, trembling voice filled with shock and jealousy.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Only `CHAR_RAKIB` speaks. Portrait matches `CHAR_TANVIR` identity lock. No subtitles.
+  * `0–3s`: Rodela enters gracefully, setting down the sweets.
+  * `3–7s`: Rodela introduces herself as the younger sister, married for two years in Dhanmondi.
+  * `7–10s`: Jahanara remarks that marrying off the younger sister on time was wise given today's tough market.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * রোদেলা (`CHAR_RODELA`): “আমি মেঘলা আপুর ছোট বোন রোদেলা। আজ দুবছর হলো আমার বিয়ে হয়েছে ধানমন্ডিতে।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “জানি। ছোট মেয়ের বিয়েটা সময়মতো দিয়ে ভালোই করেছেন, আজকাল বিয়ের বাজারে যা পরিস্থিতি!”
+* **CAMERA:** Medium shot tracking Rodela's entrance, capturing Jahanara's pointed comment.
+* **PERFORMANCE AND AUDIO:** Polite, bright voice from Rodela; practical, critical tone from Jahanara.
 
-#### CLIP 059 — THE HANDWRITTEN NOTE ON THE BACK
+#### CLIP 066 — ASHIK'S TIMELY PERSPECTIVE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, reading the back of `PROP_TANVIR_PHOTO` with a shaking hand).
-* **SCENE:** Master bedroom floor. Night 1, 1:40 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, speaking up gently); `CHAR_ALTAF` (64, looking touched); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room. Friday, 10:30 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Rakib turns the photo over and sees Bengali handwriting in blue ink on the back.
-  * `3–9s`: He reads the inscription aloud in a choked, trembling whisper.
-  * `9–10s`: His hand shakes violently.
-* **DIALOGUE — EXACT BENGALI LINES (14 words):**
-  * রাকিব (`CHAR_RAKIB`): “‘নীলা, তোমার জন্যই আজ আমি বেঁচে আছি।’”
-  * রাকিব (`CHAR_RAKIB`): “‘এই ঋণ আমি কোনোদিন ভুলব না। — তানভীর’!”
-* **CAMERA:** Macro close-up of the back of the photo in Rakib's trembling fingers tilting up to his stricken eyes.
-* **PERFORMANCE AND AUDIO:** Hollow, devastated whisper as Rakib reads the note.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Only `CHAR_RAKIB` speaks. No subtitles.
+  * `0–3s`: Room falls quiet; Rodela lowers her gaze.
+  * `3–7s`: Ashik points out that everyone's life timeline differs; finding the right person is what matters.
+  * `7–10s`: Altaf looks at Ashik with growing gratitude and paternal affection.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “সবার জীবনের সময়সীমা একরকম হয় না মা। সঠিক মানুষের দেখা পাওয়াটাই আসল।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আশিক বাবাজীবন খুব গভীর কথা বলেছে। মেঘলা আমার বড় লক্ষ্মী মেয়ে।”
+* **CAMERA:** Close-up on Ashik's earnest expression, then panning to Altaf Master's softened eyes.
+* **PERFORMANCE AND AUDIO:** Quiet, principled confidence from Ashik; deeply moved paternal pride from Altaf.
 
-#### CLIP 060 — RAKIB'S WORLD COLLAPSES
+#### CLIP 067 — ASKING TO MEET MEGHLA
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, clutching `PROP_TANVIR_PHOTO`, devastated).
-* **SCENE:** Master bedroom floor. Night 1, 1:41 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, gesturing toward inner corridor); `CHAR_RABEYA` (56, scurrying inside).
+* **SCENE:** Drawing room. Friday, 10:32 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Rakib slumps back against the bedpost, staring at the photo as tears of rage and betrayal fill his eyes.
-  * `5–10s`: He whispers to himself in complete heartbreak.
-* **DIALOGUE — EXACT BENGALI LINES (15 words):**
-  * রাকিব (`CHAR_RAKIB`): “এই লোকটাই তবে তানভীর হাসান!”
-  * রাকিব (`CHAR_RAKIB`): “তার মানে নীলার জীবনে সত্যিই অন্য কেউ আছে?!”
-* **CAMERA:** Tight close-up on Rakib's agonized face in dim light.
-* **PERFORMANCE AND AUDIO:** Heartbroken, trembling voice. Only `CHAR_RAKIB` speaks.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
-
-#### CLIP 061 — TANVIR HASAN'S VISITING CARD
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, pulling a printed business card from the envelope and pocketing it).
-* **SCENE:** Master bedroom floor. Night 1, 1:43 AM.
-* **ACTION AND TIMING:**
-  * `0–4s`: Rakib looks inside the white envelope again and pulls out a business card reading 'Hasan Traders — Tanvir Hasan, Mirpur'.
-  * `4–8s`: He slips the card into his shirt pocket with grim resolve.
-  * `8–10s`: He stands up holding the photograph.
-* **DIALOGUE — EXACT BENGALI LINES (13 words):**
-  * রাকিব (`CHAR_RAKIB`): “‘হাসান ট্রেডার্স, মিরপুর’...”
-  * রাকিব (`CHAR_RAKIB`): “কাল সকালেই আমি এই তানভীর হাসানের মুখোমুখি হব!”
-* **CAMERA:** Close-up on the business card moving up to Rakib putting it in his pocket.
-* **PERFORMANCE AND AUDIO:** Low, fierce determination. Only `CHAR_RAKIB` speaks.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
-
-#### CLIP 062 — NEELA WAKES UP AND SEES THE OPEN LOCKER
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_NEELA` (30, waking up on the bed, seeing the open locker and `PROP_TANVIR_PHOTO` in Rakib's hand, shocked); `CHAR_RAKIB` (35, standing over the locker, glaring at her).
-* **SCENE:** Master bedroom. Night 1, 1:45 AM.
-* **ACTION AND TIMING:**
-  * `0–4s`: Neela wakes up, sits up on the bed, and gasps as she sees the open locker and the photo in Rakib's hand.
-  * `4–9s`: Rakib turns on the room light and replies with bitter fury.
-  * `9–10s`: Neela scrambles off the bed toward him.
-* **DIALOGUE — EXACT BENGALI LINES (19 words):**
-  * নীলা (`CHAR_NEELA`): “রাকিব! তুমি চুরি করে আমার লকার খুলেছ?!”
-  * রাকিব (`CHAR_RAKIB`): “চুরি তো তুমি করেছ নীলা—সাত বছর ধরে আমার বিশ্বাস চুরি করেছ!”
-* **CAMERA:** Medium two-shot as the bedroom light switches on, revealing both characters clearly.
-* **PERFORMANCE AND AUDIO:** Startled gasp from Neela; explosive, wounded accusation from Rakib.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
-
-#### CLIP 063 — CONFRONTATION OVER TANVIR'S PHOTO
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, holding `PROP_TANVIR_PHOTO` in front of Neela's face); `CHAR_NEELA` (30, weeping and swearing her innocence).
-* **SCENE:** Master bedroom. Night 1, 1:46 AM.
-* **ACTION AND TIMING:**
-  * `0–5s`: Rakib thrusts Tanvir's photograph in front of Neela's face and demands to know their relationship.
-  * `5–9s`: Neela weeps and swears by God that Tanvir is like an elder brother to her.
-  * `9–10s`: Rakib laughs bitterly in disbelief.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * রাকিব (`CHAR_RAKIB`): “সাত বছর ধরে এই তানভীরের সাথে সম্পর্ক রেখেছ? কী সম্পর্ক তোমার ওর সাথে?!”
-  * নীলা (`CHAR_NEELA`): “আল্লাহর কসম রাকিব! তানভীর ভাই আমার বড় ভাইয়ের মতো!”
-* **CAMERA:** Tight close-up two-shot with the photograph between them.
-* **PERFORMANCE AND AUDIO:** Furious roar from Rakib; anguished, tearful cry from Neela.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
-
-#### CLIP 064 — "EVERYTHING IS OVER BETWEEN US!"
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, throwing the photo onto the bed); `CHAR_NEELA` (30, falling to her knees holding his arm).
-* **SCENE:** Master bedroom. Night 1, 1:48 AM.
-* **ACTION AND TIMING:**
-  * `0–5s`: Rakib throws the photo onto the bed in disgust and declares their marriage is over.
-  * `5–9s`: Neela drops to her knees holding his arm, begging him not to stain her character.
-  * `9–10s`: Rakib pulls his arm free.
-* **DIALOGUE — EXACT BENGALI LINES (19 words):**
-  * রাকিব (`CHAR_RAKIB`): “ভাইয়ের মতো লোককে কেউ ৫০ লাখ দেয় না! আজ সব শেষ!”
-  * নীলা (`CHAR_NEELA`): “আমাকে মেরে ফেলো, তবু চরিত্রে অপবাদ দিও না!”
-* **CAMERA:** High-angle medium shot capturing Rakib pulling away as Neela kneels.
-* **PERFORMANCE AND AUDIO:** Raw heartbreak and desperation.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No physical abuse; Rakib only pulls his arm free and leaves. No subtitles.
-
-#### CLIP 065 — RAKIB WALKS OUT INTO THE NIGHT
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, snatching up `PROP_TANVIR_PHOTO` and walking out the front door); `CHAR_NEELA` (30, collapsing on the floor in tears).
-* **SCENE:** Bedroom to front door exit. Night 1, 1:50 AM.
-* **ACTION AND TIMING:**
-  * `0–4s`: Rakib snatches the photo back from the bed, storms out into the living room, and opens the front door.
-  * `4–8s`: Neela runs to the bedroom doorway crying out for him to stop.
-  * `8–10s`: The front door slams shut as Neela collapses to the floor sobbing.
-* **DIALOGUE — EXACT BENGALI LINES (14 words):**
-  * নীলা (`CHAR_NEELA`): “রাকিব যেয়ো না! আমার কথাটা শুনে যাও রাকিব!”
-  * রাকিব (`CHAR_RAKIB`): “তোমার কোনো কথা আমি আর শুনব না!”
-* **CAMERA:** Medium tracking shot as Rakib exits and the door closes on Neela weeping.
-* **PERFORMANCE AND AUDIO:** Desperate cry from Neela; sharp door slam at 8s.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Rakib carries `PROP_TANVIR_PHOTO` and the business card. No subtitles.
+  * `0–3s`: Jahanara Begum notices the flutter of the inner doorway curtain.
+  * `3–7s`: She asks to meet Meghla directly, stating people are best understood face to face.
+  * `7–10s`: Rabeya rushes inside eagerly to fetch Meghla.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “মেয়েকে ডাকুন মাস্টার সাহেব। সামনাসামনি কথা না বললে তো মানুষ চেনা যায় না।”
+  * মা রাবেয়া (`CHAR_RABEYA`): “জি আপা, আমি এখনই নিয়ে আসছি।”
+* **CAMERA:** Focus on the swaying floral doorway curtain, heightening dramatic anticipation.
+* **PERFORMANCE AND AUDIO:** Authoritative, impatient request from Jahanara; flustered, eager compliance from Rabeya. Curtain rustling.
 
 ---
 
-### SCENE 9: TWIST 3 — MOTHER-IN-LAW'S TEARS & THE 40L + 5L + 5L BREAKDOWN (Clips 066 – 078)
+### SCENE 9: MEGHLA'S ENTRANCE (Clips 068 – 074)
 
-#### CLIP 066 — RAKIB ARRIVES AT HIS MOTHER-IN-LAW'S HOUSE
+#### CLIP 068 — SERENE ENTRANCE WITH TEA
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_HALIMA` (58, elderly Bangladeshi woman, wrinkled gentle face, silver-framed glasses, white cotton saree with grey border, opening the door); `CHAR_RAKIB` (35, disheveled slate-blue shirt, exhausted eyes).
-* **SCENE:** Front doorway of Halima Begum's modest old house. Day 2, 8:00 AM. Morning daylight.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, light blue cotton Jamdani saree, hair in neat low bun, holding tea tray); `CHAR_ASHIK` (34, captivated); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room doorway. Friday, 10:35 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Halima Begum opens her front door and looks shocked at Rakib's exhausted, sleepless face.
-  * `4–8s`: Rakib steps inside and speaks with bitter accusation.
-  * `8–10s`: Halima Begum gasps in alarm.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
-  * হালিমা বেগম (`CHAR_HALIMA`): “রাকিব বাবা! এত সকালে চোখমুখ এমন উস্কোখুস্কো কেন? নীলা ভালো আছে তো?”
-  * রাকিব (`CHAR_RAKIB`): “ভালো থাকার অভিনয় তো আপনার মেয়ে সাত বছর করেছে আম্মা!”
-* **CAMERA:** Medium two-shot at the doorway of Halima's house.
-* **PERFORMANCE AND AUDIO:** Concerned elderly mother's voice from Halima; bitter exhaustion from Rakib.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Introduce `CHAR_HALIMA` with exact locked appearance. No subtitles.
+  * `0–3s`: Meghla parts the floral curtain, stepping into the drawing room with serene poise.
+  * `3–7s`: She offers her greeting with respectful dignity; Jahanara responds.
+  * `7–10s`: Ashik's gaze locks onto Meghla's unpretentious grace; he watches with quiet fascination.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * মেঘলা (`CHAR_MEGHLA`): “আসসালামু আলাইকুম আন্টি।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “ওয়ালাইকুমুস সালাম। এসো মা, এখানে বসো।”
+* **CAMERA:** Slow-motion dolly-in following Meghla's feet and flowing saree, cutting to Ashik's captivated face.
+* **PERFORMANCE AND AUDIO:** Soft, modulated greeting from Meghla; measured response from Jahanara.
 
-#### CLIP 067 — ACCUSING MOTHER AND DAUGHTER
+#### CLIP 069 — SERVING TEA PERSONALLY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, confronting his mother-in-law); `CHAR_HALIMA` (58, white saree with grey border, distressed).
-* **SCENE:** Halima Begum's modest living room. Day 2, 8:02 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, placing cup before Ashik); `CHAR_ASHIK` (34, taking cup).
+* **SCENE:** Drawing room coffee table. Friday, 10:37 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Rakib confronts Halima about mortgaging her late husband's land to give 50 Lakh to Tanvir.
-  * `5–9s`: Halima clasps her hands to her chest in shock at his misunderstanding.
-  * `9–10s`: Tears well up behind Halima's glasses.
-* **DIALOGUE — EXACT BENGALI LINES (17 words):**
-  * রাকিব (`CHAR_RAKIB`): “জমি বন্ধক রেখে নীলা তানভীরকে ৫০ লাখ দিয়েছে! আপনি জানতেন আম্মা?”
-  * হালিমা বেগম (`CHAR_HALIMA`): “তুইও আমার মেয়েটাকে ভুল বুঝলি বাবা?!”
-* **CAMERA:** Medium two-shot inside the old living room.
-* **PERFORMANCE AND AUDIO:** Angry accusation from Rakib; heartbroken gasp from Halima.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Meghla sets the steaming tea cup in front of Ashik.
+  * `3–7s`: She notes sugar is served separately; their eyes meet briefly.
+  * `7–10s`: Ashik takes the cup, smiling with genuine delight at her thoughtfulness.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * মেঘলা (`CHAR_MEGHLA`): “চিনি আলাদা দিয়েছি, আপনার পছন্দমতো নিতে পারেন।”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “ধন্যবাদ। আমি সাধারণত চিনি ছাড়াই চা খাই, আপনি বেশ খেয়াল করেছেন।”
+* **CAMERA:** Intimate over-the-shoulder shot capturing the moment their eyes meet over the steaming tea cup.
+* **PERFORMANCE AND AUDIO:** Gentle, graceful tone from Meghla; pleasantly surprised, warm baritone from Ashik. Porcelain clink.
 
-#### CLIP 068 — TWIST 3: "SHE DID IT TO SAVE YOUR HONOR!"
+#### CLIP 070 — UNAPOLOGETIC ABOUT 32 YEARS
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_HALIMA` (58, holding Rakib's hands and weeping); `CHAR_RAKIB` (35, stunned by her tears).
-* **SCENE:** Halima's living room. Day 2, 8:04 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, inspecting through glasses); `CHAR_MEGHLA` (32, sitting upright).
+* **SCENE:** Drawing room. Friday, 10:39 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Halima Begum bursts into tears, grabs both of Rakib's hands, and defends Neela passionately.
-  * `5–9s`: Rakib stares at his elderly mother-in-law in confusion.
-  * `9–10s`: Halima wipes her tears with her saree pallu.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
-  * হালিমা বেগম (`CHAR_HALIMA`): “থাম বাবা রাকিব! আমার মেয়েটা যা করেছে, তোদের সংসার আর তোর সম্মান বাঁচাতেই করেছে!”
-  * রাকিব (`CHAR_RAKIB`): “আমার সম্মান বাঁচাতে অন্য লোককে ৫০ লাখ টাকা দিয়েছে?!”
-* **CAMERA:** Close two-shot focusing on Halima holding Rakib's hands.
-* **PERFORMANCE AND AUDIO:** Trembling, tearful maternal voice from Halima; baffled question from Rakib.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Meghla sits gracefully; Jahanara inspects her with scrutinizing eyes.
+  * `3–7s`: Jahanara remarks that she looks mature and full of personality in person.
+  * `7–10s`: Meghla states her exact age of 32 without evasion, refusing to start with secrets.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “ছবিতে বয়সের গভীরতা বোঝা যায় না। তবে সামনাসামনি তোমাকে বেশ ব্যক্তিত্ববান ও পরিণত দেখাচ্ছে।”
+  * মেঘলা (`CHAR_MEGHLA`): “জি আন্টি, আমার বয়স বত্রিশ বছর। কোনো সত্য গোপন করে আমি সম্পর্কের শুরু করতে চাই না।”
+* **CAMERA:** Dynamic two-shot: Jahanara's calculating stare meeting Meghla's transparent, fearless eyes.
+* **PERFORMANCE AND AUDIO:** Cold, analytical observation from Jahanara; steady, fearless articulation from Meghla.
 
-#### CLIP 069 — THE STORM OF SEVEN YEARS AGO
+#### CLIP 071 — HONESTY AS BEAUTY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_HALIMA` (58, looking earnestly into Rakib's eyes); `CHAR_RAKIB` (35, listening in growing bewilderment).
-* **SCENE:** Halima's living room. Day 2, 8:06 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58); `CHAR_ASHIK` (34, smiling with admiration); `CHAR_MEGHLA` (32).
+* **SCENE:** Drawing room. Friday, 10:41 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Halima reminds Rakib of the week seven years ago when he was unconscious with typhoid.
-  * `5–9s`: Rakib replies that his elder brother Jamal handled everything then.
-  * `9–10s`: Halima shakes her head sorrowfully.
-* **DIALOGUE — EXACT BENGALI LINES (16 words):**
-  * হালিমা বেগম (`CHAR_HALIMA`): “সাত বছর আগে তুই যখন টাইফয়েডে অচেতন, তখন কী ঘটেছিল জানিস?”
-  * রাকিব (`CHAR_RAKIB`): “তখন তো ভাইজান সব সামলেছিলেন!”
-* **CAMERA:** Medium two-shot at eye level.
-* **PERFORMANCE AND AUDIO:** Grave, emotional tone from Halima; defensive confusion from Rakib.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Jahanara adjusts her glasses, noting modern girls usually hesitate to disclose age.
+  * `3–7s`: Ashik counters that honesty is a person's highest beauty and foundation of trust.
+  * `7–10s`: Meghla looks at Ashik with a quiet glance of appreciation.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “আজকালকার মেয়েরা বয়স নিয়ে এত খোলাখুলি কথা বলতে কিছুটা ইতস্তত করে।”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “সত্য বলাটাই তো মানুষের সবচেয়ে বড় সৌন্দর্য মা। লুকোচুরি দিয়ে কোনোদিন বিশ্বাস তৈরি হয় না।”
+* **CAMERA:** Close-up on Ashik's radiant, approving smile, cutting to Meghla's subtle, appreciative glance.
+* **PERFORMANCE AND AUDIO:** Reluctant admission from Jahanara; resonant, admiring defense from Ashik.
 
-#### CLIP 070 — "YOUR ADDRESS WOULD HAVE BEEN PRISON!"
+#### CLIP 072 — INDEPENDENT EARNING AND DIGNITY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_HALIMA` (58, weeping as she reveals the danger Rakib was in); `CHAR_RAKIB` (35, thunderstruck).
-* **SCENE:** Halima's living room. Day 2, 8:08 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, stirring sugar in her tea); `CHAR_MEGHLA` (32).
+* **SCENE:** Drawing room. Friday, 10:43 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Halima reveals that without Neela mortgaging her father's land that day, Rakib would have gone straight to prison.
-  * `5–9s`: Rakib staggers back half a step in utter shock.
-  * `9–10s`: Just then, Halima's mobile phone on the table begins to ring.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
-  * হালিমা বেগম (`CHAR_HALIMA`): “সেদিন যদি নীলা নিজের বাবার জমিটা বন্ধক না রাখত, তবে আজ তোর ঠিকানা হতো জেলখানা!”
-  * রাকিব (`CHAR_RAKIB`): “আমার জেল হতো?! কেন আম্মা? আমি কী করেছিলাম?!”
-* **CAMERA:** Push-in close-up on Rakib's shocked face as the phone starts ringing in the background.
-* **PERFORMANCE AND AUDIO:** Piercing emotional truth from Halima; stunned gasp from Rakib; phone ringtone at 9s.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Jahanara asks about balancing teaching English with household duties.
+  * `3–7s`: Jahanara observes that combining school with home can be tough.
+  * `7–10s`: Meghla explains that standing tall on her own hard work is a matter of duty.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “শুনলাম তুমি আইডিয়াল গার্লস হাইস্কুলে ইংরেজি পড়াও? মাস্টারি আর সংসার একসাথে সামলানো তো কঠিন।”
+  * মেঘলা (`CHAR_MEGHLA`): “কষ্ট হলেও নিজের পরিশ্রমে মাথা উঁচু রাখাটা আমি দায়িত্ব মনে করি আন্টি।”
+* **CAMERA:** Medium shot centering on Meghla, showcasing her professional posture and self-respect.
+* **PERFORMANCE AND AUDIO:** Skeptical questioning from Jahanara; modest yet unwavering self-confidence from Meghla. Spoon clatter.
 
-#### CLIP 071 — NEELA CALLS HER MOTHER
+#### CLIP 073 — SEEKING PERMISSION FOR PRIVATE TALK
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_HALIMA` (58, picking up her ringing phone from the table); `CHAR_RAKIB` (35, seeing 'Neela' on the caller screen).
-* **SCENE:** Halima's living room. Day 2, 8:10 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, addressing Altaf respectfully); `CHAR_ALTAF` (64, nodding warmly); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room. Friday, 10:44 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Halima picks up the ringing phone; Rakib sees Neela's name on the screen and urges Halima not to stay silent.
-  * `4–8s`: Halima answers the call with a trembling hand.
-  * `8–10s`: Rakib leans in close to hear.
-* **DIALOGUE — EXACT BENGALI LINES (18 words):**
-  * রাকিব (`CHAR_RAKIB`): “নীলা ফোন করেছে! আম্মা, আপনি আজ চুপ থাকবেন না, সব বলুন!”
-  * হালিমা বেগম (`CHAR_HALIMA`): “হ্যালো নীলা মা? জামাই তো আজ সকালে আমার এখানে এসেছে!”
-* **CAMERA:** Medium close-up on Halima holding the phone with Rakib beside her.
-* **PERFORMANCE AND AUDIO:** Urgent plea from Rakib; anxious greeting from Halima.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Ashik sets his cup down, leaning toward Altaf Master.
+  * `3–7s`: Ashik asks permission to speak with Meghla privately on the balcony for five minutes.
+  * `7–10s`: Altaf grants permission gladly, asking Meghla to guide him to the western veranda.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “কাকা, আপনাদের অনুমতি থাকলে আমি কি মেঘলার সাথে বারান্দায় পাঁচ মিনিট আলাদা কথা বলতে পারি?”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “নিশ্চয়ই বাবাজীবন! এটা তো তোমাদের অধিকার। মা মেঘলা, আশিককে পশ্চিমের বারান্দাটা দেখিয়ে দে।”
+* **CAMERA:** Pan from Ashik's respectful posture to Altaf's hospitable smile, catching Jahanara's stiffened expression.
+* **PERFORMANCE AND AUDIO:** Polished, respectful request from Ashik; generous paternal approval from Altaf.
 
-#### CLIP 072 — NEELA'S OATH OVER THE PHONE
+#### CLIP 074 — PROCEEDING TO THE VERANDA
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_HALIMA` (58, listening to the phone in tears); `CHAR_RAKIB` (35, hearing Neela's voice from the phone receiver).
-* **SCENE:** Halima's living room. Day 2, 8:11 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, standing); `CHAR_JAHANARA` (58, checking watch); `CHAR_ASHIK` (34).
+* **SCENE:** Corridor to veranda. Friday, 10:45 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Over the phone speaker/receiver, Neela's panicked voice binds her mother by an oath not to mention Jamal or the agreement.
-  * `5–9s`: Halima cries into the phone in protest.
-  * `9–10s`: Rakib reaches for the phone.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
-  * নীলা (ফোনে): “মা! তোমাকে আমার মরার কসম—তুমি রাকিবকে ভাইজানের বা ওই চুক্তির কথা বলবে না!”
-  * হালিমা বেগম (`CHAR_HALIMA`): “নীলা রে, জামাই যে তোকে চরিত্রহীন ভাবছে মা!”
-* **CAMERA:** Tight close-up on Halima and Rakib listening to the phone.
-* **PERFORMANCE AND AUDIO:** Neela's voice heard through phone filter; Halima's tearful reply.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Neela is off-screen on the phone; only Halima moves her lips on-screen. No subtitles.
-
-#### CLIP 073 — "WHICH BROTHER-IN-LAW? WHICH AGREEMENT?"
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, taking the phone from Halima as the call disconnects); `CHAR_HALIMA` (58, weeping).
-* **SCENE:** Halima's living room. Day 2, 8:12 AM.
-* **ACTION AND TIMING:**
-  * `0–4s`: Rakib takes the phone from Halima's hand, but Neela hangs up from the other end.
-  * `4–9s`: Staring at the disconnected phone, Rakib repeats the words he just overheard in disbelief.
-  * `9–10s`: He turns back to his mother-in-law.
-* **DIALOGUE — EXACT BENGALI LINES (18 words):**
-  * রাকিব (`CHAR_RAKIB`): “হ্যালো নীলা?! লাইনটা কেটে দিল কেন?”
-  * রাকিব (`CHAR_RAKIB`): “কোন ভাইজানের কথা, কোন চুক্তির কথা লুকাতে চাইছে ও আম্মা?!”
-* **CAMERA:** Close-up on Rakib holding the phone and turning to Halima.
-* **PERFORMANCE AND AUDIO:** Phone disconnect beep; urgent, bewildered questioning from Rakib.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Only `CHAR_RAKIB` speaks. No subtitles.
-
-#### CLIP 074 — RAKIB KNEELS BEFORE HIS MOTHER-IN-LAW
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, dropping to his knees with folded hands before Halima); `CHAR_HALIMA` (58, sitting on a chair, crying).
-* **SCENE:** Halima's living room. Day 2, 8:14 AM.
-* **ACTION AND TIMING:**
-  * `0–4s`: Rakib drops to his knees in front of Halima Begum and folds his hands in desperation.
-  * `4–9s`: Halima places her trembling hands on his head.
-  * `9–10s`: Rakib looks up at her pleadingly.
-* **DIALOGUE — EXACT BENGALI LINES (19 words):**
-  * রাকিব (`CHAR_RAKIB`): “আম্মা, আমাকে শুধু বলুন—ওই ৫০ লাখের সাথে আমার ব্যবসার কী সম্পর্ক?”
-  * হালিমা বেগম (`CHAR_HALIMA`): “ওঠ বাবা, আমার পায়ের কাছে এভাবে বসিস না!”
-* **CAMERA:** Medium shot angled down on Rakib kneeling before his mother-in-law.
-* **PERFORMANCE AND AUDIO:** Broken, humble plea from Rakib; emotional maternal response from Halima.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
-
-#### CLIP 075 — POINTING RAKIB TOWARD TANVIR HASAN
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_HALIMA` (58, resting her hand on Rakib's shoulder); `CHAR_RAKIB` (35, listening intently).
-* **SCENE:** Halima's living room. Day 2, 8:16 AM.
-* **ACTION AND TIMING:**
-  * `0–5s`: Halima explains that her daughter's oath binds her from naming the culprit, but sends Rakib to Tanvir Hasan for the proof.
-  * `5–9s`: Rakib asks if Tanvir has all the documents.
-  * `9–10s`: Halima nods firmly.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
-  * হালিমা বেগম (`CHAR_HALIMA`): “মেয়ের কসমে আমার মুখ বাঁধা বাবা। তবে ওই তানভীরের কাছে যা—ওর কাছেই সব প্রমাণ পাবি!”
-  * রাকিব (`CHAR_RAKIB`): “তানভীর হাসানের কাছে সব প্রমাণ আছে?!”
-* **CAMERA:** Close two-shot on Halima and Rakib.
-* **PERFORMANCE AND AUDIO:** Solemn, tearful guidance from Halima; astonished question from Rakib.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
-
-#### CLIP 076 — THE 50 LAKH BREAKDOWN: 5L + 5L + 40L
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_HALIMA` (58, handing Rakib an old hospital file); `CHAR_RAKIB` (35, looking at the hospital file in shock).
-* **SCENE:** Halima's living room. Day 2, 8:18 AM.
-* **ACTION AND TIMING:**
-  * `0–5s`: Halima hands Rakib her late husband's old cancer hospital file and states the exact 50 Lakh breakdown.
-  * `5–8s`: Rakib looks at the file and repeats the 40 Lakh figure in shock.
-  * `8–10s`: Halima nods gravely.
-* **DIALOGUE — EXACT BENGALI LINES (18 words):**
-  * হালিমা বেগম (`CHAR_HALIMA`): “৫ লাখ তোর শ্বশুরের হাসপাতালে, ৫ লাখ তোর ব্যবসায়, আর ৪০ লাখ ছিল তানভীরের পাওনা!”
-  * রাকিব (`CHAR_RAKIB`): “তানভীরের ৪০ লাখ?!”
-* **CAMERA:** Medium two-shot showing the old hospital file between them.
-* **PERFORMANCE AND AUDIO:** Clear emotional delivery from Halima; stunned reaction from Rakib.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Exact breakdown (`5L + 5L + 40L = 50L`) preserved. No subtitles.
-
-#### CLIP 077 — WHO STOLE THE 40 LAKH FROM THE COMPANY FUND?
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, bewildered as he remembers his old company fund); `CHAR_HALIMA` (58, urging him to go see the proof).
-* **SCENE:** Halima's living room. Day 2, 8:20 AM.
-* **ACTION AND TIMING:**
-  * `0–5s`: Rakib tells Halima that Tanvir's 40 Lakh was already kept in his company fund seven years ago.
-  * `5–9s`: Halima tells him to go to Tanvir to see with his own eyes who stole that money.
-  * `9–10s`: Rakib's eyes widen as a terrible realization begins to dawn.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * রাকিব (`CHAR_RAKIB`): “কিন্তু তানভীরের ৪০ লাখ তো আমার কোম্পানির ফান্ডেই ছিল!”
-  * হালিমা বেগম (`CHAR_HALIMA`): “ফান্ডের সেই টাকা কে চুরি করেছিল—তা তানভীরের কাছে গেলেই নিজের চোখে দেখবি!”
-* **CAMERA:** Tight two-shot pushing in on Rakib's dawning realization.
-* **PERFORMANCE AND AUDIO:** Urgent confusion from Rakib; grave certainty from Halima.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Unified 40L company-fund logic preserved. No subtitles.
-
-#### CLIP 078 — RAKIB RUSHES TO MIRPUR
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, pulling Tanvir's business card from his shirt pocket and rushing toward the door); `CHAR_HALIMA` (58, watching him go).
-* **SCENE:** Halima's living room doorway. Day 2, 8:22 AM.
-* **ACTION AND TIMING:**
-  * `0–4s`: Rakib pulls Tanvir Hasan's business card from his pocket and looks at the Mirpur address.
-  * `4–8s`: He tells Halima he is going straight to Tanvir's office and hurries out the door.
-  * `8–10s`: Halima folds her hands in silent prayer.
-* **DIALOGUE — EXACT BENGALI LINES (16 words):**
-  * রাকিব (`CHAR_RAKIB`): “আমি এক্ষুনি মিরপুরে তানভীর হাসানের অফিসে যাচ্ছি আম্মা!”
-  * হালিমা বেগম (`CHAR_HALIMA`): “যা বাবা, আজ সত্যিটা সামনে আসুক!”
-* **CAMERA:** Medium tracking shot as Rakib exits the house briskly.
-* **PERFORMANCE AND AUDIO:** Determined voice from Rakib; prayerful reply from Halima.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Meghla leads the way toward the veranda corridor; Ashik rises to follow.
+  * `3–7s`: Jahanara reminds them curtly of the Friday prayer deadline.
+  * `7–10s`: Ashik assures her with a brief smile as he steps into the sunlit veranda.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “যাও, তবে বেশি সময় নিয়ো না। জুমার নামাজের আগে আমাদের আবার বের হতে হবে।”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “শুধু পাঁচটা মিনিট মা।”
+* **CAMERA:** Tracking shot behind Meghla and Ashik transitioning into the breezy, sunlit veranda.
+* **PERFORMANCE AND AUDIO:** Sharp maternal caution from Jahanara; cheerful compliance from Ashik.
 
 ---
 
-### SCENE 10: JAMAL THREATENS NEELA & RAKIB REACHES TANVIR'S OFFICE (Clips 079 – 090)
+### SCENE 10: VERANDA DIALOGUE (Clips 075 – 090)
 
-#### CLIP 079 — JAMAL ARRIVES AT NEELA'S APARTMENT
+#### CLIP 075 — ANCESTRAL SCENT
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_NEELA` (30, muted teal-blue saree, pale and exhausted, opening the front door); `CHAR_JAMAL` (42, maroon panjabi under dark charcoal waistcoat, stepping inside with cold authority).
-* **SCENE:** Rakib's apartment entrance. Day 2, 9:30 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, leaning against veranda railing); `CHAR_MEGHLA` (32, standing three feet away).
+* **SCENE:** West veranda overlooking Bokul tree. Friday, 10:46 AM. Gentle morning breeze.
 * **ACTION AND TIMING:**
-  * `0–3s`: The doorbell rings; Neela opens the door and steps back as her brother-in-law Jamal walks in uninvited.
-  * `3–8s`: Jamal looks around the living room and asks coldly where Rakib has gone.
-  * `8–10s`: Neela glares at him through her tears.
-* **DIALOGUE — EXACT BENGALI LINES (18 words):**
-  * নীলা (`CHAR_NEELA`): “ভাইজান... আপনি এখানে?”
-  * জামাল (`CHAR_JAMAL`): “রাকিব কোথায় বউমা? শুনলাম ও নাকি সকাল থেকে সত্য খুঁজতে বেরিয়েছে?”
-* **CAMERA:** Medium two-shot at the apartment entrance as Jamal steps inside.
-* **PERFORMANCE AND AUDIO:** Startled, weary voice from Neela; cold, menacing tone from Jamal.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Ashik looks out at the green shade, breathing in the fresh air.
+  * `3–7s`: Ashik compliments the peaceful, grounded soil of this house.
+  * `7–10s`: Meghla notes the house is old, built on her father's lifelong sweat and memories.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “বারান্দাটা খুব সুন্দর মেঘলা। মাটির একটা মিষ্টি গন্ধ পাওয়া যাচ্ছে।”
+  * মেঘলা (`CHAR_MEGHLA`): “আমাদের বাড়িটা অনেক পুরোনো আশিক সাহেব। বাবার সারা জীবনের স্মৃতি এই ভিটেতে।”
+* **CAMERA:** Wide picturesque shot of the green veranda, sunlight filtering through fluttering bamboo leaves.
+* **PERFORMANCE AND AUDIO:** Relaxed, sincere baritone from Ashik; soulful, nostalgic warmth from Meghla. Rustling leaves sound.
 
-#### CLIP 080 — NEELA CONFRONTS JAMAL OVER THE 40 LAKH EMBEZZLEMENT
+#### CLIP 076 — JUST "ASHIK"
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_NEELA` (30, confronting Jamal in tears); `CHAR_JAMAL` (42, standing in the living room, unfazed).
-* **SCENE:** Living room. Day 2, 9:32 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, turning toward her with an open smile); `CHAR_MEGHLA` (32, smiling softly).
+* **SCENE:** West veranda. Friday, 10:47 AM.
 * **ACTION AND TIMING:**
-  * `0–6s`: Neela confronts Jamal in anguish over taking the blame for the 40 Lakh he embezzled seven years ago.
-  * `6–9s`: Jamal replies with cold indifference.
-  * `9–10s`: Neela clenches her saree pallu in anger.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * নীলা (`CHAR_NEELA`): “সাত বছর আগে আপনার আত্মসাৎ করা ৪০ লাখের দায় আমি মাথায় নিলাম ভাইজান, আর আজ রাকিব আমাকে চরিত্রহীন ভাবছে!”
-  * জামাল (`CHAR_JAMAL`): “চিৎকার কোরো না বউমা!”
-* **CAMERA:** Medium two-shot in the living room.
-* **PERFORMANCE AND AUDIO:** Raw, tearful outburst from Neela; sharp, cold command from Jamal.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Ashik turns to face her, hands on the wooden railing.
+  * `3–7s`: Ashik asks if she can call him just "Ashik" instead of formal "Saheb".
+  * `7–10s`: Meghla smiles with gentle modesty, teasing about premature rights.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “আমাকে কি 'আশিক সাহেব' না বলে শুধু 'আশিক' বলা যায়?”
+  * মেঘলা (`CHAR_MEGHLA`): “সম্পর্ক চূড়ান্ত হওয়ার আগে এত অধিকার দেওয়া কি ঠিক হবে?”
+* **CAMERA:** Medium two-shot, soft morning backlight illuminating their hair.
+* **PERFORMANCE AND AUDIO:** Playful yet respectful tone from Ashik; clever, charming modesty from Meghla.
 
-#### CLIP 081 — WHY THE LAST 8 MONTHS STOPPED
+#### CLIP 077 — PLAIN WORDS OVER HYPOCRISY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAMAL` (42, sitting arrogantly on the sofa); `CHAR_NEELA` (30, standing before him, explaining why the final 8 months of EMIs stopped).
-* **SCENE:** Living room. Day 2, 9:34 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, laughing softly); `CHAR_MEGHLA` (32).
+* **SCENE:** West veranda. Friday, 10:49 AM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Jamal sits on the sofa and asks why Neela stopped paying the installments for the last 8 months.
-  * `3–9s`: Neela explains that once Tanvir's monthly 30,000 Taka transfer stopped, she could not pay the full 60,000 Taka installment alone.
-  * `9–10s`: Jamal's eyes narrow coldly.
-* **DIALOGUE — EXACT BENGALI LINES (19 words):**
-  * জামাল (`CHAR_JAMAL`): “আট মাস কিস্তি বন্ধ করলে কেন?”
-  * নীলা (`CHAR_NEELA`): “তানভীর ভাইয়ের ৩০ হাজার বন্ধ হওয়ায় একা ৬০ হাজারের কিস্তি দেওয়া আমার পক্ষে সম্ভব হয়নি!”
-* **CAMERA:** Over-the-shoulder two-shot between Jamal on the sofa and Neela standing.
-* **PERFORMANCE AND AUDIO:** Arrogant tone from Jamal; anguished, clear explanation from Neela.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Clearly explains why the final 8 months stopped: Tanvir's ৳30,000 monthly contribution stopped and Neela could not independently pay the full ৳60,000 EMI. No subtitles.
+  * `0–3s`: Ashik laughs warmly, clearly charmed by her honesty.
+  * `3–7s`: Ashik says he loves her plain speaking in a world full of pretense.
+  * `7–10s`: Meghla warns that plain speaking isn't always sweet; many mistake it for ego.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “আপনার এই স্বাভাবিক আর স্পষ্ট কথাগুলো আমার খুব ভালো লেগেছে মেঘলা।”
+  * মেঘলা (`CHAR_MEGHLA`): “সবাই স্পষ্ট কথা সহ্য করতে পারে না আশিক। অনেকে এটাকে অহংকার মনে করে ভুল বোঝে।”
+* **CAMERA:** Close-up on Ashik's expressive eyes, cutting to Meghla's wise profile.
+* **PERFORMANCE AND AUDIO:** Genuine, hearty laughter from Ashik; sober, experienced realism from Meghla.
 
-#### CLIP 082 — JAMAL'S VICIOUS WARNING
+#### CLIP 078 — PRESERVING HER IDENTITY
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAMAL` (42, standing up from the sofa, pointing a threatening finger at Neela); `CHAR_NEELA` (30, flinching slightly).
-* **SCENE:** Living room. Day 2, 9:36 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34); `CHAR_MEGHLA` (32, chin lifted with dignity).
+* **SCENE:** West veranda. Friday, 10:51 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Jamal rises abruptly from the sofa, his face turning fierce as he points a warning finger at Neela.
-  * `5–9s`: Neela stands her ground despite her fear and asks how long he will blackmail her.
-  * `9–10s`: Jamal steps closer with a cruel smile.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
-  * জামাল (`CHAR_JAMAL`): “এখন যদি রাকিবের কাছে আমার নাম বলার চেষ্টা করো বউমা, তবে পরিণতি কী হবে মনে আছে তো?”
-  * নীলা (`CHAR_NEELA`): “আর কতকাল আমাকে এভাবে ভয় দেখাবেন ভাইজান?”
-* **CAMERA:** Low-angle medium two-shot emphasizing Jamal's intimidation.
-* **PERFORMANCE AND AUDIO:** Menacing voice from Jamal; trembling but defiant question from Neela.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No physical contact. No subtitles.
+  * `0–3s`: Ashik invites her to share the single biggest truth of her life.
+  * `3–7s`: Ashik listens attentively with an open mind.
+  * `7–10s`: Meghla states her boundary: she cannot sacrifice her identity or family just to become a wife.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “আমি ভুল বুঝব না। বলুন, আপনার জীবনের সবচেয়ে বড় সত্যিটা কী?”
+  * মেঘলা (`CHAR_MEGHLA`): “আমার জীবনের সবচেয়ে বড় সত্যি হলো—আমি শুধু একজন পুরুষের স্ত্রী হয়ে বেঁচে থাকার জন্য নিজের পরিচয় আর পরিবার বিসর্জন দিতে পারব না।”
+* **CAMERA:** Slow track-in to Meghla's determined face, framed against the morning sky.
+* **PERFORMANCE AND AUDIO:** Attentive, earnest inquiry from Ashik; powerful, deeply felt conviction from Meghla.
 
-#### CLIP 083 — THE BLACKMAIL OF FORGED VOUCHERS
+#### CLIP 079 — ACCEPTING HER FATHER WITH RESPECT
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAMAL` (42, threatening Neela with the old forged cheques); `CHAR_NEELA` (30, terrified for Rakib's safety).
-* **SCENE:** Living room. Day 2, 9:38 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34); `CHAR_MEGHLA` (32).
+* **SCENE:** West veranda. Friday, 10:52 AM.
 * **ACTION AND TIMING:**
-  * `0–6s`: Jamal reminds Neela of the old forged company vouchers and cheques locked in his safe that could send Rakib to prison.
-  * `6–9s`: Neela gasps in terror for her husband.
-  * `9–10s`: Jamal watches her fear with satisfaction.
-* **DIALOGUE — EXACT BENGALI LINES (21 words):**
-  * জামাল (`CHAR_JAMAL`): “রাকিবের কোম্পানির পুরনো ভুয়া ভাউচার আর চেক এখনো আমার লকারে আছে! মুখ খুললেই রাকিবকে জেলে পাঠাব!”
-  * নীলা (`CHAR_NEELA`): “না ভাইজান! রাকিব তো নির্দোষ!”
-* **CAMERA:** Tight close-up two-shot capturing Jamal's threat and Neela's fear.
-* **PERFORMANCE AND AUDIO:** Cold, ruthless blackmail from Jamal; terrified gasp from Neela.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Explains clearly why Neela stayed silent for 7 years. No subtitles.
+  * `0–3s`: Ashik asks who asked her to sacrifice her family.
+  * `3–7s`: Meghla notes: at 32, social pressure pushes women to compromise.
+  * `7–10s`: She says she seeks someone who will embrace her father with full respect.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “পরিবার বিসর্জন দেওয়ার কথা কে বলেছে?”
+  * মেঘলা (`CHAR_MEGHLA`): “বত্রিশ বছর বয়সে সমাজের নানা চাপে মেয়েরা অনেক সময় আপস করে। আমি এমন কাউকে চাই, যে আমার বাবাকে আমার সম্মানসহ গ্রহণ করবে।”
+* **CAMERA:** Intimate two-shot focusing on their intense, honest eye contact.
+* **PERFORMANCE AND AUDIO:** Curious, non-judgmental question from Ashik; passionate, dignified declaration from Meghla.
 
-#### CLIP 084 — EXPLOITING RAKIB'S BROTHERLY DEVOTION
+#### CLIP 080 — ACKNOWLEDGING HER OWN IMPERFECTIONS
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_NEELA` (30, pleading in tears); `CHAR_JAMAL` (42, taunting her with Rakib's blind trust in him).
-* **SCENE:** Living room. Day 2, 9:40 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, empathetic); `CHAR_MEGHLA` (32).
+* **SCENE:** West veranda. Friday, 10:54 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Neela reminds Jamal that he was the one who took the company money.
-  * `4–8s`: Jamal sneers that Rakib reveres him like a father and will never believe her over him.
-  * `8–10s`: Neela looks down in helpless despair.
-* **DIALOGUE — EXACT BENGALI LINES (17 words):**
-  * নীলা (`CHAR_NEELA`): “ফান্ডের টাকা তো আপনি সরিয়েছিলেন ভাইজান!”
-  * জামাল (`CHAR_JAMAL`): “রাকিব আমাকে বাবার মতো মানে—ও কি তোর কথা বিশ্বাস করবে?”
-* **CAMERA:** Medium two-shot focusing on Jamal's manipulative arrogance.
-* **PERFORMANCE AND AUDIO:** Tearful protest from Neela; mocking confidence from Jamal.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Ashik mentions he knows how society bruised her after her sister's wedding.
+  * `3–7s`: Ashik speaks with deep sympathy.
+  * `7–10s`: Meghla refuses to blame society alone; she admits her own past flawed decisions.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “আমি জানি মেঘলা, ছোট বোনের বিয়ের পর সমাজ আপনাকে কতটা মানসিক যন্ত্রণা দিয়েছে। মহিউদ্দীন কাকা আমাকে বলেছেন।”
+  * মেঘলা (`CHAR_MEGHLA`): “সব দোষ শুধু সমাজের নয় আশিক। আমার নিজেরও কিছু ভুল সিদ্ধান্ত ছিল জীবনে।”
+* **CAMERA:** Close-up on Ashik's softened gaze, rack focusing to Meghla's contemplative eyes.
+* **PERFORMANCE AND AUDIO:** Tender, compassionate resonance from Ashik; candid, self-aware humility from Meghla.
 
-#### CLIP 085 — SEVEN YEARS OF SWALLOWING POISON
+#### CLIP 081 — ADMITTING THE MISTAKE AT 27
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_NEELA` (30, weeping bitterly); `CHAR_JAMAL` (42, cold and merciless).
-* **SCENE:** Living room. Day 2, 9:42 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34); `CHAR_MEGHLA` (32, looking down at railing).
+* **SCENE:** West veranda. Friday, 10:56 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Tears roll down Neela's cheeks as she speaks of sacrificing seven years to protect Rakib and the brothers' bond.
-  * `5–9s`: Jamal coldly tells her to keep swallowing poison and sell her father's land.
-  * `9–10s`: Neela shudders with grief.
-* **DIALOGUE — EXACT BENGALI LINES (22 words):**
-  * নীলা (`CHAR_NEELA`): “রাকিবকে বাঁচাতে আর আপনাদের দুই ভাইয়ের সম্পর্ক রাখতে আমি সাত বছর বিষ গিলেছি...”
-  * জামাল (`CHAR_JAMAL`): “তাহলে বাকি জীবনটাও চুপচাপ বিষ গিলেই কাটাও!”
-* **CAMERA:** Close two-shot emphasizing Neela's moral sacrifice and Jamal's cruelty.
-* **PERFORMANCE AND AUDIO:** Choked, emotional voice from Neela; heartless reply from Jamal.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Ashik asks about the mistake she mentioned.
+  * `3–7s`: Meghla admits rejecting a noble proposal at 27 due to career ambition and excessive security fears.
+  * `7–10s`: Ashik listens with profound, non-judgmental respect.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “আপনার নিজের ভুল? কেমন ভুল?”
+  * মেঘলা (`CHAR_MEGHLA`): “সাতাশ বছর বয়সে এক অত্যন্ত ভালো মানুষের প্রস্তাব এসেছিল। তখন ক্যারিয়ার আর অতিরিক্ত নিরাপত্তার মোহে আমি তাকে ফিরিয়ে দিয়েছিলাম।”
+* **CAMERA:** Over-the-shoulder shot from Ashik onto Meghla's lowered, remorseful profile.
+* **PERFORMANCE AND AUDIO:** Quiet curiosity from Ashik; brave, vulnerable, unembellished truth from Meghla.
 
-#### CLIP 086 — JAMAL'S FAKE SMILE FOR LITTLE MEHER
+#### CLIP 082 — THE LESSON OF CHARACTER OVER STATUS
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEHER` (6, yellow frock, peeking from the bedroom doorway); `CHAR_JAMAL` (42, instantly putting on a fake sweet smile and holding out a chocolate box); `CHAR_NEELA` (30, pulling Meher behind her saree pallu).
-* **SCENE:** Living room. Day 2, 9:43 AM.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32); `CHAR_ASHIK` (34, deeply moved).
+* **SCENE:** West veranda. Friday, 10:58 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Seeing Meher peek from the inner doorway, Jamal instantly switches to a warm, smiling face and holds out a box of chocolates.
-  * `4–8s`: Frightened by his earlier shouting, Meher hides behind Neela's saree pallu as Neela shields her.
-  * `8–10s`: Jamal's smile fades back into a cold scowl.
-* **DIALOGUE — EXACT BENGALI LINES (18 words):**
-  * জামাল (`CHAR_JAMAL`): “আরে মেহের মা! এই দেখো বড় আব্বু তোমার জন্য চকলেট এনেছি!”
-  * মেহের (`CHAR_MEHER`): “আমি চকলেট নেব না আম্মু... আমার ভয় করছে!”
-* **CAMERA:** Medium shot showing Jamal's two-faced expression and Meher hiding behind her mother.
-* **PERFORMANCE AND AUDIO:** Syrupy fake sweetness from Jamal; frightened whisper from Meher.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Meghla explains that it wasn't a sin, but an immature decision.
+  * `3–7s`: That experience taught her: inner honesty is what truly matters in a human being.
+  * `7–10s`: Ashik praises her: openly accepting past mistakes is the greatest courage on earth.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * মেঘলা (`CHAR_MEGHLA`): “সেটা কোনো পাপ ছিল না, কিন্তু এক ধরনের অপরিণত সিদ্ধান্ত ছিল। সেই অভিজ্ঞতা আমাকে শিখিয়েছে—মানুষের ভেতরের সততাই আসল।”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “নিজের অতীতকে এমন খোলামনে স্বীকার করতে পারাটা পৃথিবীর সবচেয়ে বড় সাহসের কাজ মেঘলা।”
+* **CAMERA:** Close-up on Meghla's eyes transitioning into peace, cutting to Ashik's deep reverence.
+* **PERFORMANCE AND AUDIO:** Thoughtful, grounded insight from Meghla; deep, validating affirmation from Ashik.
 
-#### CLIP 087 — JAMAL'S FINAL ULTIMATUM BEFORE LEAVING
+#### CLIP 083 — ASHIK'S BACKGROUND AS AN ONLY SON
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAMAL` (42, tossing the chocolate box on the table and turning to leave); `CHAR_NEELA` (30, holding `CHAR_MEHER`).
-* **SCENE:** Living room near front door. Day 2, 9:45 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, looking toward garden); `CHAR_MEGHLA` (32).
+* **SCENE:** West veranda. Friday, 11:00 AM.
 * **ACTION AND TIMING:**
-  * `0–5s`: Jamal drops the chocolate box on the table and delivers his final warning to Neela at the door.
-  * `5–8s`: Neela holds Meher tightly and watches him in silent dread.
-  * `8–10s`: Jamal walks out the front door.
-* **DIALOGUE — EXACT BENGALI LINES (17 words):**
-  * জামাল (`CHAR_JAMAL`): “মনে রেখো বউমা—মুখ খুললেই রাকিবের জেল!”
-  * জামাল (`CHAR_JAMAL`): “স্বামীর জেল আর নিজের সংসার ভাঙা দুটোই একসাথে দেখবে!”
-* **CAMERA:** Medium tracking shot as Jamal pauses at the door and exits.
-* **PERFORMANCE AND AUDIO:** Low, chilling threat from Jamal; door closing sound at 9s. Only `CHAR_JAMAL` speaks.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Ashik rests arms on railing, sharing his own life circumstances.
+  * `3–7s`: He mentions his father's passing and his widowed mother raising him alone with immense toil.
+  * `7–10s`: Meghla nods respectfully, honoring his mother's immense struggle.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “আমার বয়স চৌত্রিশ। আমার বাবা মারা যাওয়ার পর আমি আর মা একা। মা আমাকে অনেক কষ্টে মানুষ করেছেন।”
+  * মেঘলা (`CHAR_MEGHLA`): “আমি আপনার মায়ের ত্যাগের কথা জানি। একা হাতে সন্তান মানুষ করা এক বিশাল তপস্যা।”
+* **CAMERA:** Side profile two-shot showing their physical proximity and emotional alignment.
+* **PERFORMANCE AND AUDIO:** Solemn filial gratitude from Ashik; profound, empathetic reverence from Meghla.
 
-#### CLIP 088 — NEELA'S MORAL DILEMMA
+#### CLIP 084 — MOTHER'S INSECURITY FROM PAST TRAUMA
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_NEELA` (30, sitting on the living room floor hugging `CHAR_MEHER`, weeping).
-* **SCENE:** Living room floor. Day 2, 9:46 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, hesitant); `CHAR_MEGHLA` (32).
+* **SCENE:** West veranda. Friday, 11:02 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Once the door closes, Neela sinks to the floor holding Meher in her arms.
-  * `4–9s`: Looking up in tears, she voices her impossible moral dilemma.
-  * `9–10s`: Meher hugs her mother's neck silently.
-* **DIALOGUE — EXACT BENGALI LINES (18 words):**
-  * নীলা (`CHAR_NEELA`): “আমি কোন পথে যাব আল্লাহ?”
-  * নীলা (`CHAR_NEELA`): “মুখ খুললে স্বামীর জেল, আর চুপ থাকলে স্বামীর চোখে আমি বিশ্বাসঘাতক!”
-* **CAMERA:** High-angle close-up on Neela and Meher on the floor.
-* **PERFORMANCE AND AUDIO:** Heart-wrenching prayerful cry from Neela. Only `CHAR_NEELA` speaks.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** No subtitles.
+  * `0–3s`: Ashik hesitates, sharing a vulnerable insight about his mother's anxieties.
+  * `3–7s`: Ashik admits his mother's past trauma makes her insecure, leading to harsh words sometimes.
+  * `7–10s`: Meghla reassures him: mothers fear for their children's future, which is understandable.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা আমাকে খুব ভালোবাসেন, তবে নিজের অতীত অভিজ্ঞতার কারণে একটু বেশি নিরাপত্তাহীনতায় ভোগেন। কখনো কখনো হয়তো একটু কঠিন কথা বলেন।”
+  * মেঘলা (`CHAR_MEGHLA`): “মায়েরা সন্তানদের ভবিষ্যৎ নিয়ে ভয় পান, আমি এটা বুঝতে পারি আশিক।”
+* **CAMERA:** Tight focus on Ashik's conflicted eyes, relaxed by Meghla's gentle empathy.
+* **PERFORMANCE AND AUDIO:** Vulnerable, slightly apprehensive caution from Ashik; comforting, mature empathy from Meghla.
 
-#### CLIP 089 — RAKIB REACHES TANVIR HASAN'S OFFICE IN MIRPUR
+#### CLIP 085 — FINDING A SOUL OF WISDOM
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, light slate-blue shirt, standing outside a commercial building in Mirpur holding Tanvir's business card).
-* **SCENE:** Exterior entrance of a commercial office building in Mirpur with a Bengali signboard reading 'হাসান ট্রেডার্স — প্রোপ্রাইটর: তানভীর হাসান'. Day 2, 10:30 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, gazing into her eyes); `CHAR_MEGHLA` (32).
+* **SCENE:** West veranda. Friday, 11:04 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Rakib steps out of a CNG auto-rickshaw, looks at the business card in his hand, and looks up at the 'Hasan Traders' signboard.
-  * `4–8s`: He speaks with fierce determination as he walks toward the building entrance.
-  * `8–10s`: He pushes open the glass entrance door.
-* **DIALOGUE — EXACT BENGALI LINES (16 words):**
-  * রাকিব (`CHAR_RAKIB`): “এই সেই তানভীর হাসানের অফিস!”
-  * রাকিব (`CHAR_RAKIB`): “আজ আমি জানবই—সাত বছর আগে আসলে কী ঘটেছিল!”
-* **CAMERA:** Medium shot tilting from the business card up to Rakib and following him to the office door.
-* **PERFORMANCE AND AUDIO:** Determined self-resolve from Rakib; street traffic ambience fading as he enters.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Only `CHAR_RAKIB` speaks. No subtitles.
+  * `0–3s`: Ashik turns fully toward her, releasing a long, relieved breath.
+  * `3–7s`: Ashik expresses he was seeking a partner with wisdom and empathy, and believes he found her.
+  * `7–10s`: Meghla cautions him not to rush decisions; knowing someone takes time.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মেঘলা, আমি একজন জীবনসঙ্গী খুঁজছিলাম যার ভেতর প্রজ্ঞা আর মমত্ববোধ আছে। আমার মনে হয় আমি সঠিক মানুষটিকে পেয়েছি।”
+  * মেঘলা (`CHAR_MEGHLA`): “এত দ্রুত কোনো সিদ্ধান্তে আসবেন না আশিক। মানুষ চেনা এত সহজ নয়।”
+* **CAMERA:** Slow-motion push-in toward both faces as emotional barriers dissolve.
+* **PERFORMANCE AND AUDIO:** Passionate, clear declaration from Ashik; humble, realistic caution from Meghla.
 
-#### CLIP 090 — PART 2 CLIFFHANGER: FACE TO FACE WITH TANVIR HASAN
+#### CLIP 086 — THE FALLEN BOKUL FLOWER
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RAKIB` (35, walking up to the office desk and slamming `PROP_TANVIR_PHOTO` down); `CHAR_TANVIR` (38, dignified Bangladeshi businessman, clean-cut face with neatly trimmed light beard, thin-framed glasses, cream formal shirt and dark brown blazer, rising from his chair in astonishment).
-* **SCENE:** Interior of Tanvir Hasan's well-organized Mirpur office. Day 2, 10:31 AM.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, picking fallen Bokul flower); `CHAR_MEGHLA` (32).
+* **SCENE:** West veranda railing. Friday, 11:06 AM.
 * **ACTION AND TIMING:**
-  * `0–4s`: Rakib pushes open the glass office door, strides straight to the desk, and places `PROP_TANVIR_PHOTO` onto the tabletop.
-  * `4–8s`: Rakib announces that he is Neela's husband; Tanvir rises abruptly from his chair in shock.
-  * `8–10s`: Hold on the tense cliffhanger stare between Rakib and Tanvir across the desk.
-* **DIALOGUE — EXACT BENGALI LINES (19 words):**
-  * রাকিব (`CHAR_RAKIB`): “আপনিই তানভীর হাসান? চিনতে পারছেন এই ছবিটাকে? আমি নীলার স্বামী রাকিব!”
-  * তানভীর (`CHAR_TANVIR`): “রাকিব সাহেব?! নীলা বোনের স্বামী আপনি?!”
-* **CAMERA:** Dynamic medium two-shot across the office desk, pushing in on Tanvir rising in surprise.
-* **PERFORMANCE AND AUDIO:** Fierce confrontation from Rakib; genuine, respectful astonishment from Tanvir.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** End of Part 2 (Clip 090 of 180). Seamless transition to Clip 091 in `Part_3_Final_10s.md`. No subtitles.
+  * `0–3s`: Ashik picks up a fresh white Bokul flower fallen on the railing.
+  * `3–7s`: He says: a person who stands unshakeable by her family needs no lifetime of trial to be known.
+  * `7–10s`: Meghla smiles, her heart touched by his words.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “যে মানুষ নিজের পরিবারের পাশে এমন অটলভাবে দাঁড়াতে পারে, তাকে চিনতে এক জীবন লাগে না মেঘলা।”
+  * মেঘলা (`CHAR_MEGHLA`): “আপনার কথাগুলো সত্যিই আমার মনে অনেক দিন পর এক চিলতে শান্তি এনে দিল।”
+* **CAMERA:** Close-up on the tiny star-shaped white flower between his fingertips, tilting to her smile.
+* **PERFORMANCE AND AUDIO:** Poetic, sincere baritone from Ashik; soft, touched response from Meghla.
 
+#### CLIP 087 — PLACING THE BOKUL FLOWER
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, placing flower in her hand); `CHAR_MEGHLA` (32).
+* **SCENE:** West veranda. Friday, 11:08 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Ashik gently lays the scented Bokul flower into Meghla's open palm.
+  * `3–7s`: Ashik suggests going inside to discuss moving forward positively with his mother.
+  * `7–10s`: Meghla asks with honest caution: can his mother truly accept her from the heart?
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “ভেতরে চলুন। মায়ের সাথে কথা বলে আমরা বিষয়টিকে ইতিবাচকভাবে এগিয়ে নিয়ে যাই।”
+  * মেঘলা (`CHAR_MEGHLA`): “আশিক... আপনার মা কি আমাকে সত্যি মেনে নিতে পারবেন?”
+* **CAMERA:** Macro shot of the white flower resting in Meghla's palm, tilting up to her questioning eyes.
+* **PERFORMANCE AND AUDIO:** Hopeful suggestion from Ashik; cautious, lingering apprehension from Meghla.
+
+#### CLIP 088 — BALANCING HOPE AND CAUTION
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34); `CHAR_MEGHLA` (32).
+* **SCENE:** West veranda. Friday, 11:09 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Ashik answers with earnest hope, yet slight inner hesitation.
+  * `3–7s`: Ashik says he will talk with his mother, believing she won't oppose his happiness.
+  * `7–10s`: Meghla says she wants no forced decisions imposed on anyone.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “আমি মাকে বোঝাব মেঘলা। মা আমার সুখের বিরুদ্ধে কখনো যাবেন না।”
+  * মেঘলা (`CHAR_MEGHLA`): “আমি কাউকে জোর করে কোনো সিদ্ধান্ত চাপিয়ে দিতে চাই না আশিক।”
+* **CAMERA:** Medium shot capturing their honest solidarity on the veranda.
+* **PERFORMANCE AND AUDIO:** Earnest filial hope from Ashik; dignified, unforcing boundary from Meghla.
+
+#### CLIP 089 — MUTUAL UNDERSTANDING
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, walking beside her); `CHAR_MEGHLA` (32).
+* **SCENE:** Corridor transition. Friday, 11:11 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: They walk together along the corridor back toward the drawing room.
+  * `3–7s`: Ashik smiles: at least the two of them understand one another.
+  * `7–10s`: Meghla prays silently that the road ahead remains dignified.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “চলুন, অন্তত আমরা তো দুজন দুজনকে বুঝতে পেরেছি।”
+  * মেঘলা (`CHAR_MEGHLA`): “হে আল্লাহ, সামনের পথটুকু যেন সম্মানের হয়।”
+* **CAMERA:** Tracking two-shot walking through the corridor, sunlight illuminating their faces.
+* **PERFORMANCE AND AUDIO:** Uplifting delivery from Ashik; solemn internal prayer from Meghla.
+
+#### CLIP 090 — RETURN TO THE LIVING ROOM
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, smiling happily); `CHAR_JAHANARA` (58, observant and stern).
+* **SCENE:** Drawing room entrance. Friday, 11:13 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: They re-enter the drawing room; Altaf Master notices their cheerful faces with joy.
+  * `3–7s`: Altaf thinks to himself how long it has been since Meghla smiled so freely.
+  * `7–10s`: Jahanara Begum watches them with sharp, guarded eyes, remaining reserved.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আমার মেয়েটার মুখে কতদিন পর একটু হাসির রেখা দেখলাম!”
+* **CAMERA:** Rapid rack focus from Altaf's joyous smile to Jahanara Begum's contemplative, guarded face.
+* **PERFORMANCE AND AUDIO:** Joyful internal thought from Altaf. Subtle clock ticking sound.
+
+---
+
+### SCENE 11: DINING TABLE & 5 YEARS TENURE (Clips 091 – 102)
+
+#### CLIP 091 — HOMEMADE FIRNI ON THE TABLE
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_RABEYA` (56, placing bowl of firni); `CHAR_JAHANARA` (58); `CHAR_MEGHLA` (32).
+* **SCENE:** Dining room. Friday, 11:15 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Rabeya serves homemade firni before Jahanara Begum.
+  * `3–7s`: Rabeya invites her warmly to taste Meghla's handmade dessert.
+  * `7–10s`: Jahanara offers a reserved compliment about domestic skills being vital for home life.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * মা রাবেয়া (`CHAR_RABEYA`): “আপা, ফিরনিটা মেঘলা নিজের হাতে বানিয়েছে। একটু মুখে দিয়ে দেখুন।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “রান্নাবান্নার হাত ভালো থাকা তো গৃহস্থালি জীবনের জন্য জরুরি।”
+* **CAMERA:** Medium shot around the table, focusing on the serving bowl and Jahanara's measured expression.
+* **PERFORMANCE AND AUDIO:** Eager, proud tone from Rabeya; cool, formal remark from Jahanara. Spoon tapping bowl.
+
+#### CLIP 092 — ASHIK PRAISES, RODELA BOASTS
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, savoring spoonful of firni); `CHAR_RODELA` (26).
+* **SCENE:** Dining room. Friday, 11:17 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Ashik takes a bite, praising the flavor.
+  * `3–7s`: Ashik compliments the subtle cardamom and balanced sweetness.
+  * `7–10s`: Rodela boasts that even with school duties, Meghla never neglects any home chore.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “অসাধারণ ফিরনি হয়েছে কাকিমা! মিষ্টি আর এলাচের ঘ্রাণ একদম নিখুঁত।”
+  * রোদেলা (`CHAR_RODELA`): “আমার আপুর রান্নার তুলনা নেই ভাইয়া, স্কুলের কাজে শত ব্যস্ত থাকলেও সংসারের কোনো কাজ ফেলে রাখে না।”
+* **CAMERA:** Close-up on Ashik enjoying the dessert, panning to Rodela's cheerful, expressive face.
+* **PERFORMANCE AND AUDIO:** Hearty, genuine appreciation from Ashik; lively sisterly praise from Rodela.
+
+#### CLIP 093 — FIVE YEARS OF TEACHING TENURE (FIXED)
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, setting spoon down); `CHAR_MEGHLA` (32).
+* **SCENE:** Dining room. Friday, 11:19 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Jahanara Begum puts her spoon down, turning directly to Meghla.
+  * `3–7s`: She inquires how long Meghla has been teaching at the school.
+  * `7–10s`: Meghla answers with clarity: appointed at 27, teaching here for the past 5 years.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “তুমি যেন কত দিন ধরে ওই স্কুলে পড়াচ্ছ বললে মেঘলা?”
+  * মেঘলা (`CHAR_MEGHLA`): “সাতাশ বছর বয়সে নিয়োগ পেয়েছিলাম আন্টি। এই স্কুলেই বিগত পাঁচ বছর ধরে শিক্ষকতা করছি।”
+* **CAMERA:** Tight two-shot: Jahanara's sharp cross-examination meeting Meghla's poised composure.
+* **PERFORMANCE AND AUDIO:** Direct, inquisitorial tone from Jahanara; calm, exact, transparent answer from Meghla.
+
+#### CLIP 094 — FIVE YEARS OF EXPERIENCE & HOME BALANCE
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58); `CHAR_MEGHLA` (32).
+* **SCENE:** Dining room. Friday, 11:21 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Jahanara nods, assessing her 5 years of experience.
+  * `3–7s`: She asks: with 5 years of school busyness, will there be time for her own household?
+  * `7–10s`: Meghla answers: school hours aside, the rest belongs to family; sharing duty solves time constraints.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “পাঁচ বছর মানে তো অভিজ্ঞতা বেশ ভালোই। কিন্তু স্কুলের এই ব্যস্ততার পর নিজের সংসারের সময় থাকবে তো?”
+  * মেঘলা (`CHAR_MEGHLA`): “স্কুলের সময়টুকু বাদে বাকি পুরো সময়টাই তো পরিবারের জন্য থাকে আন্টি। দায়িত্ব ভাগ করে নিলে সময় কোনো বাধা হয় না।”
+* **CAMERA:** Medium shot of Meghla standing beside table, her professional pride shining under questioning.
+* **PERFORMANCE AND AUDIO:** Skeptical questioning from Jahanara; poised, logical confidence from Meghla.
+
+#### CLIP 095 — THE PILLAR OF FATHER'S MEDICINE
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, lowering head); `CHAR_JAHANARA` (58).
+* **SCENE:** Dining room. Friday, 11:23 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Altaf Master bows his head in modest humility.
+  * `3–7s`: Altaf admits his small pension falls short, and Meghla's 5-year job has supported his medical bills.
+  * `7–10s`: Jahanara notes: financial strain in a family rarely resolves easily.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আমার পেনশনের সামান্য টাকায় কুলোয় না আপা, মেঘলার এই চাকরিটাই গত পাঁচ বছর ধরে আমার চিকিৎসার বড় ভরসা।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “হুম। পরিবারে একটা টানাপোড়েন থাকলে তা সহজে মিটতে চায় না।”
+* **CAMERA:** Close-up on Altaf's bowed head, rack focusing to Jahanara's calculated gaze.
+* **PERFORMANCE AND AUDIO:** Honest, slightly embarrassed admission from Altaf; cold, analytical observation from Jahanara.
+
+#### CLIP 096 — THE STRAIN OF DUAL LOYALTIES
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, leaning forward); `CHAR_JAHANARA` (58).
+* **SCENE:** Dining room. Friday, 11:25 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Ashik notices the tension and intervenes.
+  * `3–7s`: Ashik defends: standing by one's family is an admirable virtue.
+  * `7–10s`: Jahanara counters: reality shows that pulling two families after marriage often breeds complications.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা, পরিবারের পাশে দাঁড়ানোটা তো প্রশংসনীয় গুণ।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “প্রশংসনীয় গুণ আশিক, কিন্তু বাস্তব অভিজ্ঞতা বলে—বিয়ের পর দুটি পরিবার টানতে গেলে অনেক সময় জটিলতা বাড়ে।”
+* **CAMERA:** Two-shot across the table of mother and son clashing ideologically.
+* **PERFORMANCE AND AUDIO:** Corrective filial defense from Ashik; razor-sharp, realistic warning from Jahanara.
+
+#### CLIP 097 — THE SUDDEN HEAVINESS
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_RABEYA` (56); `CHAR_JAHANARA` (58).
+* **SCENE:** Dining room. Friday, 11:27 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: The room falls silent; Rabeya's hands freeze on the serving towel.
+  * `3–7s`: Rabeya asks if she has any particular concern on her mind.
+  * `7–10s`: Jahanara answers that matters are best stated openly.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * মা রাবেয়া (`CHAR_RABEYA`): “আপা... আপনি কি কোনো বিশেষ বিষয়ে ভাবছেন?”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “ভাবার তো বিষয় আছেই রাবেয়া সাহেব। যা বলার খোলাখুলি বলাই ভালো।”
+* **CAMERA:** Wide shot capturing the frozen postures of everyone around the dining table.
+* **PERFORMANCE AND AUDIO:** Anxious maternal inquiry from Rabeya; unyielding, domineering tone from Jahanara.
+
+#### CLIP 098 — MOVING TO THE LIVING ROOM
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, dabbing mouth and rising); `CHAR_ALTAF` (64).
+* **SCENE:** Dining room to drawing room. Friday, 11:29 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Jahanara Begum wipes her hands with a napkin, pushing her chair back.
+  * `3–7s`: She suggests moving to the drawing room to speak openly.
+  * `7–10s`: Altaf Master complies with a trembling gesture toward the door.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “চলুন, ড্রয়িংরুমে গিয়ে একটু স্পষ্ট কথা বলে নেওয়া যাক।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “জি আপা... চলুন।”
+* **CAMERA:** Tracking shot following Jahanara's stride back to the drawing room.
+* **PERFORMANCE AND AUDIO:** Crisp authority from Jahanara; timid compliance from Altaf.
+
+#### CLIP 099 — ASHIK'S APOLOGY IN THE CORRIDOR
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, leaning close to Meghla); `CHAR_MEGHLA` (32).
+* **SCENE:** Dining room corridor. Friday, 11:31 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Ashik pauses beside Meghla as the elders walk ahead.
+  * `3–7s`: Ashik whispers an apology: his mother carries old fears, but he is here.
+  * `7–10s`: Meghla replies calmly: fear is natural, but clear words are best for all.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মেঘলা, তুমি কিছু মনে কোরো না। মায়ের পুরোনো কিছু ভয় আছে, আমি আছি তো।”
+  * মেঘলা (`CHAR_MEGHLA`): “ভয় পাওয়াটা অস্বাভাবিক নয় আশিক, তবে স্পষ্ট কথাই সবার জন্য ভালো।”
+* **CAMERA:** Intimate two-shot in the corridor shadow, soft focus on their faces.
+* **PERFORMANCE AND AUDIO:** Anxious, tender whisper from Ashik; steady, fearless, composed response from Meghla.
+
+#### CLIP 100 — RODELA'S GUT SENSE
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, clutching Meghla's hand); `CHAR_MEGHLA` (32).
+* **SCENE:** Corridor. Friday, 11:33 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Rodela grabs Meghla's arm, her eyes full of dread.
+  * `3–7s`: Rodela warns that the woman seems overly strict.
+  * `7–10s`: Meghla gently reassures her: judging someone before hearing them out is wrong.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * রোদেলা (`CHAR_RODELA`): “আপু, মহিলাকে একটু বেশিই কড়া মনে হচ্ছে!”
+  * মেঘলা (`CHAR_MEGHLA`): “ধৈর্য ধর রোদেলা। কথা না শুনে কাউকে বিচার করা ঠিক না।”
+* **CAMERA:** Close-up on their linked hands, tilting to Meghla's calm gaze.
+* **PERFORMANCE AND AUDIO:** Frantic whisper from Rodela; deeply centered, stoic response from Meghla.
+
+#### CLIP 101 — THE FORMAL PARLEY RESUMES
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, seated centrally); MOHIUDDIN SAHEB (70, adjusting glasses); `CHAR_ALTAF` (64).
+* **SCENE:** Drawing room. Friday, 11:35 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Jahanara Begum sits erect in the center; Mohiuddin clears his throat.
+  * `3–7s`: Mohiuddin notes that the bride and groom found comfort in each other's words.
+  * `7–10s`: Jahanara holds up a hand: comfort is not all; long-term stability is what matters.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * মহিউদ্দীন সাহেব: “ভাবি, ছেলে-মেয়ে তো একে অপরের সাথে কথা বলে স্বস্তি পেয়েছে। এখন কি আমরা শুভ কাজের দিকে এগোতে পারি?”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “স্বস্তি পাওয়াটাই সব নয় মহিউদ্দীন ভাই। বিয়ের পর সংসারের স্থায়িত্বই আসল।”
+* **CAMERA:** Symmetrical master shot of the drawing room council, framing Jahanara as the decision-maker.
+* **PERFORMANCE AND AUDIO:** Jovial, hopeful tone from Mohiuddin; cold, commanding veto from Jahanara.
+
+#### CLIP 102 — WAITING FOR DEMANDS
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, sitting with hands folded); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room. Friday, 11:37 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Altaf Master folds his hands, leaning toward Jahanara with anxiety.
+  * `3–7s`: Altaf asks if they have any demands, promising to do his best.
+  * `7–10s`: Jahanara responds: she has no financial demands; it is a question of family rules.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আপা, আপনাদের কোনো দাবিদাওয়া থাকলে বলুন, আমরা সাধ্যমতো চেষ্টা করব।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “আমার কোনো আর্থিক দাবিদাওয়া নেই মাস্টার সাহেব, কথা হচ্ছে পারিবারিক নিয়মের।”
+* **CAMERA:** High-angle shot looking down at Altaf's pleading hands, cutting to Jahanara's unyielding eyes.
+* **PERFORMANCE AND AUDIO:** Pathetic paternal supplication from Altaf; merciless, pragmatic coldness from Jahanara.
+
+---
+
+### SCENE 12: JAHANARA'S CONDITIONS (Clips 103 – 120)
+
+#### CLIP 103 — AN ONLY SON'S UPBRINGING
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58); `CHAR_ALTAF` (64).
+* **SCENE:** Drawing room. Friday, 11:40 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Jahanara speaks in a calm, controlled voice.
+  * `3–7s`: She notes Ashik is her only child, raised alone with great toil after his father's death.
+  * `7–10s`: Altaf acknowledges her immense sacrifice as shared by Mohiuddin.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “মাস্টার সাহেব, আশিক আমার একমাত্র সম্বল। ওর বাবার মৃত্যুর পর অনেক কষ্টে একা ওকে মানুষ করেছি।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “তা তো বটেই আপা, আপনার ত্যাগের কথা মহিউদ্দীন ভাই বলেছেন।”
+* **CAMERA:** Close-up on Jahanara's calculated, defensive eyes.
+* **PERFORMANCE AND AUDIO:** Controlled, protective maternal pride from Jahanara; humble assent from Altaf.
+
+#### CLIP 104 — ACCUSING MEGHLA'S DEVOTION
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, looking at Meghla at door); `CHAR_RABEYA` (56).
+* **SCENE:** Drawing room. Friday, 11:42 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Jahanara glances toward Meghla standing quietly by the door.
+  * `3–7s`: She acknowledges Meghla is educated, but fears her heavy family liability will create distance in marriage.
+  * `7–10s`: Rabeya protests that Meghla only supports her ailing father and won't neglect her home.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “মেঘলা শিক্ষিতা ও মার্জিত, কোনো সন্দেহ নেই। কিন্তু ওর এই পরিবারের ওপর অতিরিক্ত দায়বদ্ধতা হয়তো নতুন সংসারে দূরত্ব তৈরি করবে।”
+  * মা রাবেয়া (`CHAR_RABEYA`): “আপা! ও তো শুধু বাপের অসুস্থতায় পাশে দাঁড়ায়, সংসারে অবহেলা করবে কেন?”
+* **CAMERA:** Pan from Jahanara's serious expression to Meghla standing motionless at the threshold.
+* **PERFORMANCE AND AUDIO:** Calculating critique from Jahanara; wounded, defensive plea from Rabeya.
+
+#### CLIP 105 — THE FEAR OF BROKEN MARRIAGES
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58); `CHAR_ASHIK` (34, annoyed).
+* **SCENE:** Drawing room. Friday, 11:44 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Jahanara reveals her deep personal scar: watching her brother-in-law's home collapse.
+  * `3–7s`: She recounts how continuous financial drain toward the natal home ended in divorce.
+  * `7–10s`: Ashik protests furiously against equating Meghla's devotion with that broken past.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “আমি নিজের চোখে আমার ভাশুরের সংসার ভেঙে যেতে দেখেছি। বিয়ের পরও বাপের বাড়ির আর্থিক বোঝা টানতে গিয়ে শেষ পর্যন্ত সংসারটা ভেঙেছিল।”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা! অতীতের এক অভিজ্ঞতার সাথে তুমি মেঘলাকে মিলাচ্ছ কেন?”
+* **CAMERA:** Two-shot of mother and son clashing over past trauma versus present reality.
+* **PERFORMANCE AND AUDIO:** Trauma-driven warning from Jahanara; frustrated, sharp protest from Ashik.
+
+#### CLIP 106 — NO COMPROMISE WITH RISK
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, glaring at Ashik); `CHAR_ASHIK` (34).
+* **SCENE:** Drawing room. Friday, 11:46 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Jahanara turns firmly on her son.
+  * `3–7s`: She insists being cautious is no sin; she won't risk his happiness.
+  * `7–10s`: Ashik answers sharply: trapping someone in conditions is not risk management.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “সাবধান হওয়াটা তো দোষের নয় আশিক! আমি তোকে নিয়ে কোনো ঝুঁকি নিতে পারব না।”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “ঝুঁকি না নেওয়ার নামে কাউকে শর্তের বেড়াজালে আটকানো যায় না মা।”
+* **CAMERA:** Tight two-shot: mother and son in direct moral confrontation.
+* **PERFORMANCE AND AUDIO:** Dictatorial maternal fear from Jahanara; passionate, principled refusal from Ashik.
+
+#### CLIP 107 — ZERO FINANCIAL DEMANDS
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, turning to Altaf); `CHAR_ALTAF` (64).
+* **SCENE:** Drawing room. Friday, 11:48 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Jahanara addresses Altaf Master directly.
+  * `3–7s`: She states plainly: she demands no dowry, cash, or gold whatsoever.
+  * `7–10s`: Altaf thanks her with heartfelt gratitude for this perceived generosity.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “আমার পরিষ্কার কথা মাস্টার সাহেব—বিয়েতে কোনো যৌতুক বা সোনাগয়না আমার লাগবে না।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আপা... আপনার এই উদারতার জন্য আমরা কৃতজ্ঞ।”
+* **CAMERA:** Rack focus from Jahanara's cold face to Altaf's relieved eyes.
+* **PERFORMANCE AND AUDIO:** Deceptively generous tone from Jahanara; humble relief from Altaf.
+
+#### CLIP 108 — THE CRUEL CONDITION OF SEVERANCE
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, hardening her voice); `CHAR_ALTAF` (64, face falling).
+* **SCENE:** Drawing room. Friday, 11:50 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Jahanara's voice tightens into an uncompromising ultimatum.
+  * `3–7s`: She states: no money needed, but a rule must be kept—Meghla cannot bear her natal home's burden after marriage.
+  * `7–10s`: Altaf blinks in utter shock, stunned by her words.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “টাকা লাগবে না, কিন্তু একটা নীতি মানতে হবে—বিয়ের পর মেঘলা তার বাবার বাড়ির কোনো দায়িত্ব টানতে পারবে না।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “কী বললেন আপা?”
+* **CAMERA:** Shock close-up on Altaf's falling expression as the trap snaps shut.
+* **PERFORMANCE AND AUDIO:** Sharp, uncompromising ultimatum from Jahanara; horrified, disbelieving whisper from Altaf.
+
+#### CLIP 109 — TOTAL MENTAL AND PHYSICAL DEVOTION
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58); `CHAR_RABEYA` (56, gasping).
+* **SCENE:** Drawing room. Friday, 11:52 AM. Dead silence in the room.
+* **ACTION AND TIMING:**
+  * `0–3s`: Complete stillness falls over the room.
+  * `3–7s`: Jahanara demands full time and emotional attention for her son's home, forbidding natal financial ties.
+  * `7–10s`: Rabeya gasps in despair, crying out against such harshness.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “মেঘলাকে তার সম্পূর্ণ সময় ও মানসিক মনোযোগ আমাদের সংসারেই দিতে হবে। বাপের বাড়ির আর্থিক বা পারিবারিক দায় টানলে সংসার টেকে না।”
+  * মা রাবেয়া (`CHAR_RABEYA`): “আপা... এ কেমন কঠিন কথা!”
+* **CAMERA:** Slow-motion dolly back from Jahanara's face, revealing the horrified family members.
+* **PERFORMANCE AND AUDIO:** Ice-cold, uncompromising decree from Jahanara; devastated, gasping wail from Rabeya.
+
+#### CLIP 110 — ASHIK'S OUTCRY AGAINST INJUSTICE
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, standing up, red-faced with shame); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room. Friday, 11:54 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Ashik jumps to his feet, red with shame and anger.
+  * `3–7s`: Ashik roars: this is gross injustice; how can a girl be asked to disown her birth parents?
+  * `7–10s`: Jahanara argues she is not asking for denial, but protecting the balance of the home.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা! এটা চরম অন্যায়! বিয়ের পর একটা মেয়ে কীভাবে তার জন্মদাতা বাবা-মাকে অস্বীকার করতে পারে?”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “অস্বীকার করার কথা বলছি না আশিক, কিন্তু সংসারের ভারসাম্য রক্ষা করার কথা বলছি।”
+* **CAMERA:** Low-angle violent camera shake as Ashik confronts his mother face-to-face.
+* **PERFORMANCE AND AUDIO:** Furious, heartbroken protest from Ashik; defensive, stubborn justification from Jahanara.
+
+#### CLIP 111 — RODELA'S WEEPING PROTEST
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_RODELA` (26, stepping forward in tears); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room. Friday, 11:56 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Rodela steps forward, tears streaming down her cheeks.
+  * `3–7s`: Rodela cries: Meghla buys father's medicine with her own earned income and wouldn't ask for a single taka.
+  * `7–10s`: Jahanara replies coldly: after marriage, a wife's income and husband's income merge, causing friction.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * রোদেলা (`CHAR_RODELA`): “আপু তো নিজের আয়ে বাবার ওষুধ কেনে, আপনাদের এক টাকাও তো চাইবে না!”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “বিয়ের পর স্ত্রীর আয় আর স্বামীর আয় আলাদা থাকে না রোদেলা, তখন টানাপোড়েন শুরু হয়।”
+* **CAMERA:** Dynamic pan from Rodela's emotional defense to Jahanara's calculated, immovable stance.
+* **PERFORMANCE AND AUDIO:** Tearful, furious defense from Rodela; chilling, transactional reply from Jahanara.
+
+#### CLIP 112 — ALTAF'S AGONIZED SUPPLICATION
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, rising with trembling limbs); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room. Friday, 11:58 AM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Altaf Master stands shaking with grief, folding his hands.
+  * `3–7s`: He begs her not to break the match for him, promising never to seek Meghla's help.
+  * `7–10s`: Jahanara counters: verbal promises mean nothing; the decision belongs to Meghla.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আপা! আমার কারণে মেয়েটার সম্বন্ধ ভাঙবেন না! আমি কথা দিচ্ছি, মেঘলার কাছে আমি কোনোদিন হাত পাতব না!”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “এসব মুখের কথায় হয় না মাস্টার সাহেব, সিদ্ধান্তটা মেঘলাকেই নিতে হবে।”
+* **CAMERA:** High-angle shot looking down at Altaf's pleading hands, cutting to Jahanara's stern eyes.
+* **PERFORMANCE AND AUDIO:** Gut-wrenching, sobbing pleas from Altaf; merciless, unyielding demand from Jahanara.
+
+#### CLIP 113 — PREFERRING DEATH OVER DISASTER
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, weeping); `CHAR_ASHIK` (34, rushing to hold his hands).
+* **SCENE:** Drawing room. Friday, 12:00 PM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Altaf cries that he would rather die than become a thorn in his daughter's path.
+  * `3–7s`: Ashik rushes across the room, holding the elderly father's hands with immense grief.
+  * `7–10s`: Ashik begs Altaf not to speak of death, his own heart breaking.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * বাবা আলতাফ (`CHAR_ALTAF`): “আমি মরে যাব আপা, কিন্তু আমার মেয়ের বিয়ের পথে আমি কাঁটা হতে চাই না।”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “কাকা! দয়া করে এভাবে কথা বলবেন না, আমি হাতজোড় করছি।”
+* **CAMERA:** Low-angle shot on Altaf weeping, embraced under Ashik's protective, desperate hands.
+* **PERFORMANCE AND AUDIO:** Agonized paternal wails from Altaf; panicked, heartbroken plea from Ashik.
+
+#### CLIP 114 — STOPPING THE TORMENT
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, standing before Jahanara); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room. Friday, 12:02 PM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Ashik stands directly in front of his mother, eyes burning with shame.
+  * `3–7s`: Ashik tells her she cannot cause such pain; this is no path to a solution.
+  * `7–10s`: Jahanara answers coldly: she speaks for his welfare; the decision is Meghla's.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মা, তুমি সবাইকে এভাবে কষ্ট দিতে পারো না। এটা কোনো সমাধানের পথ নয়।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “আমি তোর ভালোর জন্যই বলছি আশিক। সিদ্ধান্ত মেঘলার।”
+* **CAMERA:** Split focus between Jahanara's icy command and Ashik's tearful defiance.
+* **PERFORMANCE AND AUDIO:** Broken, indignant plea from Ashik; stubborn, authoritarian reply from Jahanara.
+
+#### CLIP 115 — MEGHLA'S FIRM ENTRANCE
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, stepping into the center, face calm and dignified); MOHIUDDIN SAHEB (70); `CHAR_RABEYA` (56).
+* **SCENE:** Drawing room center. Friday, 12:04 PM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Meghla steps into the center of the room, her presence silencing the storm.
+  * `3–7s`: Mohiuddin urges her to say something and accept for her father's sake.
+  * `7–10s`: Rabeya wails, begging her daughter to say yes to escape this curse.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * মহিউদ্দীন সাহেব: “মেঘলা মা... কিছু একটা বলো মা... বাবার মুখের দিকে তাকিয়ে মেনে নাও!”
+  * মা রাবেয়া (`CHAR_RABEYA`): “হ্যাঁ রে মেঘলা, তুই হ্যাঁ বলে দে মা! আমাদের আর কোনো আশা নেই রে মা!”
+* **CAMERA:** Full-length slow tracking shot following Meghla's majestic, calm steps into the center.
+* **PERFORMANCE AND AUDIO:** Desperate, trembling pleas from the elders; unbroken, centered calm from Meghla.
+
+#### CLIP 116 — RESTORING HER FATHER'S DIGNITY
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, taking Altaf's hands gently); `CHAR_ALTAF` (64).
+* **SCENE:** Drawing room. Friday, 12:06 PM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Meghla takes Altaf's trembling hands firmly into her own.
+  * `3–7s`: She tells him: in front of her, he will never plead before anyone; his honor is above all.
+  * `7–10s`: Altaf clings to her arm, whispering her name in sorrow.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * মেঘলা (`CHAR_MEGHLA`): “বাবা, আমার সামনে দাঁড়িয়ে তুমি আর কাউকে অনুরোধ করবে না। তোমার সম্মান আমার কাছে সবকিছুর চেয়ে বড়।”
+  * বাবা আলতাফ (`CHAR_ALTAF`): “মেঘলা... মা রে...”
+* **CAMERA:** Medium shot capturing the powerful visual of the daughter lifting the broken father's spirit.
+* **PERFORMANCE AND AUDIO:** Steel-hard, crystal-clear, loving authority from Meghla; quivering, broken whisper from Altaf.
+
+#### CLIP 117 — HUSBAND VS FATHER IS A FALSE CHOICE
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, turning to confront Jahanara); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room center. Friday, 12:08 PM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Meghla turns around, standing tall before Jahanara Begum.
+  * `3–7s`: Jahanara asks what decision she reached: husband or natal home?
+  * `7–10s`: Meghla responds with razor clarity: choosing a husband and disowning a father are not the same thing.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “তুমি কী সিদ্ধান্ত নিলে মেঘলা? স্বামীকে বেছে নেবে, নাকি বাপের সংসার?”
+  * মেঘলা (`CHAR_MEGHLA`): “আন্টি, স্বামী বেছে নেওয়া আর বাবাকে অস্বীকার করা এক জিনিস নয়।”
+* **CAMERA:** Intense low-angle two-shot, contrasting Jahanara's stubborn arrogance with Meghla's moral clarity.
+* **PERFORMANCE AND AUDIO:** Stern, taunting question from Jahanara; calm, measured, razor-sharp response from Meghla.
+
+#### CLIP 118 — NO COVERT COMPROMISE
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, stepping forward with pleading eyes); `CHAR_MEGHLA` (32).
+* **SCENE:** Drawing room. Friday, 12:10 PM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Ashik steps between them, pleading with Meghla not to escalate.
+  * `3–7s`: Ashik promises they can talk and find a middle path together.
+  * `7–10s`: Meghla looks at him with sorrow: where the condition begins with erasing a father, no covert path exists.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মেঘলা, প্লিজ... তুমি উত্তেজিত হয়ো না। আমরা দুজন কথা বলে নিশ্চয়ই একটা পথ বের করতে পারব।”
+  * মেঘলা (`CHAR_MEGHLA`): “যেখানে সম্পর্কের শুরুতেই বাবাকে মুছে ফেলার শর্ত থাকে আশিক, সেখানে গোপনে কোনো পথ বের করা যায় না।”
+* **CAMERA:** Close-up on Ashik's anguished face, cutting to Meghla's eyes full of principled sorrow.
+* **PERFORMANCE AND AUDIO:** Pleading, desperate whisper from Ashik; compassionate yet unyielding finality from Meghla.
+
+#### CLIP 119 — NO HAPPINESS AT THE COST OF PARENTS
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, wrapping saree pallu firmly); `CHAR_JAHANARA` (58).
+* **SCENE:** Drawing room. Friday, 12:12 PM.
+* **ACTION AND TIMING:**
+  * `0–3s`: Meghla wraps her saree pallu tightly across her chest, standing firm.
+  * `3–7s`: She declares: her father shed his last drop of blood to educate her; she can never be happy under a condition forbidding her to help him.
+  * `7–10s`: Jahanara asks if she is refusing the proposal.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * মেঘলা (`CHAR_MEGHLA`): “যে বাবা সারা জীবন নিজের শেষ রক্তবিন্দু দিয়ে আমাকে পড়িয়ে শিক্ষিকা বানিয়েছেন, বিয়ের পর তার অসুস্থতায় আমি পাশে দাঁড়াতে পারব না—এমন শর্তে আমি কোনোদিন সুখী হতে পারব না।”
+  * জাহানারা বেগম (`CHAR_JAHANARA`): “তাহলে তুমি এই সম্বন্ধ মেনে নিতে রাজি নও?”
+* **CAMERA:** Slow track-in toward Meghla's face as her voice rings with clear moral strength.
+* **PERFORMANCE AND AUDIO:** Crystal-clear, unshakeable conviction from Meghla; cold, challenging question from Jahanara.
+
+#### CLIP 120 — THE FIRM REFUSAL (PART 2 CLIFFHANGER)
+* **DURATION:** Exactly 10 seconds.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, delivering her final verdict); `CHAR_ASHIK` (34, crying out in shock); `CHAR_JAHANARA` (58, stunned).
+* **SCENE:** Drawing room center. Friday, 12:14 PM.
+* **ACTION AND TIMING:**
+  * `0–2s`: Meghla looks Jahanara straight in the eye with calm, dignified finality.
+  * `2–7s`: She delivers the verdict: a home whose entry price is disowning her father is impossible for her; this wedding will not happen.
+  * `7–10s`: Ashik cries out her name in agony; Jahanara freezes in shock as the screen fades.
+* **DIALOGUE — EXACT BENGALI LINES:**
+  * মেঘলা (`CHAR_MEGHLA`): “না আন্টি। যে সংসারে ঢোকার মূল্য হিসেবে বাবাকে অস্বীকার করতে হয়, সেই সংসারে যাওয়া আমার পক্ষে সম্ভব নয়। এই বিয়ে হবে না।”
+  * আশিক মাহমুদ (`CHAR_ASHIK`): “মেঘলা!!”
+* **CAMERA:** Extreme close-up on Meghla's fearless eyes, cutting to wide shot of the room reeling in shock; freeze-frame on Ashik's cry.
+* **PERFORMANCE AND AUDIO:** Ringing, fearless, thunderous verdict from Meghla; agonized, shattered cry from Ashik.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Freeze-frame at 9.8s. Fade to black with text overlay: "পর্ব ২ সমাপ্ত — পর্ব ৩-তে চোখ রাখুন". No subtitles.
+
+---
+
+### 📊 পর্ব ২ প্রম্পট অডিট সারাংশ
+* **চাকরির মেয়াদ:** ৫ বছর (ক্লিপ ০৯৩–০৯৪)।
+* **রোদেলা:** ২ বছর হলো বিয়ে হয়েছে (ক্লিপ ০৬৫)।
+* **চরিত্রের ভারসাম্য:** জাহানারার ভাশুরের সংসার ভাঙার বাস্তব ভয়, আশিকের সংকট এবং মেঘলার ব্যক্তিত্ব ফুটে উঠেছে।
