@@ -721,9 +721,10 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
   * `3–7s`: Rabeya asks softly whether those solitary years and broken matches still ache in her heart.
   * `7–10s`: Meghla answers serenely: self-respect is far more valuable than mere love or marriage.
 * **DIALOGUE — EXACT BENGALI LINES:**
+    * মা রাবেয়া (`CHAR_RABEYA`): “পুরোনো ভাঙা বিয়ের কথা ভেবে কি এখনো কষ্ট হয়?”
     * মেঘলা (`CHAR_MEGHLA`): “প্রেম বা বিয়ের চেয়েও নিজের আত্মসম্মান অনেক দামি।”
 * **CAMERA:** Intimate two-shot on bed under warm lamplight, shallow depth of field.
-* **PERFORMANCE AND AUDIO:** Gentle maternal warmth; grounded, mature self-awareness from Meghla.
+* **PERFORMANCE AND AUDIO:** Gentle maternal inquiry from Rabeya; grounded, mature self-awareness from Meghla.
 
 #### CLIP 039 — NO LIFELONG REMORSE
 * **DURATION:** Exactly 10 seconds.
@@ -747,7 +748,8 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
   * `3–7s`: She declares: not marrying is no curse; living single with dignity is better than losing oneself.
   * `7–10s`: Rabeya asks in awe how she stays so strong inside.
 * **DIALOGUE — EXACT BENGALI LINES:**
-    * মেঘলা (`CHAR_MEGHLA`): “রাতের আকাশ যতই অন্ধকার হোক, ভোর তো হবেই।”
+    * মেঘলা (`CHAR_MEGHLA`): “নিজেকে হারিয়ে সংসার করার চেয়ে একলা থাকা ভালো মা।”
+    * মা রাবেয়া (`CHAR_RABEYA`): “এতটা মনের জোর তুই কোথা থেকে পাস মা?”
 * **CAMERA:** Silhouette shot of Meghla against the starry night window, turning to her mother.
 * **PERFORMANCE AND AUDIO:** Inspiring, self-respecting declaration from Meghla; awed, tender question from Rabeya.
 
@@ -757,10 +759,11 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
 * **SCENE:** Bedroom window. Friday, 7:13 PM.
 * **ACTION AND TIMING:**
   * `0–3s`: Meghla smiles, gazing at the distant town lights.
-  * `3–7s`: She answers: learned from watching father; standing tall amidst poverty is not for the weak.
+  * `3–7s`: She answers: learned from watching father; standing tall amidst poverty is true shelter.
   * `7–10s`: Rabeya wipes her eyes, telling her she prays for her every night in Tahajjud.
 * **DIALOGUE — EXACT BENGALI LINES:**
-    * মেঘলা (`CHAR_MEGHLA`): “আমার সততাই আমার সবচেয়ে বড় আশ্রয়।”
+    * মেঘলা (`CHAR_MEGHLA`): “বাবার কাছ থেকেই শিখেছি, সততাই সবচেয়ে বড় আশ্রয়।”
+    * মা রাবেয়া (`CHAR_RABEYA`): “তোর জন্য আমি প্রতি রাতে তাহাজ্জুদে দোয়া করি মা।”
 * **CAMERA:** Low-angle shot looking up at Meghla's dignified expression.
 * **PERFORMANCE AND AUDIO:** Proud, affectionate tribute from Meghla; heartfelt devotion from Rabeya.
 
@@ -2385,9 +2388,10 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
 * **ACTION AND TIMING:**
   * `0–3s`: Meghla stands up, resting her hands on the railing, looking into the gathering twilight.
   * `3–7s`: She proclaims that society doesn't feed her; she lives with head held high on her own sweat.
-  * `7–10s`: Altaf worries who will stand by her when he passes away in old age.
+  * `7–10s`: Altaf worries softly who will stand beside her when he passes away in old age.
 * **DIALOGUE — EXACT BENGALI LINES:**
-    * মেঘলা (`CHAR_MEGHLA`): “আশিক ভালো মানুষ ছিল... কিন্তু ওর মা বড় অন্ধ।”
+    * মেঘলা (`CHAR_MEGHLA`): “নিজের পরিশ্রমে চলি বাবা, সমাজের দয়ায় বাঁচতে আসিনি।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “আমি না থাকলে তোর পাশে কে দাঁড়াবে রে মা?”
 * **CAMERA:** Low-angle heroic framing of Meghla silhouetted against the deep blue evening sky.
 * **PERFORMANCE AND AUDIO:** Resolute, independent declaration from Meghla; trembling existential dread from Altaf.
 
@@ -2397,10 +2401,11 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
 * **SCENE:** West veranda. Friday, 5:42 PM.
 * **ACTION AND TIMING:**
   * `0–3s`: Meghla turns back toward her father, a tranquil smile illuminating her face.
-  * `3–7s`: She affirms she is not alone; self-respect is her companion, and a true man will embrace all of her.
-  * `7–10s`: Altaf looks at her in awe, wondering if God will open someone's eyes to see this gem.
+  * `3–7s`: She affirms she is not alone; self-respect is her companion, and a true soul will respect all of her.
+  * `7–10s`: Altaf looks at her in awe, praying someone worthy opens his eyes to see this gem.
 * **DIALOGUE — EXACT BENGALI LINES:**
-    * মেঘলা (`CHAR_MEGHLA`): “বাবার মুখে অন্ন তুলে দেওয়া প্রেমের চেয়ে বড় শান্তি।”
+    * মেঘলা (`CHAR_MEGHLA`): “আত্মসম্মানই আমার সঙ্গী বাবা, সৎ মানুষ ঠিকই চিনে নেবে।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “আল্লাহ যেন তোর মতো খাঁটি মনের সঙ্গী মিলিয়ে দেন।”
 * **CAMERA:** Close-up on Meghla's tranquil face bathed in soft twilight, cutting to Altaf's uplifted eyes.
 * **PERFORMANCE AND AUDIO:** Peaceful, unshakeable faith from Meghla; reverent, hopeful prayer from Altaf.
 
@@ -2411,9 +2416,10 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
 * **ACTION AND TIMING:**
   * `0–3s`: Altaf Master picks up the tea cup, taking a warm, steady sip.
   * `3–7s`: A profound peace settles over his aged face as he proclaims she is worth a hundred sons.
-  * `7–10s`: Meghla's eyes mist over as she whispers that this was the only validation she ever needed.
+  * `7–10s`: Meghla's eyes mist over as she whispers that his blessing was all she ever needed.
 * **DIALOGUE — EXACT BENGALI LINES:**
-    * মেঘলা (`CHAR_MEGHLA`): “আমার লড়াইটা হেরে যাওয়ার নয়, আত্মসম্মান নিয়ে বেঁচে থাকার।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “তোর মতো একটি মেয়ে আমার শত ছেলের চেয়েও বড়!”
+    * মেঘলা (`CHAR_MEGHLA`): “তোমার এই আশীর্বাদই তো আমার সারা জীবনের পাওয়া বাবা।”
 * **CAMERA:** Warm medium two-shot as father and daughter share a quiet moment of absolute spiritual healing.
 * **PERFORMANCE AND AUDIO:** Deep, resonant paternal pride from Altaf; soft, emotionally fulfilled whisper from Meghla.
 
@@ -3375,9 +3381,10 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
 * **ACTION AND TIMING:**
   * `0–3s`: Meghla rolls her umbrella and tucks it under her arm, stepping onto the courtyard path.
   * `3–7s`: She announces she is heading to school to deliver an essential lesson to her students.
-  * `7–10s`: Altaf blesses her: go my child, my prayers are always with you.
+  * `7–10s`: Altaf blesses her warmly: go my child, my prayers are always with you.
 * **DIALOGUE — EXACT BENGALI LINES:**
     * মেঘলা (`CHAR_MEGHLA`): “আমার ছাত্রীরা অপেক্ষা করছে... আজ নতুন পাঠ দেব।”
+    * বাবা আলতাফ (`CHAR_ALTAF`): “যা মা, আমার দোয়া সবসময় তোর সাথে আছে।”
 * **CAMERA:** Medium tracking shot following Meghla's firm, energetic stride toward the gate.
 * **PERFORMANCE AND AUDIO:** Professional, purposeful resolve from Meghla; warm paternal blessing from Altaf.
 
