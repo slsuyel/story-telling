@@ -781,34 +781,36 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
 * **CAMERA:** Medium shot framing the warm paternal check-in in the soft amber lamplight.
 * **PERFORMANCE AND AUDIO:** Tender, affectionate paternal check-in from Altaf; loving, reassuring response from Meghla.
 
-#### CLIP 043 — A WAITING FOR A COMPANION
+#### CLIP 043 — A FATHER'S PRAYER FOR HIS DAUGHTER
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, pausing at doorway to offer blessing); `CHAR_MEGHLA` (32, standing beside desk).
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, pausing at the doorway to offer a heartfelt blessing); `CHAR_MEGHLA` (32, standing beside the desk).
 * **SCENE:** Bedroom. Friday, 7:17 PM.
 * **ACTION AND TIMING:**
-  * `0–3s`: Altaf pauses at the threshold, placing his hand over his heart with a prayer for his daughter.
-  * `3–7s`: Altaf prays aloud that God opens the door of happiness and honor for her.
-  * `7–10s`: Meghla asks for his blessings so she may always walk with her head held high.
+  * `0–3s`: Altaf pauses at the threshold, gently placing his hand over his heart as he looks at his daughter with affection.
+  * `3–7s`: Altaf offers a heartfelt prayer, asking Allah to open the door of happiness and honor for Meghla.
+  * `7–9s`: Meghla looks at her father and quietly asks for his blessing so she can always remain honest.
+  * `9–10s`: The scene gently fades into a black transition card indicating the passage of several days.
 * **DIALOGUE — EXACT BENGALI LINES:**
     * বাবা আলতাফ (`CHAR_ALTAF`): “আল্লাহ তোর কপাল খুলে দিক মা...”
     * মেঘলা (`CHAR_MEGHLA`): “দোয়া কোরো বাবা, যেন সৎ থাকতে পারি।”
-* **CAMERA:** Low-angle shot capturing Altaf's prayerful silhouette in the doorway, cutting to Meghla's tranquil eyes.
-* **PERFORMANCE AND AUDIO:** Deep emotional paternal prayer from Altaf; serene, dignified response from Meghla.
-* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Title card fades in: "কয়েক দিন পর — বৃহস্পতিবার সকাল ১০:০০ মিনিট".
+* **CAMERA:** Low-angle shot capturing Altaf's prayerful silhouette in the doorway, followed by a close-up of Meghla's tranquil eyes. End with a gentle fade to black.
+* **PERFORMANCE AND AUDIO:** Deep, emotional paternal prayer from Altaf; serene and dignified response from Meghla. Soft emotional background score. The transition card appears only after the dialogue finishes.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** At the final second, display the Bengali title card: "কয়েক দিন পর — পরবর্তী বৃহস্পতিবার, সকাল ১০:০০ মিনিট". Do not introduce any new character, location, or dialogue during the transition.
 
 #### CLIP 044 — THE THURSDAY MORNING PROPOSAL
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, holding a formal proposal biodata & photograph); `CHAR_RABEYA` (56, sitting eager beside him).
-* **SCENE:** Living room. Thursday morning, 10:00 AM (a few days later). Sunlight through green shutters.
+* **CHARACTER CONTINUITY:** `CHAR_ALTAF` (64, holding a formal marriage proposal biodata and photograph); `CHAR_RABEYA` (56, sitting eagerly beside him).
+* **SCENE:** Living room. The following Thursday, 10:00 AM — six days after the previous Friday evening. Warm morning sunlight streams through the green shutters.
 * **ACTION AND TIMING:**
-  * `0–3s`: Altaf opens a crisp printed proposal biodata and photograph received from a respected acquaintance.
-  * `3–7s`: Altaf reads aloud excitedly: Ashik Mahmud, 34, IT Project Manager, educated and cultured.
-  * `7–10s`: Rabeya raises hopeful eyes, praying God has finally answered their prayers.
+  * `0–3s`: Altaf opens a neatly printed marriage proposal biodata and photograph received from a respected acquaintance.
+  * `3–7s`: Altaf reads the prospective groom's details aloud: Ashik Mahmud, 34, an IT Project Manager, educated and cultured.
+  * `7–10s`: Rabeya raises her hopeful eyes toward Altaf, silently expressing her relief and praying that Allah has finally answered their prayers.
 * **DIALOGUE — EXACT BENGALI LINES:**
     * বাবা আলতাফ (`CHAR_ALTAF`): “আশিক মাহমুদ, আইটি প্রজেক্ট ম্যানেজার, মার্জিত ও শিক্ষিত ছেলে।”
     * মা রাবেয়া (`CHAR_RABEYA`): “আল্লাহ কি তবে মেঘলার জন্য মনের মতো মানুষ মেলালেন?”
-* **CAMERA:** Close-up of the printed biodata and photo of Ashik, tilting up to Altaf's hopeful glasses.
-* **PERFORMANCE AND AUDIO:** Paper unfolding sound; eager emotional tone from Rabeya. Morning courtyard bird song.
+* **CAMERA:** Begin with a close-up of the printed biodata and photograph of Ashik, then tilt up to Altaf's hopeful expression behind his glasses. Finish on Rabeya's emotional reaction.
+* **PERFORMANCE AND AUDIO:** Altaf speaks with restrained excitement and optimism; Rabeya responds with hopeful emotion. Include the soft sound of paper unfolding and natural morning courtyard birdsong.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Maintain the same living room layout and character appearances established in previous scenes. The proposal must appear as a formal printed biodata with a photograph. No additional characters or unnecessary dialogue.
 
 #### CLIP 045 — SEEKING AN EDUCATED COMPANION
 * **DURATION:** Exactly 10 seconds.
@@ -1936,20 +1938,20 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
 * **CAMERA:** Dynamic two-shot, rapid rack focus between Jahanara's furious grimace and Meghla's marble composure.
 * **PERFORMANCE AND AUDIO:** Shrieking, enraged indignation from Jahanara; low, resonant, biting composure from Meghla.
 
-#### CLIP 122 — MOTHER BEGS ON HER KNEES
+#### CLIP 122 — MOTHER BEGS HER DAUGHTER TO APOLOGIZE
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_RABEYA` (56, rushing to grab Meghla's hands, tears streaming); `CHAR_MEGHLA` (32).
-* **SCENE:** Drawing room. Friday, 12:16 PM.
+* **CHARACTER CONTINUITY:** `CHAR_RABEYA` (56, rushing forward, desperately clutching Meghla's hands, tears streaming down her cheeks); `CHAR_MEGHLA` (32, standing firm, visibly hurt but composed).
+* **SCENE:** Drawing room. Friday, 12:16 PM. The emotional confrontation following Jahanara's humiliating condition.
 * **ACTION AND TIMING:**
-  * `0–3s`: Rabeya rushes across the room, desperately clutching Meghla's hands.
-  * `3–7s`: Rabeya wails, urging her to fall at Jahanara's feet and beg forgiveness.
-  * `7–10s`: Meghla gently pulls her mother up, refusing to grovel before someone who treated her father like a beggar.
+  * `0–3s`: Rabeya rushes across the drawing room and desperately grabs both of Meghla's hands, her face overwhelmed with fear and tears.
+  * `3–7s`: Rabeya pleads hysterically, urging Meghla to fall at Jahanara's feet and beg for forgiveness to save the marriage proposal.
+  * `7–10s`: Meghla gently releases her hands from Rabeya's grip, looking at her mother with deep pain and firmly refusing to beg before someone who insulted her father.
 * **DIALOGUE — EXACT BENGALI LINES:**
     * মা রাবেয়া (`CHAR_RABEYA`): “মেঘলা! পায়ে পড়ে মাফ চা! এমন সর্বনাশা কথা বলিস না!”
     * মেঘলা (`CHAR_MEGHLA`): “কার পায়ে পড়ব মা? বাবাকে যে ভিখারি বানিয়ে অপমান করল?”
-* **CAMERA:** Medium shot tracking Rabeya's desperate intervention, framing Meghla's principled resistance.
-* **PERFORMANCE AND AUDIO:** Hysterical, sobbing maternal panic from Rabeya; deeply pained yet resolute protest from Meghla.
-
+* **CAMERA:** Medium tracking shot following Rabeya's desperate movement toward Meghla. Transition to a tight two-shot capturing their clasped hands, followed by a close-up of Meghla's wounded yet resolute expression.
+* **PERFORMANCE AND AUDIO:** Hysterical, sobbing maternal panic from Rabeya; deeply pained but controlled and resolute protest from Meghla. Natural indoor room acoustics. No overlapping dialogue.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** Rabeya must remain standing throughout the scene. She must not kneel or fall to the floor. Meghla must not pull her mother up. Preserve the emotional tension and drawing-room setting established in the preceding clip.
 #### CLIP 123 — JAHANARA'S PARTING VENOM
 * **DURATION:** Exactly 10 seconds.
 * **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, slinging purse onto shoulder); `CHAR_ALTAF` (64, gasping on sofa).
@@ -2707,17 +2709,17 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
 
 #### CLIP 176 — TEARS ON THE BIO-DATA
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, crying over the photograph).
-* **SCENE:** Dining table. Saturday, 12:05 AM.
+* **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, crying silently over Meghla's photograph).
+* **SCENE:** Dining table. Saturday, exactly 12:00 AM (midnight).
 * **ACTION AND TIMING:**
-  * `0–3s`: A heavy tear drops from Jahanara's cheek, splashing directly onto Meghla's photo.
-  * `3–7s`: Jahanara strokes the wet image, realizing that a daughter who protects her father could never be a stranger.
-  * `7–10s`: The grandfather clock in the hallway chimes midnight with deep metallic tolls.
+  * `0–3s`: A heavy tear falls from Jahanara's cheek, landing directly on Meghla's photograph.
+  * `3–7s`: Jahanara gently strokes the wet photograph, realizing that a daughter who stands up to protect her father could never truly be a stranger.
+  * `7–10s`: The grandfather clock in the hallway strikes midnight with deep, resonant metallic chimes, emphasizing the emotional silence.
 * **DIALOGUE — EXACT BENGALI LINES:**
     * জাহানারা বেগম (`CHAR_JAHANARA`): “যে মেয়ে বাবার জন্য লড়ে, সে পর হতে পারে না।”
-* **CAMERA:** Extreme close-up of the tear droplet magnifying Meghla's printed face, tilting to Jahanara's weeping eyes.
-* **PERFORMANCE AND AUDIO:** Choked maternal apology from Jahanara. Metallic tolls of midnight clock chime.
-
+* **CAMERA:** Extreme close-up of the falling tear magnifying Meghla's printed face, slowly tilting upward to Jahanara's tear-filled eyes.
+* **PERFORMANCE AND AUDIO:** Choked, heartfelt maternal apology from Jahanara. Deep metallic midnight clock chimes blend with the quiet emotional background score. Preserve the natural silence between her words and the clock chimes.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** The grandfather clock must strike midnight, not 12:05 AM. Maintain the same photograph and dining-table setting throughout the clip. No additional characters or dialogue.
 #### CLIP 177 — THE GATHERING STORM OUTSIDE
 * **DURATION:** Exactly 10 seconds.
 * **CHARACTER CONTINUITY:** `CHAR_JAHANARA` (58, standing on her apartment balcony in the night wind).
@@ -2802,20 +2804,33 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
 
 ### SCENE 18: RAINY MORNING & UNBROKEN SPIRIT (Clips 181 – 188)
 
-#### CLIP 181 — PREPARING FOR SCHOOL IN THE RAIN (TIME TRANSITION)
-* **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, pastel green cotton saree, black umbrella in hand, leather file); `CHAR_ALTAF` (64, wrapped in cotton shawl).
-* **SCENE:** West veranda of Altaf Master's village house. Saturday, 8:38 AM (two and a half hours after Dhaka departure; rain continues steadily).
-* **ACTION AND TIMING:**
-  * `0–3s`: Rain cascades from tin eaves; while Ashik's car nears the village, Meghla fastens her umbrella clasp.
-  * `3–7s`: Altaf asks if she really must go to school in such heavy downpour.
-  * `7–10s`: Meghla smiles serenely, stating that her duty calls and her students await her.
-* **DIALOGUE — EXACT BENGALI LINES:**
-    * বাবা আলতাফ (`CHAR_ALTAF`): “এত বৃষ্টির মধ্যে আজ স্কুলে না গেলে হতো না?”
-    * মেঘলা (`CHAR_MEGHLA`): “না বাবা, ছাত্রীরা আমার জন্য অপেক্ষা করছে।”
-* **CAMERA:** Medium shot capturing the grey rain curtain framing Meghla's calm, dignified figure.
-* **PERFORMANCE AND AUDIO:** Tender, anxious paternal query from Altaf; peaceful, professional dedication from Meghla. Steady rainfall on tin roof.
+CLIP 181 — PREPARING FOR SCHOOL IN THE RAIN (TIME TRANSITION)
 
+DURATION: Exactly 10 seconds.
+
+CHARACTER CONTINUITY: CHAR_MEGHLA (32, wearing a pastel green cotton saree, holding a closed black umbrella and leather file); CHAR_ALTAF (64, wrapped in a cotton shawl).
+
+SCENE: West veranda of Altaf Master's village house. Saturday, 8:38 AM. Rain continues steadily. Ashik's car is approaching the village but has not yet arrived at the house.
+
+ACTION AND TIMING:
+
+0–3s: Rain cascades from the tin eaves. Meghla checks her leather file and secures the clasp of her black umbrella while the distant sound of an approaching car is faintly audible.
+
+3–7s: Altaf looks at the heavy rain and asks whether she really needs to go to school in such a downpour.
+
+7–10s: Meghla smiles serenely, explaining that her duty calls and her students are waiting for her.
+
+DIALOGUE — EXACT BENGALI LINES:
+
+বাবা আলতাফ (CHAR_ALTAF): “এত বৃষ্টির মধ্যে আজ স্কুলে না গেলে হতো না?”
+
+মেঘলা (CHAR_MEGHLA): “না বাবা, ছাত্রীরা আমার জন্য অপেক্ষা করছে।”
+
+CAMERA: Medium shot capturing the grey rain curtain framing Meghla's calm, dignified figure. Briefly show the rain-covered village road in the distance.
+
+PERFORMANCE AND AUDIO: Tender, anxious paternal query from Altaf; peaceful, professional dedication from Meghla. Steady rainfall on the tin roof and faint distant vehicle ambience.
+
+CONTINUITY AND NEGATIVE CONSTRAINTS: Ashik's car must not appear at the house or arrive during this clip. Maintain the same rainy Saturday morning atmosphere.
 #### CLIP 182 — FACING THE WORLD WITH PRIDE
 * **DURATION:** Exactly 10 seconds.
 * **CHARACTER CONTINUITY:** `CHAR_RABEYA` (56, handing tiffin box with swollen, tear-stained eyes); `CHAR_MEGHLA` (32).
@@ -2874,18 +2889,18 @@ PART B: সম্পূর্ণ ২৪০টি ১০-সেকেন্ডে
 
 #### CLIP 186 — THE ARRIVAL OF THE BLACK SEDAN AT 8:45 AM
 * **DURATION:** Exactly 10 seconds.
-* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, stopping at gate); `CHAR_RABEYA` (56, peering from veranda); BLACK SEDAN (stopping outside gate).
-* **SCENE:** Veranda to front gate. Saturday, 8:45 AM. Rain drumming on car hood and tin eaves.
+* **CHARACTER CONTINUITY:** `CHAR_MEGHLA` (32, wearing the same pastel green cotton saree, holding an open black umbrella, leather file and steel tiffin box); `CHAR_RABEYA` (56, standing on the veranda); BLACK SEDAN (sleek black car, stopping outside the bamboo gate).
+* **SCENE:** Veranda to front gate of Altaf Master's village house. Saturday, 8:45 AM. Heavy rain continues, drumming against the car hood and tin eaves.
 * **ACTION AND TIMING:**
-  * `0–3s`: Close-up of the wooden wall clock on the veranda showing exactly 8:45 AM; a soft car horn beeps outside.
-  * `3–7s`: The sleek black sedan splashes to a halt right by the gate; Rabeya calls out in surprise.
-  * `7–10s`: Meghla halts under her umbrella, gazing at the car in wonder.
+  * `0–3s`: Close-up of the wooden wall clock on the veranda showing exactly 8:45 AM. A soft car horn sounds from outside the gate. Meghla and Rabeya react to the unexpected sound.
+  * `3–7s`: The sleek black sedan drives through the rain and comes to a halt just outside the bamboo gate, splashing water from the puddles. Rabeya turns toward the road in surprise.
+  * `7–10s`: Meghla stops beneath her open black umbrella, looking toward the unfamiliar car with quiet curiosity. Rabeya peers anxiously from the veranda.
 * **DIALOGUE — EXACT BENGALI LINES:**
     * মেঘলা (`CHAR_MEGHLA`): “বাবা, উঠোনে একটা গাড়ি এসে দাঁড়াল...”
     * মা রাবেয়া (`CHAR_RABEYA`): “এই সকালবেলা গেটে কার গাড়ি থামল?”
-* **CAMERA:** Rack focus from the veranda wall clock reading 8:45 AM down to the tires splashing puddles at the gate.
-* **PERFORMANCE AND AUDIO:** Clock ticking; alarmed maternal inquiry; puzzled, guarded response from Meghla. Car idling.
-
+* **CAMERA:** Rack focus from the veranda wall clock reading exactly 8:45 AM to the black sedan's tires splashing through puddles outside the bamboo gate. Finish with a medium shot of Meghla beneath her umbrella and Rabeya on the veranda.
+* **PERFORMANCE AND AUDIO:** Audible clock ticking, a soft car horn, heavy rainfall, tires splashing through puddles and the engine idling. Meghla speaks with puzzled curiosity; Rabeya responds with an alarmed, surprised maternal inquiry.
+* **CONTINUITY AND NEGATIVE CONSTRAINTS:** The car must stop outside the bamboo gate, not inside the courtyard. Preserve the same black sedan throughout subsequent scenes. Meghla must retain her pastel green saree, leather file and steel tiffin box. No additional characters should appear.
 #### CLIP 187 — ASHIK STEPS OUT IN THE RAIN
 * **DURATION:** Exactly 10 seconds.
 * **CHARACTER CONTINUITY:** `CHAR_ASHIK` (34, holding large black umbrella, stepping out in grey shirt and trousers); `CHAR_ALTAF` (64, shocked on veranda); `CHAR_RABEYA` (56).
