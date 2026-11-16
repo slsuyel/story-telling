@@ -1,4 +1,4 @@
-﻿$utf8 = [System.Text.UTF8Encoding]::new($false)
+$utf8 = [System.Text.UTF8Encoding]::new($false)
 
 $jsonPath = "scratch\dialogues.json"
 $jsonRaw = [System.IO.File]::ReadAllText($jsonPath, $utf8)

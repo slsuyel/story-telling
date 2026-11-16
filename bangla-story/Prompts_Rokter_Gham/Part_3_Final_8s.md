@@ -612,8 +612,7 @@
   * `2–5s`: Rakib walks straight past the baggage carousel without stopping, carrying only his single backpack.
   * `5–8s`: He passes the green customs channel with a brief nod to the customs officer.
 * **DIALOGUE — EXACT BENGALI LINES:**
-  * কাস্টমস অফিসার: “আপনার কোনো বড় লাগেজ নাই?”
-  * রাকিব (`CHAR_RAKIB`): “না স্যার, সব নিয়ে আসছি শরীরে।”
+  * রাকিব (`CHAR_RAKIB`): “না স্যার, কোনো লাগেজ নাই... সব নিয়ে আসছি শরীরে।”
 * **CAMERA:** Wide panning shot capturing the chaotic, packed baggage area while Rakib slices through the crowd like a ghost.
 * **PERFORMANCE AND AUDIO:** Mechanical rumble of moving conveyor belts, crowd shouts, rapid stride of boots on floor tiles.
 

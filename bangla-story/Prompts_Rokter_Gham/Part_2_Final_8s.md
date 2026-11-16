@@ -657,7 +657,6 @@
   * `2–5s`: An automated robotic network operator voice announces: *"The number you have dialed is currently switched off."*
   * `5–8s`: Rakib lowers the phone, slightly puzzled but suspecting a power cut in town.
 * **DIALOGUE — EXACT BENGALI LINES:**
-    * অপারেটর ভয়েস: “আপনার ডায়ালকৃত নম্বরটি এই মুহূর্তে বন্ধ রয়েছে...”
     * রাকিব (`CHAR_RAKIB`): “ফোন বন্ধ? হয়তো শহরে লোডশেডিং হয়েছে, কাল সকালে ধরবে।”
 * **CAMERA:** Close-up on Rakib's furrowing brow as the automated operator voice repeats.
 * **PERFORMANCE AND AUDIO:** Tinny recorded operator voice (`বাংলা ও ইংরেজি`), Rakib's innocent dismissal.
